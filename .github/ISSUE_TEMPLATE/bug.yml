@@ -1,0 +1,53 @@
+name: Bug report
+description: Something in the app does not work as expected. / Algo en la app no funciona como debería.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time. Please describe the problem with made-up details: never paste a real school message or real personal data.
+        Gracias por avisar. Describe el problema con datos inventados: nunca pegues un mensaje real del cole ni datos personales reales.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What you expected and what the app did instead. / Qué esperabas y qué hizo la app.
+      placeholder: "Example: after confirming a trip suggestion, it appeared on the wrong day."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: One step per line, with made-up data. / Un paso por línea, con datos inventados.
+      placeholder: |
+        1. Paste a message like "Trip to the forest on Friday, bring a snack".
+        2. Confirm the suggestion.
+        3. Open Week.
+    validations:
+      required: true
+  - type: input
+    id: app-version
+    attributes:
+      label: App version
+      description: In Settings, at the bottom. / En Ajustes, al final.
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and system
+      description: Phone model and Android or iOS version. / Modelo de móvil y versión de Android o iOS.
+      placeholder: "Pixel 8, Android 16"
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy
+      description: Please confirm before sending. / Confírmalo antes de enviar.
+      options:
+        - label: I have not pasted real school messages or personal data (children's names, phones, e-mails). / No he pegado mensajes reales del cole ni datos personales (nombres de niños, teléfonos, correos).
+          required: true

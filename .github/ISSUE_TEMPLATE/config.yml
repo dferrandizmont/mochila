@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Write to us / Escríbenos
+    url: mailto:hola@lamochila.app
+    about: Questions or anything that does not fit an issue. / Preguntas o cualquier cosa que no encaje en una incidencia.
+  - name: Security or privacy issue / Problema de seguridad o privacidad
+    url: mailto:privacidad@lamochila.app
+    about: Please report these privately, never in a public issue. / Comunícalo en privado, nunca en una incidencia pública.

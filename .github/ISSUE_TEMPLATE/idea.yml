@@ -1,0 +1,53 @@
+name: Idea or suggestion
+description: Something you would like Mochila to do, or to do differently. / Algo que te gustaría que Mochila hiciera, o hiciera de otra forma.
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the idea. Please describe it with made-up details: never paste a real school message or real personal data.
+        Gracias por la idea. Descríbela con datos inventados: nunca pegues un mensaje real del cole ni datos personales reales.
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: What you would like and the situation where it would help you. / Qué te gustaría y en qué situación te ayudaría.
+      placeholder: "Example: when a notice mentions two children, let me assign each item to a different child."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How it works today
+      description: What you do now, step by step, if it applies. / Qué haces ahora, paso a paso, si procede.
+      placeholder: |
+        1. Paste the message.
+        2. Confirm the items for one child.
+        3. Edit each one to move it to the other child.
+    validations:
+      required: false
+  - type: input
+    id: app-version
+    attributes:
+      label: App version
+      description: In Settings, at the bottom. / En Ajustes, al final.
+      placeholder: "1.0.0"
+    validations:
+      required: false
+  - type: input
+    id: device
+    attributes:
+      label: Device and system
+      description: Phone model and Android or iOS version. / Modelo de móvil y versión de Android o iOS.
+      placeholder: "Pixel 8, Android 16"
+    validations:
+      required: false
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy
+      description: Please confirm before sending. / Confírmalo antes de enviar.
+      options:
+        - label: I have not pasted real school messages or personal data (children's names, phones, e-mails). / No he pegado mensajes reales del cole ni datos personales (nombres de niños, teléfonos, correos).
+          required: true
