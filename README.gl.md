@@ -22,7 +22,7 @@ conta gratuíta de Google ou Apple, podes convidar o outro adulto para compartir
 a axenda, chegar a 20 análises ao día e 200 ao mes por familia, e non perdes o
 acceso se cambias de teléfono.
 
-## Consíguea
+## Conségueа
 
 Mochila chegará proximamente a Google Play. Mentres tanto, a web ten unha demo
 con tres avisos de exemplo: [lamochila.app](https://lamochila.app/gl/). Na App

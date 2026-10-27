@@ -59,7 +59,7 @@ datuekin.
   erakusten du, aplikazioa ireki gabe.
 - Mochilak data, ordua, seme-alaba eta eraman, ordaindu edo sinatu beharrekoa
   **proposatzen** dizkizu; zuk gauza bakoitza berretsi, aldatu edo baztertzen
-  duzu. Nahi baduzu, mugikorreko egutegian ere geratzen da.
+  duzu. Nahi baduzu, mugikorreko egutegian ere sartzen da.
 - **Familian**: beste heldua kode baten bidez gonbidatzen duzu, eta gauza bera
   ikusten duzue: datak, zereginak, motxila eta nork jasoko duen. Seme-alaba
   bakoitzak bere kolorea du.
