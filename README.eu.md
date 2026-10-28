@@ -13,7 +13,7 @@ kanpoko jarduerak eta ordainketak ateratzen ditu, gauza bakoitza bere egunean,
 eta zuk dena berrikusten duzu agendan sartu aurretik. Mochila ez da zure
 WhatsApp taldeetan sartzen: zuk kopiatzen duzuna bakarrik irakurtzen du.
 
-Berrikuntza berri bertsio bakoitzeko (ingeleraz): [CHANGELOG.md](CHANGELOG.md).
+Bertsio bakoitzeko berrikuntzak (ingelesez): [CHANGELOG.md](CHANGELOG.md).
 
 ## Doan hasierako aldi honetan
 
