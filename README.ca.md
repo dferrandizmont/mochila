@@ -13,6 +13,8 @@ portar, qui recull, les extraescolars i els pagaments, cada cosa al seu dia, i
 tu ho revises tot abans que entri a l’agenda. Mochila no entra als teus grups
 de WhatsApp: només llegeix el que tu copies.
 
+Novetats de cada versió (en anglès): [CHANGELOG.md](CHANGELOG.md).
+
 ## Gratuïta durant el llançament
 
 Durant el llançament, Mochila és gratuïta i no té anuncis. Pots començar sense

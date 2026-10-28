@@ -13,6 +13,8 @@ the activities and the payments, each on its own day, and you review everything
 before it is added. The app never goes into your WhatsApp groups: it only reads
 what you copy.
 
+What's new in each version (in English): [CHANGELOG.md](CHANGELOG.md).
+
 ## Free during the launch
 
 During the launch, Mochila is free and shows no ads. You can start without

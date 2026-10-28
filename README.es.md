@@ -13,6 +13,8 @@ quién recoge, las extraescolares y los pagos, cada cosa en su día, y tú lo
 revisas todo antes de que entre en la agenda. Mochila no entra en tus grupos de
 WhatsApp: solo lee lo que tú copias.
 
+Novedades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
+
 ## Gratis durante el lanzamiento
 
 Durante el lanzamiento, Mochila es gratis y no tiene anuncios. Puedes empezar

@@ -13,6 +13,8 @@ as extraescolares e os pagamentos, cada cousa no seu día, e ti revísalo todo
 antes de que entre na axenda. Mochila non entra nos teus grupos de WhatsApp: só
 le o que ti copias.
 
+Novidades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
+
 ## De balde durante o lanzamento
 
 Durante o lanzamento, Mochila é gratuíta e non ten anuncios. Podes comezar sen
