@@ -1,0 +1,39 @@
+# Fails if the owner's personal e-mail appears in an author, committer, commit
+# message or file. Same check as the local hooks (.githooks/check-identity.sh).
+name: Identity
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Fetch the history
+        env:
+          REPO: ${{ github.repository }}
+          REF: ${{ github.ref }}
+        run: |
+          git init -q repo
+          cd repo
+          git fetch -q --no-tags "https://github.com/$REPO" "+$REF:refs/ci/head"
+          git checkout -q refs/ci/head
+      - name: Check every commit and file
+        working-directory: repo
+        env:
+          REPO: ${{ github.repository }}
+          EVENT: ${{ github.event_name }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          if [ "$EVENT" = pull_request ]; then
+            git fetch -q --no-tags "https://github.com/$REPO" "$BASE_SHA"
+            sh .githooks/check-identity.sh ci "$HEAD_SHA" --not "$BASE_SHA"
+          else
+            sh .githooks/check-identity.sh ci HEAD
+          fi

@@ -1,0 +1,3 @@
+#!/bin/sh
+# Refuses a commit message that contains the personal e-mail.
+exec sh "$(git rev-parse --show-toplevel)/.githooks/check-identity.sh" msg "$1"
