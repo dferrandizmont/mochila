@@ -13,14 +13,24 @@ Mochila converte os avisos do colexio na axenda da familia. Copia a mensaxe do g
 ## Descargas
 
 <p>
+  <a href="https://play.google.com/apps/testing/es.lamochila.app"><img src="https://img.shields.io/badge/Google_Play-Beta-414141?logo=googleplay&amp;style=for-the-badge" alt="Beta en Google Play"></a>
   <a href="https://lamochila.app/gl/"><img src="https://img.shields.io/badge/Web-lamochila.app-2F5D50?style=for-the-badge" alt="Web: lamochila.app"></a>
   <!--
-  <a href="[LIGAZON_GOOGLE_PLAY]"><img src="https://img.shields.io/badge/Google_Play-Descargar-414141?logo=googleplay&amp;style=for-the-badge" alt="Dispoñible en Google Play"></a>
   <a href="[LIGAZON_APP_STORE]"><img src="https://img.shields.io/badge/App_Store-Descargar-0D96F6?logo=appstore&amp;style=for-the-badge" alt="Dispoñible na App Store"></a>
   -->
 </p>
 
-Mochila chegará proximamente a Google Play. Mentres tanto, a web ten unha demo con tres avisos de exemplo: [lamochila.app](https://lamochila.app/gl/). Na App Store, máis adiante.
+Android: proba pechada en Google Play, aberta a quen se una ao grupo de probadores. iPhone: proximamente. Na web tamén hai unha demo con tres avisos de exemplo: [lamochila.app](https://lamochila.app/gl/).
+
+<details>
+<summary>Únete á beta de Google Play</summary>
+
+Fai os dous pasos coa conta de Google que usas no móbil Android.
+
+1. Únete ao grupo de Google [mochila-testers](https://groups.google.com/g/mochila-testers).
+2. Abre a [páxina da proba en Google Play](https://play.google.com/apps/testing/es.lamochila.app), apúntate como probador e instala Mochila desde Google Play.
+
+</details>
 
 <details>
 <summary>De balde durante o lanzamento</summary>

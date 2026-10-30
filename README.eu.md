@@ -13,14 +13,24 @@ Mochilak eskolako oharrak familiaren agenda bihurtzen ditu. Kopiatu gelako talde
 ## Deskargak
 
 <p>
+  <a href="https://play.google.com/apps/testing/es.lamochila.app"><img src="https://img.shields.io/badge/Google_Play-Beta-414141?logo=googleplay&amp;style=for-the-badge" alt="Beta Google Play-n"></a>
   <a href="https://lamochila.app/eu/"><img src="https://img.shields.io/badge/Webgunea-lamochila.app-2F5D50?style=for-the-badge" alt="Webgunea: lamochila.app"></a>
   <!--
-  <a href="[GOOGLE_PLAY_ESTEKA]"><img src="https://img.shields.io/badge/Google_Play-Deskargatu-414141?logo=googleplay&amp;style=for-the-badge" alt="Google Play-n eskuragarri"></a>
   <a href="[APP_STORE_ESTEKA]"><img src="https://img.shields.io/badge/App_Store-Deskargatu-0D96F6?logo=appstore&amp;style=for-the-badge" alt="App Store-n eskuragarri"></a>
   -->
 </p>
 
-Mochila laster iritsiko da Google Play-ra. Bitartean, webguneak demo bat du, asmatutako hiru oharrekin: [lamochila.app](https://lamochila.app/eu/). App Store-n, geroago.
+Android: proba itxia Google Play-n, probatzaileen taldean sartzen den edonorentzat. iPhone: laster. Webgunean demo bat ere badago, asmatutako hiru oharrekin: [lamochila.app](https://lamochila.app/eu/).
+
+<details>
+<summary>Sartu Google Play-ko betan</summary>
+
+Egin bi urratsak Android mugikorrean erabiltzen duzun Google kontuarekin.
+
+1. Sartu [mochila-testers](https://groups.google.com/g/mochila-testers) Google taldean.
+2. Ireki [probaren orria Google Play-n](https://play.google.com/apps/testing/es.lamochila.app), eman izena probatzaile gisa eta instalatu Mochila Google Play-tik.
+
+</details>
 
 <details>
 <summary>Doan hasierako aldi honetan</summary>
