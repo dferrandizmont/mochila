@@ -15,6 +15,36 @@ Settings.
 
 Nothing yet.
 
+## v0.1.3 (0.1.3+49) · 2026-10-29
+
+- The app identifier is now `es.lamochila.app` on Android and iOS (it was `app.mochila.mochila`), set before the first store upload. Earlier test builds install as a separate app: sign in again in the new one and uninstall the old one.
+- The web app moves to web.lamochila.app (it was app.lamochila.app, which now takes you there).
+- Web app on a computer: Today, the week and Import are now separate panels with room above, below and between them, and use more of a wide screen.
+- Settings › Calendar: after choosing «Create a “Mochila” calendar» the row shows «Creating the calendar…» with a spinner straight away, also while coming back from Google, instead of looking as if nothing happened.
+- With «Show details on the lock screen» off, the evening reminder for who takes and picks up now says whose turn is yours («Tomorrow you do the school drop-off», «… the pick-up» or both) instead of always «You have a pick-up reminder».
+
+## v0.1.2 (0.1.2+48) · 2026-10-29
+
+- Long screen titles in the top bar (for example «Configurar el colegio», «Editatu seme-alaba» or «Com importar un xat de WhatsApp») now wrap onto a second line instead of ending with «…», in every language.
+- School search (first-time setup and «New school»): with the keyboard open the suggestions now have room: the field moves to the top and the «Continue» button steps aside while they are shown.
+- Larger text sizes: the «Today | Tomorrow» switch, the «Skip» button in the first-time setup, the legend of the month calendar, the widget preview and the school-setup checklist no longer get cut or squeezed, long confirmation dialogs scroll, and long placeholders in text fields and the region buttons wrap instead of ending with «…».
+- After deleting your account the app now shows the welcome screen with its «account deleted» note instead of silently starting a guest session.
+- Confirming the account deletion with a different Google account now says so («you chose another account») instead of a generic connection message.
+- Setting up the school during the first-time setup no longer lists or links children who do not go to school yet; the line is hidden when none of them goes.
+- The colour preselected for the next child skips the colour the app uses for itself and the ones already taken, in the first-time setup and in «Add child».
+- The Android Back button inside the first-time setup now goes to the previous step instead of closing the app.
+- A child you just marked as «Not at school yet» no longer triggers the «starting school this year?» card until the next school year.
+- While the school search is loading it shows a «Searching…» row; the «Can't find it» row only appears once the search has finished, below the results.
+- The test notification now has its own text, also on the lock screen, instead of «You have things planned for tomorrow».
+- Signing in after a failed start without an account no longer leaves you on «We couldn't reach the server».
+- Fixed a rare crash when the family refresh was still running as you signed out or the app closed.
+
+## v0.1.1 (0.1.1+47) · 2026-10-28
+
+- Events are no longer duplicated in the phone calendar; existing duplicates are removed on the next sync.
+- Signing in only shows the spinner on the button you tapped.
+- iOS: the app icon no longer shows a transparent edge.
+
 ## v0.1.0-e2.6.9 (0.1.0+46) · 2026-10-27
 
 - Only the "El parte" design is left; the old "Classic" look is gone.
