@@ -32,23 +32,43 @@ Hasierako aldi honetan, Mochila doakoa da eta ez du iragarkirik. Kontu bat sortu
 ## Pantaila-argazkiak
 
 <p>
-  <a href="docs/readme/eu/01-today.png"><img src="docs/readme/eu/01-today.png" width="24%" alt="Gaur: seme-alaba bakoitzak zer daraman, zer duen eskolan eta zeren epea amaitzen den"></a>
-  <a href="docs/readme/eu/02-week.png"><img src="docs/readme/eu/02-week.png" width="24%" alt="Astea: datorren guztia, egunez egun"></a>
-  <a href="docs/readme/eu/03-import.png"><img src="docs/readme/eu/03-import.png" width="24%" alt="Inportatu: mezu baten proposamenak, berresteko, aldatzeko edo baztertzeko prest"></a>
-  <a href="docs/readme/eu/04-school-menu.png"><img src="docs/readme/eu/04-school-menu.png" width="24%" alt="Jantokiko menua, PDF batetik irakurrita eta berrikusita"></a>
+  <a href="docs/readme/eu/01-today.png"><img src="docs/readme/eu/01-today.png" width="19%" alt="Gaur: seme-alaba bakoitzak zer daraman, zer duen eskolan eta zeren epea amaitzen den"></a>
+  <a href="docs/readme/eu/02-week.png"><img src="docs/readme/eu/02-week.png" width="19%" alt="Astea: datorren guztia, egunez egun"></a>
+  <a href="docs/readme/eu/03-import.png"><img src="docs/readme/eu/03-import.png" width="19%" alt="Inportatu: mezu batetik ateratako proposamenak, berresteko, aldatzeko edo baztertzeko prest"></a>
+  <a href="docs/readme/eu/04-school-menu.png"><img src="docs/readme/eu/04-school-menu.png" width="19%" alt="Jantokiko menua, PDF batetik irakurrita eta berrikusita"></a>
+  <a href="docs/readme/eu/05-family.png"><img src="docs/readme/eu/05-family.png" width="19%" alt="Familia: ikastetxea, ordutegiekin, jantokiko menuarekin eta egutegiarekin"></a>
 </p>
+
+<details>
+<summary>Pantaila-argazki gehiago</summary>
+
+<p>
+  <a href="docs/readme/eu/06-privacy.png"><img src="docs/readme/eu/06-privacy.png" width="19%" alt="Pribatutasuna eta AA: zer ateratzen den mugikorretik eta zer ez"></a>
+  <a href="docs/readme/eu/07-dark.png"><img src="docs/readme/eu/07-dark.png" width="19%" alt="Gaur modu ilunean"></a>
+</p>
+
+</details>
 
 Sakatu pantaila-argazki bat handitzeko. Benetako pantailak dira, asmatutako datuekin.
 
 ## Funtzioak
 
-- **Gaur**: seme-alaba bakoitzak zer daraman, zer duen eskolan eta zeren epea amaitzen den egun horretan. Arratsaldean hurrengo eguna erakusten du jada, eta gauero laburpen batek gogorarazten dizu biharko zer dagoen: zer eraman, zer ordaindu eta zer sinatu.
-- **Hasierako pantailako widget** batek gaur eta bihar zer eraman behar den erakusten du, aplikazioa ireki gabe.
-- Mochilak data, ordua, seme-alaba eta eraman, ordaindu edo sinatu beharrekoa **proposatzen** dizkizu; zuk gauza bakoitza berretsi, aldatu edo baztertzen duzu. Nahi baduzu, mugikorreko egutegian ere sartzen da.
-- **Familian**: beste heldua kode baten bidez gonbidatzen duzu, eta gauza bera ikusten duzue: datak, zereginak, motxila eta nork jasoko duen. Seme-alaba bakoitzak bere kolorea du.
-- Zure erkidegoko **eskola-egutegi ofiziala** eta zure udalerriko jaiegun lokalak jarrita daude, eta ikastetxeak erabakitako egunak gehi ditzakezu.
-- Seme-alaba bakoitzaren **ordutegia eta jantokiko menua**, eskolaz kanpoko jarduerak eta eskolako ordainketak seme-alabaka eta hiruhilekoka, CSVra esportatzeko aukerarekin.
-- **Bost hizkuntza**: català, español, English, euskara eta galego. Modu argia eta iluna, eta bost kolore-gama.
+- **Gaur, begirada batean.** Seme-alaba bakoitzak zer daraman, zer duen eskolan eta zeren epea amaitzen den; arratsaldean hurrengo eguna erakusten du jada.
+- **Zuk erabakitzen duzu.** Mochilak data, ordua, seme-alaba eta eraman, ordaindu edo sinatu beharrekoa proposatzen ditu, eta zuk gauza bakoitza berretsi, aldatu edo baztertzen duzu.
+- **Beste helduarekin partekatua.** Kode baten bidez gonbidatzen duzu, eta gauza bera ikusten duzue: datak, zereginak, motxila eta nork jasoko duen.
+- **Eskola-egutegia barne.** Zure erkidegoko eskola-egutegi ofiziala eta zure udalerriko jaiegunak jarrita daude, eta ikastetxeak erabakitako egun libreak gehi ditzakezu.
+- **Ordutegia eta jantokiko menua.** Seme-alaba bakoitzaren ordutegia eta jantokiko menua, argazki edo PDF batetik irakurrita.
+- **Gaueko laburpena.** Gauero gogorarazten dizu hurrengo egunean zer eraman, ordaindu eta sinatu behar den.
+
+<details>
+<summary>Funtzio gehiago</summary>
+
+- **Hasierako pantailako widgeta.** Gaur eta bihar zer eraman behar den, aplikazioa ireki gabe.
+- **Zure egutegia.** Berresten duzuna mugikorreko egutegian sar daiteke.
+- **Jarduerak eta ordainketak.** Eskolaz kanpoko jarduerak eta eskolako ordainketak seme-alabaka eta hiruhilekoka, CSVra esportatzeko aukerarekin.
+- **Bost hizkuntza.** Català, español, English, euskara eta galego, modu argiarekin eta ilunarekin, bost kolore-gamarekin eta seme-alaba bakoitzarentzako kolore batekin.
+
+</details>
 
 ## Pribatutasuna
 
@@ -56,17 +76,17 @@ Argazkiak eta PDFak telefonoan irakurtzen dira, eta testua bakarrik bidaltzen da
 
 [Pribatutasun-politika](https://lamochila.app/privacidad) (gaztelaniaz) · [Ezabatu kontua](https://lamochila.app/eliminar-cuenta)
 
-## Berrikuntzak
+## Berriak
 
 Bertsio bakoitzeko berrikuntzak (ingelesez): [CHANGELOG.md](CHANGELOG.md).
 
-## Iruzkinak
+## Iritziak
 
 [Ireki issue bat](https://github.com/dferrandizmont/mochila/issues) edo idatzi **hola@lamochila.app** helbidera. Mesedez, ez itsatsi eskolako benetako mezurik, seme-alaben daturik, telefonorik edo helbide elektronikorik.
 
 Segurtasun-abisuetarako: [SECURITY.md](SECURITY.md).
 
-## Lizentzia
+## Lizentziak
 
 Aplikazioa doan erabil daiteke, baina kodea ez da publikoa: mezuak irakurtzen dituen zerbitzari bat behar du. Biltegi honetan informazioa, bertsio bakoitzaren oharrak eta arazoen eta proposamenen zerrenda (issues) daude.
 

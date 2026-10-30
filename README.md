@@ -32,23 +32,43 @@ During the launch, Mochila is free and shows no ads. You can start without creat
 ## Screenshots
 
 <p>
-  <a href="docs/readme/en/01-today.png"><img src="docs/readme/en/01-today.png" width="24%" alt="Today: what each child takes, what is on at school and what is due"></a>
-  <a href="docs/readme/en/02-week.png"><img src="docs/readme/en/02-week.png" width="24%" alt="Week: everything coming up, day by day"></a>
-  <a href="docs/readme/en/03-import.png"><img src="docs/readme/en/03-import.png" width="24%" alt="Import: the suggestions from a message, ready to confirm, edit or discard"></a>
-  <a href="docs/readme/en/04-school-menu.png"><img src="docs/readme/en/04-school-menu.png" width="24%" alt="School lunch menu, read from a PDF and reviewed"></a>
+  <a href="docs/readme/en/01-today.png"><img src="docs/readme/en/01-today.png" width="19%" alt="Today: what each child takes, what is on at school and what is due"></a>
+  <a href="docs/readme/en/02-week.png"><img src="docs/readme/en/02-week.png" width="19%" alt="Week: everything coming up, day by day"></a>
+  <a href="docs/readme/en/03-import.png"><img src="docs/readme/en/03-import.png" width="19%" alt="Import: the suggestions from a message, ready to confirm, edit or discard"></a>
+  <a href="docs/readme/en/04-school-menu.png"><img src="docs/readme/en/04-school-menu.png" width="19%" alt="School lunch menu, read from a PDF and reviewed"></a>
+  <a href="docs/readme/en/05-family.png"><img src="docs/readme/en/05-family.png" width="19%" alt="Family: the school, with its timetables, lunch menu and calendar"></a>
 </p>
+
+<details>
+<summary>More screenshots</summary>
+
+<p>
+  <a href="docs/readme/en/06-privacy.png"><img src="docs/readme/en/06-privacy.png" width="19%" alt="Privacy and AI: what leaves the phone and what does not"></a>
+  <a href="docs/readme/en/07-dark.png"><img src="docs/readme/en/07-dark.png" width="19%" alt="Today in dark mode"></a>
+</p>
+
+</details>
 
 Tap a screenshot to enlarge it. Real screens with made-up details.
 
 ## Features
 
-- **Today**: what each child takes, what is on at school and what is due that day. In the afternoon it already shows the next day, and every evening a summary reminds you what tomorrow holds: what to bring, pay and sign.
-- A **home screen widget** shows what to bring today and tomorrow without opening the app.
-- Mochila **suggests** the date, the time, the child and what to bring, pay or sign; you confirm, edit or discard each item, and it can go into your calendar.
-- **As a family**: invite the other adult with a code and you both see the same dates, tasks, the bag and who picks up. Each child has their own colour.
-- Your region's **official school calendar** and your town's local holidays are already there, and you can add your school's own days off.
-- Each child's **timetable and lunch menu**, the after-school activities and the school payments by child and term, which you can export as CSV.
-- **Five languages**: Catalan, Spanish, English, Basque and Galician. Light and dark mode, and five colour ranges.
+- **Today at a glance.** What each child takes, what is on at school and what is due; in the afternoon it already shows tomorrow.
+- **You have the last word.** Mochila suggests the date, the time, the child and what to bring, pay or sign, and you confirm, edit or discard each item.
+- **Shared with the other adult.** Invite them with a code and you both see the same dates, tasks, bag and pickups.
+- **School calendar included.** Your region's official school calendar and your town's holidays are already there, and you can add your school's own days off.
+- **Timetable and lunch menu.** Each child's timetable and the school lunch menu, read from a photo or a PDF.
+- **Evening summary.** Every evening a reminder tells you what to bring, pay and sign the next day.
+
+<details>
+<summary>More features</summary>
+
+- **Home screen widget.** What to bring today and tomorrow, without opening the app.
+- **Your calendar.** What you confirm can go into the phone's calendar.
+- **Activities and payments.** After-school activities and school payments by child and term, which you can export as CSV.
+- **Five languages.** Catalan, Spanish, English, Basque and Galician, with light and dark mode, five colour ranges and a colour for each child.
+
+</details>
 
 ## Privacy
 

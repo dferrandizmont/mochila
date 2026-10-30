@@ -32,25 +32,45 @@ Durant el llançament, Mochila és gratuïta i no té anuncis. Pots començar se
 ## Captures
 
 <p>
-  <a href="docs/readme/ca/01-today.png"><img src="docs/readme/ca/01-today.png" width="24%" alt="Avui: què porta cada fill, què toca a l’escola i què venç"></a>
-  <a href="docs/readme/ca/02-week.png"><img src="docs/readme/ca/02-week.png" width="24%" alt="Setmana: tot el que ve, dia a dia"></a>
-  <a href="docs/readme/ca/03-import.png"><img src="docs/readme/ca/03-import.png" width="24%" alt="Importar: les propostes d’un missatge, a punt per confirmar, canviar o descartar"></a>
-  <a href="docs/readme/ca/04-school-menu.png"><img src="docs/readme/ca/04-school-menu.png" width="24%" alt="Menú del menjador, llegit d’un PDF i revisat"></a>
+  <a href="docs/readme/ca/01-today.png"><img src="docs/readme/ca/01-today.png" width="19%" alt="Avui: què porta cada fill, què toca a l’escola i què venç"></a>
+  <a href="docs/readme/ca/02-week.png"><img src="docs/readme/ca/02-week.png" width="19%" alt="Setmana: tot el que ve, dia a dia"></a>
+  <a href="docs/readme/ca/03-import.png"><img src="docs/readme/ca/03-import.png" width="19%" alt="Importar: les propostes d’un missatge, a punt per confirmar, canviar o descartar"></a>
+  <a href="docs/readme/ca/04-school-menu.png"><img src="docs/readme/ca/04-school-menu.png" width="19%" alt="Menú del menjador, llegit d’un PDF i revisat"></a>
+  <a href="docs/readme/ca/05-family.png"><img src="docs/readme/ca/05-family.png" width="19%" alt="Família: l’escola, amb els horaris, el menú del menjador i el calendari"></a>
 </p>
+
+<details>
+<summary>Més captures</summary>
+
+<p>
+  <a href="docs/readme/ca/06-privacy.png"><img src="docs/readme/ca/06-privacy.png" width="19%" alt="Privadesa i IA: què surt del mòbil i què no"></a>
+  <a href="docs/readme/ca/07-dark.png"><img src="docs/readme/ca/07-dark.png" width="19%" alt="Avui en mode fosc"></a>
+</p>
+
+</details>
 
 Prem una captura per ampliar-la. Pantalles reals amb dades inventades.
 
 ## Funcions
 
-- **Avui**: què porta cada fill, què toca a l’escola i què venç aquell dia. A la tarda ja ensenya l’endemà i, cada vespre, un resum et recorda què hi ha per demà: què cal portar, pagar i signar.
-- Un **widget a la pantalla d’inici** mostra què cal portar avui i demà sense obrir l’app.
-- Mochila **proposa** la data, l’hora, el fill i el que cal portar, pagar o signar; tu confirmes, canvies o descartes cada cosa, i també pot anar al calendari del mòbil.
-- **En família**: convides l’altre adult amb un codi i tots dos veieu el mateix: dates, tasques, la motxilla i qui recull. Cada fill té el seu color.
-- El **calendari escolar oficial** de la teva comunitat i els festius locals del teu municipi ja hi són, i hi pots afegir els dies de lliure disposició de la teva escola.
-- L’**horari i el menú del menjador** de cada fill, les extraescolars i els pagaments de l’escola per fill i trimestre, que pots exportar a CSV.
-- **Cinc idiomes**: català, español, English, euskara i galego. Mode clar i fosc, i cinc gammes de color.
+- **Avui, d’un cop d’ull.** Què porta cada fill, què toca a l’escola i què venç; a la tarda ja ensenya l’endemà.
+- **Tu decideixes.** Mochila proposa la data, l’hora, el fill i el que cal portar, pagar o signar, i tu confirmes, canvies o descartes cada cosa.
+- **Compartida amb l’altre adult.** El convides amb un codi i tots dos veieu el mateix: dates, tasques, la motxilla i qui recull.
+- **Calendari escolar inclòs.** El calendari oficial de la teva comunitat i els festius del teu municipi ja hi són, i hi pots afegir els dies de lliure disposició de la teva escola.
+- **Horari i menú del menjador.** L’horari de cada fill i el menú del menjador, llegits d’una foto o d’un PDF.
+- **Resum de cada vespre.** Cada vespre et recorda què cal portar, pagar i signar l’endemà.
 
-## Privadesa
+<details>
+<summary>Més funcions</summary>
+
+- **Widget a la pantalla d’inici.** Què cal portar avui i demà, sense obrir l’app.
+- **El teu calendari.** El que confirmes pot anar al calendari del mòbil.
+- **Extraescolars i pagaments.** Les extraescolars i els pagaments de l’escola per fill i trimestre, que pots exportar a CSV.
+- **Cinc idiomes.** Català, español, English, euskara i galego, amb mode clar i fosc, cinc gammes de color i un color per a cada fill.
+
+</details>
+
+## Privacitat
 
 Les fotos i els PDF es llegeixen al telèfon i només se n’envia el text; si tries una lectura més precisa d’un horari, un menú o un calendari de l’escola, la imatge s’envia només per a aquella lectura i no es desa. Abans d’enviar res, el teu mòbil substitueix els telèfons i els correus per marcadors, i el text del missatge no es desa sencer al servidor: s’hi desen els elements que confirmes i, si no ho desactives, una cita breu. Dels fills només es desa el nom o el sobrenom, l’escola i la classe; mai els cognoms.
 

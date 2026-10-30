@@ -32,23 +32,43 @@ Durante el lanzamiento, Mochila es gratis y no tiene anuncios. Puedes empezar si
 ## Capturas
 
 <p>
-  <a href="docs/readme/es/01-today.png"><img src="docs/readme/es/01-today.png" width="24%" alt="Hoy: qué lleva cada hijo, qué toca en el cole y qué vence"></a>
-  <a href="docs/readme/es/02-week.png"><img src="docs/readme/es/02-week.png" width="24%" alt="Semana: todo lo que viene, día a día"></a>
-  <a href="docs/readme/es/03-import.png"><img src="docs/readme/es/03-import.png" width="24%" alt="Importar: las propuestas de un mensaje, listas para confirmar, cambiar o descartar"></a>
-  <a href="docs/readme/es/04-school-menu.png"><img src="docs/readme/es/04-school-menu.png" width="24%" alt="Menú del comedor, leído de un PDF y revisado"></a>
+  <a href="docs/readme/es/01-today.png"><img src="docs/readme/es/01-today.png" width="19%" alt="Hoy: qué lleva cada hijo, qué toca en el cole y qué vence"></a>
+  <a href="docs/readme/es/02-week.png"><img src="docs/readme/es/02-week.png" width="19%" alt="Semana: todo lo que viene, día a día"></a>
+  <a href="docs/readme/es/03-import.png"><img src="docs/readme/es/03-import.png" width="19%" alt="Importar: las propuestas de un mensaje, listas para confirmar, cambiar o descartar"></a>
+  <a href="docs/readme/es/04-school-menu.png"><img src="docs/readme/es/04-school-menu.png" width="19%" alt="Menú del comedor, leído de un PDF y revisado"></a>
+  <a href="docs/readme/es/05-family.png"><img src="docs/readme/es/05-family.png" width="19%" alt="Familia: el cole, con sus horarios, el menú del comedor y el calendario"></a>
 </p>
+
+<details>
+<summary>Más capturas</summary>
+
+<p>
+  <a href="docs/readme/es/06-privacy.png"><img src="docs/readme/es/06-privacy.png" width="19%" alt="Privacidad e IA: qué sale del móvil y qué no"></a>
+  <a href="docs/readme/es/07-dark.png"><img src="docs/readme/es/07-dark.png" width="19%" alt="Hoy en modo oscuro"></a>
+</p>
+
+</details>
 
 Pulsa una captura para ampliarla. Pantallas reales con datos inventados.
 
 ## Funciones
 
-- **Hoy**: qué lleva cada hijo, qué toca en el cole y qué vence ese día. Por la tarde ya enseña el día siguiente y, cada noche, un resumen te recuerda lo que hay para mañana: qué llevar, qué pagar y qué firmar.
-- Un **widget en la pantalla de inicio** enseña qué hay que llevar hoy y mañana sin abrir la app.
-- Mochila **propone** la fecha, la hora, el hijo y lo que hay que llevar, pagar o firmar; tú confirmas, cambias o descartas cada cosa, y también puede ir al calendario del móvil.
-- **En familia**: invitas al otro adulto con un código y los dos veis lo mismo: fechas, tareas, la mochila y quién recoge. Cada hijo tiene su color.
-- El **calendario escolar oficial** de tu comunidad y los festivos locales de tu municipio ya vienen puestos, y puedes añadir los días de libre disposición de tu cole.
-- El **horario y el menú del comedor** de cada hijo, las extraescolares y los pagos del cole por hijo y trimestre, que puedes exportar a CSV.
-- **Cinco idiomas**: català, español, English, euskara y galego. Modo claro y oscuro, y cinco gamas de color.
+- **Hoy, de un vistazo.** Qué lleva cada hijo, qué toca en el cole y qué vence; por la tarde ya enseña el día siguiente.
+- **Tú decides.** Mochila propone la fecha, la hora, el hijo y lo que hay que llevar, pagar o firmar, y tú confirmas, cambias o descartas cada cosa.
+- **Compartida con el otro adulto.** Lo invitas con un código y los dos veis lo mismo: fechas, tareas, la mochila y quién recoge.
+- **Calendario escolar incluido.** El calendario oficial de tu comunidad y los festivos de tu municipio ya vienen puestos, y puedes añadir los días de libre disposición de tu cole.
+- **Horario y menú del comedor.** El horario de cada hijo y el menú del comedor, leídos de una foto o de un PDF.
+- **Resumen de cada noche.** Cada noche te recuerda qué hay que llevar, pagar y firmar al día siguiente.
+
+<details>
+<summary>Más funciones</summary>
+
+- **Widget en la pantalla de inicio.** Qué hay que llevar hoy y mañana, sin abrir la app.
+- **Tu calendario.** Lo que confirmas puede ir al calendario del móvil.
+- **Extraescolares y pagos.** Las extraescolares y los pagos del cole por hijo y trimestre, que puedes exportar a CSV.
+- **Cinco idiomas.** Català, español, English, euskara y galego, con modo claro y oscuro, cinco gamas de color y un color para cada hijo.
+
+</details>
 
 ## Privacidad
 
