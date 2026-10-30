@@ -20,17 +20,18 @@ Mochilak eskolako oharrak familiaren agenda bihurtzen ditu. Kopiatu gelako talde
   -->
 </p>
 
-Android: proba itxia Google Play-n, probatzaileen taldean sartzen den edonorentzat; Google-k proba onartu bezain laster irekiko da deskarga. iPhone: laster. Webgunean demo bat ere badago, asmatutako hiru oharrekin: [lamochila.app](https://lamochila.app/eu/).
+Android: proba itxia Google Play-n, edonorentzat irekia. iPhone: laster. Webgunean demo bat ere badago, asmatutako hiru oharrekin: [lamochila.app](https://lamochila.app/eu/).
 
 <details>
 <summary>Sartu Google Play-ko betan</summary>
 
-Egin bi urratsak Android mugikorrean erabiltzen duzun Google kontuarekin.
+Mochila proba itxian dago Google Play-n, eta edonor sar daiteke:
 
-1. Sartu [mochila-testers](https://groups.google.com/g/mochila-testers) Google taldean.
-2. Ireki [probaren orria Google Play-n](https://play.google.com/apps/testing/es.lamochila.app), eman izena probatzaile gisa eta instalatu Mochila Google Play-tik.
+1. Sartu testerren taldean: [mochila-testers](https://groups.google.com/g/mochila-testers). Android mugikorrean erabiltzen duzun Google kontuarekin, sakatu taldean sartzeko botoia.
+2. Onartu proba mugikorretik edo ordenagailutik: [play.google.com/apps/testing/es.lamochila.app](https://play.google.com/apps/testing/es.lamochila.app).
+3. Instalatu aplikazioa Google Play-tik. Bere kabuz eguneratuko da.
 
-Orriak proba ez dagoela erabilgarri esaten badu, Google oraindik berrikusten ari da: saiatu berriro egun batzuk barru.
+Ahal baduzu, egon proban gutxienez 14 egunez eta erabili noizean behin (adibidez, itsatsi eskolako mezu bat): Google-k 12 tester eskatzen ditu 14 egunez, aplikazioa guztientzat argitaratzeko. Iruzkinak, hola@lamochila.app helbidera.
 
 </details>
 

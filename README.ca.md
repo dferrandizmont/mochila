@@ -20,17 +20,18 @@ Mochila converteix els avisos de l’escola en l’agenda de la família. Copia 
   -->
 </p>
 
-Android: prova tancada a Google Play, oberta a qui s’uneixi al grup de provadors; la baixada s’obre tan bon punt Google aprovi la prova. iPhone: properament. Al web també hi ha una demo amb tres avisos d’exemple: [lamochila.app](https://lamochila.app/ca/).
+Android: prova tancada a Google Play, oberta a tothom. iPhone: properament. Al web també hi ha una demo amb tres avisos d’exemple: [lamochila.app](https://lamochila.app/ca/).
 
 <details>
 <summary>Uneix-te a la beta de Google Play</summary>
 
-Fes els dos passos amb el compte de Google que fas servir al mòbil Android.
+Mochila és en prova tancada a Google Play i s’hi pot apuntar qualsevol persona:
 
-1. Uneix-te al grup de Google [mochila-testers](https://groups.google.com/g/mochila-testers).
-2. Obre la [pàgina de la prova a Google Play](https://play.google.com/apps/testing/es.lamochila.app), apunta’t com a provador i instal·la Mochila des de Google Play.
+1. Uneix-te al grup de testers: [mochila-testers](https://groups.google.com/g/mochila-testers). Amb el compte de Google que fas servir al mòbil Android, prem «Uneix-te al grup».
+2. Accepta la prova des del mòbil o l’ordinador: [play.google.com/apps/testing/es.lamochila.app](https://play.google.com/apps/testing/es.lamochila.app).
+3. Instal·la l’app des de Google Play. S’actualitzarà sola.
 
-Si la pàgina diu que la prova no està disponible, Google encara la revisa: torna-ho a provar d’aquí a uns dies.
+Si pots, queda’t a la prova almenys 14 dies i fes-la servir de tant en tant (per exemple, enganxa-hi un missatge de l’escola): Google exigeix 12 testers durant 14 dies per publicar-la per a tothom. Els comentaris, a hola@lamochila.app.
 
 </details>
 

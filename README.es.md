@@ -20,17 +20,18 @@ Mochila convierte los avisos del cole en la agenda de la familia. Copia el mensa
   -->
 </p>
 
-Android: prueba cerrada en Google Play, abierta a quien se una al grupo de probadores; la descarga se abre en cuanto Google apruebe la prueba. iPhone: próximamente. En la web también hay una demo con tres avisos de ejemplo: [lamochila.app](https://lamochila.app).
+Android: prueba cerrada en Google Play, abierta a cualquiera. iPhone: próximamente. En la web también hay una demo con tres avisos de ejemplo: [lamochila.app](https://lamochila.app).
 
 <details>
 <summary>Únete a la beta de Google Play</summary>
 
-Haz los dos pasos con la cuenta de Google que usas en el móvil Android.
+Mochila está en prueba cerrada en Google Play y cualquiera puede apuntarse:
 
-1. Únete al grupo de Google [mochila-testers](https://groups.google.com/g/mochila-testers).
-2. Abre la [página de la prueba en Google Play](https://play.google.com/apps/testing/es.lamochila.app), apúntate como probador e instala Mochila desde Google Play.
+1. Únete al grupo de testers: [mochila-testers](https://groups.google.com/g/mochila-testers). Con la cuenta de Google que usas en el móvil Android, pulsa «Unirse al grupo».
+2. Acepta la prueba desde el móvil o el ordenador: [play.google.com/apps/testing/es.lamochila.app](https://play.google.com/apps/testing/es.lamochila.app).
+3. Instala la app desde Google Play. Se actualizará sola.
 
-Si la página dice que la prueba no está disponible, Google todavía la está revisando: vuelve a probar en unos días.
+Si puedes, quédate en la prueba al menos 14 días y úsala de vez en cuando (por ejemplo, pega un mensaje del cole): Google exige 12 testers durante 14 días para publicarla para todo el mundo. Los comentarios, a hola@lamochila.app.
 
 </details>
 
