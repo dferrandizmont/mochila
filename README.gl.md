@@ -20,7 +20,7 @@ Mochila converte os avisos do colexio na axenda da familia. Copia a mensaxe do g
   -->
 </p>
 
-Android: proba pechada en Google Play, aberta a quen se una ao grupo de probadores. iPhone: proximamente. Na web tamén hai unha demo con tres avisos de exemplo: [lamochila.app](https://lamochila.app/gl/).
+Android: proba pechada en Google Play, aberta a quen se una ao grupo de probadores; a descarga ábrese en canto Google aprobe a proba. iPhone: proximamente. Na web tamén hai unha demo con tres avisos de exemplo: [lamochila.app](https://lamochila.app/gl/).
 
 <details>
 <summary>Únete á beta de Google Play</summary>
@@ -29,6 +29,8 @@ Fai os dous pasos coa conta de Google que usas no móbil Android.
 
 1. Únete ao grupo de Google [mochila-testers](https://groups.google.com/g/mochila-testers).
 2. Abre a [páxina da proba en Google Play](https://play.google.com/apps/testing/es.lamochila.app), apúntate como probador e instala Mochila desde Google Play.
+
+Se a páxina di que a proba non está dispoñible, Google aínda a está revisando: volve probar dentro duns días.
 
 </details>
 

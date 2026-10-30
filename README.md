@@ -20,7 +20,7 @@ Mochila turns school messages into the family agenda. Copy a message from the cl
   -->
 </p>
 
-Android: closed test on Google Play, open to anyone who joins the testers group. iPhone: coming soon. The website also has a demo with three example notices: [lamochila.app](https://lamochila.app).
+Android: closed test on Google Play, open to anyone who joins the testers group; the download opens as soon as Google approves the test. iPhone: coming soon. The website also has a demo with three example notices: [lamochila.app](https://lamochila.app).
 
 <details>
 <summary>Join the beta on Google Play</summary>
@@ -29,6 +29,8 @@ Do both steps with the Google account you use on your Android phone.
 
 1. Join the Google group [mochila-testers](https://groups.google.com/g/mochila-testers).
 2. Open the [test page on Google Play](https://play.google.com/apps/testing/es.lamochila.app), sign up as a tester and install Mochila from Google Play.
+
+If the page says the test is not available, Google is still reviewing it: try again in a few days.
 
 </details>
 

@@ -20,7 +20,7 @@ Mochila converteix els avisos de l’escola en l’agenda de la família. Copia 
   -->
 </p>
 
-Android: prova tancada a Google Play, oberta a qui s’uneixi al grup de provadors. iPhone: properament. Al web també hi ha una demo amb tres avisos d’exemple: [lamochila.app](https://lamochila.app/ca/).
+Android: prova tancada a Google Play, oberta a qui s’uneixi al grup de provadors; la baixada s’obre tan bon punt Google aprovi la prova. iPhone: properament. Al web també hi ha una demo amb tres avisos d’exemple: [lamochila.app](https://lamochila.app/ca/).
 
 <details>
 <summary>Uneix-te a la beta de Google Play</summary>
@@ -29,6 +29,8 @@ Fes els dos passos amb el compte de Google que fas servir al mòbil Android.
 
 1. Uneix-te al grup de Google [mochila-testers](https://groups.google.com/g/mochila-testers).
 2. Obre la [pàgina de la prova a Google Play](https://play.google.com/apps/testing/es.lamochila.app), apunta’t com a provador i instal·la Mochila des de Google Play.
+
+Si la pàgina diu que la prova no està disponible, Google encara la revisa: torna-ho a provar d’aquí a uns dies.
 
 </details>
 
