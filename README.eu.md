@@ -14,6 +14,7 @@ Mochilak eskolako oharrak familiaren agenda bihurtzen ditu. Kopiatu gelako talde
 
 <p>
   <a href="https://play.google.com/apps/testing/es.lamochila.app"><img src="https://img.shields.io/badge/Google_Play-Beta-414141?logo=googleplay&amp;style=for-the-badge" alt="Beta Google Play-n"></a>
+  <a href="https://github.com/dferrandizmont/mochila/releases/latest"><img src="https://img.shields.io/badge/Deskargatu-GitHub-181717?logo=github&amp;style=for-the-badge" alt="Deskargatu GitHub-etik"></a>
   <a href="https://lamochila.app/eu/"><img src="https://img.shields.io/badge/Webgunea-lamochila.app-2F5D50?style=for-the-badge" alt="Webgunea: lamochila.app"></a>
   <!--
   <a href="[APP_STORE_ESTEKA]"><img src="https://img.shields.io/badge/App_Store-Deskargatu-0D96F6?logo=appstore&amp;style=for-the-badge" alt="App Store-n eskuragarri"></a>
@@ -32,6 +33,13 @@ Mochila proba itxian dago Google Play-n, eta edonor sar daiteke:
 3. Instalatu aplikazioa Google Play-tik. Bere kabuz eguneratuko da.
 
 Ahal baduzu, egon proban gutxienez 14 egunez eta erabili noizean behin (adibidez, itsatsi eskolako mezu bat): Google-k 12 tester eskatzen ditu 14 egunez, aplikazioa guztientzat argitaratzeko. Iruzkinak, hola@lamochila.app helbidera.
+
+</details>
+
+<details>
+<summary>Instalatu APKa GitHub-etik</summary>
+
+[Azken bertsioaren](https://github.com/dferrandizmont/mochila/releases/latest) APKa ere deskarga dezakezu eta eskuz instalatu (jatorri ezezaguneko aplikazioak instalatzea baimendu behar da). Google Play-ko bertsioaren beste gako batekin dago sinatuta; beraz, batak ez du bestea eguneratzen: aldatzeko, desinstalatu bat eta instalatu bestea. Zure Google kontuarekin sartzen bazara, familiaren datuak berez itzuliko dira.
 
 </details>
 

@@ -14,6 +14,7 @@ Mochila convierte los avisos del cole en la agenda de la familia. Copia el mensa
 
 <p>
   <a href="https://play.google.com/apps/testing/es.lamochila.app"><img src="https://img.shields.io/badge/Google_Play-Beta-414141?logo=googleplay&amp;style=for-the-badge" alt="Beta en Google Play"></a>
+  <a href="https://github.com/dferrandizmont/mochila/releases/latest"><img src="https://img.shields.io/badge/Disponible_en-GitHub-181717?logo=github&amp;style=for-the-badge" alt="Disponible en GitHub"></a>
   <a href="https://lamochila.app"><img src="https://img.shields.io/badge/Web-lamochila.app-2F5D50?style=for-the-badge" alt="Web: lamochila.app"></a>
   <!--
   <a href="[ENLACE_APP_STORE]"><img src="https://img.shields.io/badge/App_Store-Descargar-0D96F6?logo=appstore&amp;style=for-the-badge" alt="Disponible en App Store"></a>
@@ -32,6 +33,13 @@ Mochila está en prueba cerrada en Google Play y cualquiera puede apuntarse:
 3. Instala la app desde Google Play. Se actualizará sola.
 
 Si puedes, quédate en la prueba al menos 14 días y úsala de vez en cuando (por ejemplo, pega un mensaje del cole): Google exige 12 testers durante 14 días para publicarla para todo el mundo. Los comentarios, a hola@lamochila.app.
+
+</details>
+
+<details>
+<summary>Instala el APK desde GitHub</summary>
+
+También puedes descargar el APK de la [última versión](https://github.com/dferrandizmont/mochila/releases/latest) e instalarlo a mano (hay que permitir «instalar aplicaciones de origen desconocido»). Va firmado con otra clave que la versión de Google Play, así que una no actualiza a la otra: para cambiar, desinstala una e instala la otra. Si entras con tu cuenta de Google, los datos de tu familia vuelven solos.
 
 </details>
 

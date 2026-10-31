@@ -14,6 +14,7 @@ Mochila turns school messages into the family agenda. Copy a message from the cl
 
 <p>
   <a href="https://play.google.com/apps/testing/es.lamochila.app"><img src="https://img.shields.io/badge/Google_Play-Beta-414141?logo=googleplay&amp;style=for-the-badge" alt="Beta on Google Play"></a>
+  <a href="https://github.com/dferrandizmont/mochila/releases/latest"><img src="https://img.shields.io/badge/Available_on-GitHub-181717?logo=github&amp;style=for-the-badge" alt="Available on GitHub"></a>
   <a href="https://lamochila.app/en/"><img src="https://img.shields.io/badge/Website-lamochila.app-2F5D50?style=for-the-badge" alt="Website: lamochila.app"></a>
   <!--
   <a href="[APP_STORE_LINK]"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?logo=appstore&amp;style=for-the-badge" alt="Download on the App Store"></a>
@@ -32,6 +33,13 @@ Mochila is in closed testing on Google Play and anyone can join:
 3. Install the app from Google Play. It updates itself.
 
 If you can, stay in the test for at least 14 days and use it from time to time (for example, paste a message from school): Google requires 12 testers for 14 days to publish it for everyone. Send comments to hola@lamochila.app.
+
+</details>
+
+<details>
+<summary>Install the APK from GitHub</summary>
+
+Or download the APK of the [latest release](https://github.com/dferrandizmont/mochila/releases/latest) and install it by hand (allow installs from unknown sources). It uses a different signing key from the Google Play version, so one does not update the other: to switch, uninstall one and install the other. If you sign in with your Google account, your family's data comes back on its own.
 
 </details>
 

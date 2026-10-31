@@ -14,6 +14,7 @@ Mochila converte os avisos do colexio na axenda da familia. Copia a mensaxe do g
 
 <p>
   <a href="https://play.google.com/apps/testing/es.lamochila.app"><img src="https://img.shields.io/badge/Google_Play-Beta-414141?logo=googleplay&amp;style=for-the-badge" alt="Beta en Google Play"></a>
+  <a href="https://github.com/dferrandizmont/mochila/releases/latest"><img src="https://img.shields.io/badge/Dispo%C3%B1ible_en-GitHub-181717?logo=github&amp;style=for-the-badge" alt="Dispoñible en GitHub"></a>
   <a href="https://lamochila.app/gl/"><img src="https://img.shields.io/badge/Web-lamochila.app-2F5D50?style=for-the-badge" alt="Web: lamochila.app"></a>
   <!--
   <a href="[LIGAZON_APP_STORE]"><img src="https://img.shields.io/badge/App_Store-Descargar-0D96F6?logo=appstore&amp;style=for-the-badge" alt="Dispoñible na App Store"></a>
@@ -32,6 +33,13 @@ Mochila está en proba pechada en Google Play e calquera pode apuntarse:
 3. Instala a app desde Google Play. Actualizarase soa.
 
 Se podes, quédate na proba polo menos 14 días e úsaa de cando en vez (por exemplo, pega unha mensaxe do colexio): Google esixe 12 testers durante 14 días para publicala para todo o mundo. Os comentarios, a hola@lamochila.app.
+
+</details>
+
+<details>
+<summary>Instala o APK desde GitHub</summary>
+
+Tamén podes descargar o APK da [última versión](https://github.com/dferrandizmont/mochila/releases/latest) e instalalo á man (hai que permitir «instalar aplicacións de orixe descoñecida»). Vai asinado cunha clave distinta da versión de Google Play, así que unha non actualiza a outra: para cambiar, desinstala unha e instala a outra. Se entras coa túa conta de Google, os datos da túa familia volven sós.
 
 </details>
 

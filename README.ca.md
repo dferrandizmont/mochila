@@ -14,6 +14,7 @@ Mochila converteix els avisos de l’escola en l’agenda de la família. Copia 
 
 <p>
   <a href="https://play.google.com/apps/testing/es.lamochila.app"><img src="https://img.shields.io/badge/Google_Play-Beta-414141?logo=googleplay&amp;style=for-the-badge" alt="Beta a Google Play"></a>
+  <a href="https://github.com/dferrandizmont/mochila/releases/latest"><img src="https://img.shields.io/badge/Disponible_a-GitHub-181717?logo=github&amp;style=for-the-badge" alt="Disponible a GitHub"></a>
   <a href="https://lamochila.app/ca/"><img src="https://img.shields.io/badge/Web-lamochila.app-2F5D50?style=for-the-badge" alt="Web: lamochila.app"></a>
   <!--
   <a href="[ENLLAC_APP_STORE]"><img src="https://img.shields.io/badge/App_Store-Descarrega-0D96F6?logo=appstore&amp;style=for-the-badge" alt="Disponible a l’App Store"></a>
@@ -32,6 +33,13 @@ Mochila és en prova tancada a Google Play i s’hi pot apuntar qualsevol person
 3. Instal·la l’app des de Google Play. S’actualitzarà sola.
 
 Si pots, queda’t a la prova almenys 14 dies i fes-la servir de tant en tant (per exemple, enganxa-hi un missatge de l’escola): Google exigeix 12 testers durant 14 dies per publicar-la per a tothom. Els comentaris, a hola@lamochila.app.
+
+</details>
+
+<details>
+<summary>Instal·la l’APK des de GitHub</summary>
+
+També pots baixar l’APK de la [darrera versió](https://github.com/dferrandizmont/mochila/releases/latest) i instal·lar-lo a mà (cal permetre «instal·lar aplicacions d’origen desconegut»). Està signat amb una clau diferent de la de la versió de Google Play, així que l’una no actualitza l’altra: per canviar, desinstal·la’n una i instal·la l’altra. Si entres amb el teu compte de Google, les dades de la teva família tornen soles.
 
 </details>
 
