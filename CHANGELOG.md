@@ -15,6 +15,22 @@ Settings.
 
 Nothing yet.
 
+## v0.2.1 (0.2.1+51) · 2026-11-01
+
+- Joining a family shows its children straight away; in 0.2.0 Family could stay on «You have not added a child yet» after joining.
+- Basque: summer day camps are now «hiri-udalekuak» (it was «udalekuak», which can also mean camps with nights away).
+
+## v0.2.0 (0.2.0+50) · 2026-11-01
+
+- Start of the school year: from two weeks before it begins until a month after, Today and Family show one card, «The 2027-28 school year is starting: check on Pau and Lena». A short guided review, one step per child, proposes the next class (P5 to 1st changes stage; a 6th-grader can stay in 6th or be marked as having finished primary), keeps or changes the school and carries on the after-school activities that ended with last year. It saves at the last step, can be resumed if the connection drops, and then lists what to check: the timetable, the bag rules and who picks up. A school left without children can be deleted with its menu and calendar. It replaces the old «Is Pau moving to P4?» card. Mochila covers infant and primary school only: it never proposes secondary school.
+- Child › «Change school»: moves the child to another school at once, and Today then shows «Pau goes to Escola Nova: review the timetable and bag» with links to both.
+- School-year milestones: Today shows an «Up next» card with the nearest thing to prepare or apply for (pre-enrolment, secondary school application and enrolment in 6th, lunch and book grants, the book list, summer camps, the start-of-year meeting, the three term reports, labelling the clothes), with «Done», «Not for us» and undo; Family › «School-year milestones» lists them all with the children each one is about. The texts are guidance («usually in March»), never an official date, and nothing is notified. Answers are shared by both adults, kept for that school year, included in the data export and deleted with the account. The card waits while the start-of-year or change-of-school card is on Today: one thing at a time.
+- Archived children: Child › «Archive» (after finishing primary school, or for another reason) takes a child out of Today, the week, the bag, pick-ups, reminders, the widget and future calendar events, while their history, school data and expenses are kept. Family › «Archived» lists them with «Restore» and «Delete», and archived children do not count towards the eight-children limit. Content addressed only to archived children leaves the daily views; content for the whole family stays. When every child is archived, Today shows a calm farewell with «Export my data», how to cancel a subscription, «Delete account» and «Add a child»; nothing is cancelled or deleted on its own.
+- Summer and summer camps (casals): out of term, Today shows a calm «Summer holidays» card and no longer asks for a timetable, a school menu or the school bag, and the school pick-up and its reminders stay quiet. A casal is an activity with its own dates (it can be in July or early September), days, hours, place, children and what to bring; on a casal day the school card, the bag and the pick-up come from the casal, with their reminders and no school wording, and on a public holiday there is no casal. Casals have their own section next to the after-school activities and can be added from Family, Activities or Today, or from an imported message with a date range («Save as casal»), which opens the form filled in for you to confirm.
+- Basque, Galician and English texts of the new screens reviewed.
+- Website: the Android test on Google Play is open. «Try it on your phone» explains the two steps (join the mochila-testers group, then accept the test and install Mochila from Google Play), asks testers to stay for 14 days, and the home page note, the FAQ, the closing section and the footer link to it, in the five languages.
+- Privacy policy (website, Spanish, Catalan and English): new section 2.6 on the Android test group: Mochila sees the email address and display name of the Google account that joins, uses them only to give access to the test, and deletes them when you leave the group or the test ends.
+
 ## v0.1.3 (0.1.3+49) · 2026-10-29
 
 - The app identifier is now `es.lamochila.app` on Android and iOS (it was `app.mochila.mochila`), set before the first store upload. Earlier test builds install as a separate app: sign in again in the new one and uninstall the old one.
