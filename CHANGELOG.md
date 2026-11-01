@@ -15,6 +15,10 @@ Settings.
 
 Nothing yet.
 
+## v0.2.2 (0.2.2+52) · 2026-11-01
+
+- DNI/NIE and card numbers found in a shared message are never put back into the saved item: they stay hidden (shown as «•••»).
+
 ## v0.2.1 (0.2.1+51) · 2026-11-01
 
 - Joining a family shows its children straight away; in 0.2.0 Family could stay on «You have not added a child yet» after joining.
