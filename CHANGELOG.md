@@ -15,6 +15,15 @@ Settings.
 
 Nothing yet.
 
+## v0.3.1 (0.3.1+54) · 2026-11-03
+
+- A clear message when the phone cannot verify the app (mostly rooted or modified phones) instead of “We couldn’t reach the server”. Without an account you can sign in with Google to continue.
+
+## v0.3.0 (0.3.0+53) · 2026-11-02
+
+- Caterer menu PDFs: the monthly PDF a caterer publishes (dozens of pages, several groups of schools and one page per diet) can be imported from Menu › Import or by sharing it. Mochila reads the PDF on the phone, finds your school's group and picks the standard menu plus your children's diets, then imports them with one tap; «Change» lets you pick other menus (up to eight per school). If your school is not listed, it says so and lets you choose the menu anyway. The choice is remembered, so next month sharing the new PDF is one tap («Same as last month»). Reading can be cancelled, and only the text of the chosen pages leaves the phone.
+- Lunch menu: after importing, the screen opens on the imported month so you can review it first; «Month» now filters the list, with «Whole school year» to see everything.
+
 ## v0.2.2 (0.2.2+52) · 2026-11-01
 
 - DNI/NIE and card numbers found in a shared message are never put back into the saved item: they stay hidden (shown as «•••»).
