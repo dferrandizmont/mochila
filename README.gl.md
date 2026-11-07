@@ -47,7 +47,7 @@ Durante o lanzamento, Mochila é gratuíta e non ten anuncios. Podes comezar sen
 <p>
   <a href="docs/readme/gl/01-today.png"><img src="docs/readme/gl/01-today.png" width="19%" alt="Hoxe: que leva cada fillo, que toca no colexio e que vence"></a>
   <a href="docs/readme/gl/02-week.png"><img src="docs/readme/gl/02-week.png" width="19%" alt="Semana: todo o que vén, día a día"></a>
-  <a href="docs/readme/gl/03-import.png"><img src="docs/readme/gl/03-import.png" width="19%" alt="Importar: as propostas dunha mensaxe, listas para confirmar, cambiar ou descartar"></a>
+  <a href="docs/readme/gl/03-import.png"><img src="docs/readme/gl/03-import.png" width="19%" alt="Engadir: as propostas dunha mensaxe, listas para confirmar, cambiar ou descartar"></a>
   <a href="docs/readme/gl/04-school-menu.png"><img src="docs/readme/gl/04-school-menu.png" width="19%" alt="Menú do comedor, lido dun PDF e revisado"></a>
   <a href="docs/readme/gl/05-family.png"><img src="docs/readme/gl/05-family.png" width="19%" alt="Familia: o colexio, cos horarios, o menú do comedor e o calendario"></a>
 </p>

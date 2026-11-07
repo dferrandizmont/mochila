@@ -47,7 +47,7 @@ During the launch, Mochila is free and shows no ads. You can start without creat
 <p>
   <a href="docs/readme/en/01-today.png"><img src="docs/readme/en/01-today.png" width="19%" alt="Today: what each child takes, what is on at school and what is due"></a>
   <a href="docs/readme/en/02-week.png"><img src="docs/readme/en/02-week.png" width="19%" alt="Week: everything coming up, day by day"></a>
-  <a href="docs/readme/en/03-import.png"><img src="docs/readme/en/03-import.png" width="19%" alt="Import: the suggestions from a message, ready to confirm, edit or discard"></a>
+  <a href="docs/readme/en/03-import.png"><img src="docs/readme/en/03-import.png" width="19%" alt="Add: the suggestions from a message, ready to confirm, edit or discard"></a>
   <a href="docs/readme/en/04-school-menu.png"><img src="docs/readme/en/04-school-menu.png" width="19%" alt="School lunch menu, read from a PDF and reviewed"></a>
   <a href="docs/readme/en/05-family.png"><img src="docs/readme/en/05-family.png" width="19%" alt="Family: the school, with its timetables, lunch menu and calendar"></a>
 </p>

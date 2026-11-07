@@ -47,7 +47,7 @@ Durant el llançament, Mochila és gratuïta i no té anuncis. Pots començar se
 <p>
   <a href="docs/readme/ca/01-today.png"><img src="docs/readme/ca/01-today.png" width="19%" alt="Avui: què porta cada fill, què toca a l’escola i què venç"></a>
   <a href="docs/readme/ca/02-week.png"><img src="docs/readme/ca/02-week.png" width="19%" alt="Setmana: tot el que ve, dia a dia"></a>
-  <a href="docs/readme/ca/03-import.png"><img src="docs/readme/ca/03-import.png" width="19%" alt="Importar: les propostes d’un missatge, a punt per confirmar, canviar o descartar"></a>
+  <a href="docs/readme/ca/03-import.png"><img src="docs/readme/ca/03-import.png" width="19%" alt="Afegir: les propostes d’un missatge, a punt per confirmar, canviar o descartar"></a>
   <a href="docs/readme/ca/04-school-menu.png"><img src="docs/readme/ca/04-school-menu.png" width="19%" alt="Menú del menjador, llegit d’un PDF i revisat"></a>
   <a href="docs/readme/ca/05-family.png"><img src="docs/readme/ca/05-family.png" width="19%" alt="Família: l’escola, amb els horaris, el menú del menjador i el calendari"></a>
 </p>

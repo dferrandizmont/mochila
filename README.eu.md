@@ -47,7 +47,7 @@ Hasierako aldi honetan, Mochila doakoa da eta ez du iragarkirik. Kontu bat sortu
 <p>
   <a href="docs/readme/eu/01-today.png"><img src="docs/readme/eu/01-today.png" width="19%" alt="Gaur: seme-alaba bakoitzak zer daraman, zer duen eskolan eta zeren epea amaitzen den"></a>
   <a href="docs/readme/eu/02-week.png"><img src="docs/readme/eu/02-week.png" width="19%" alt="Astea: datorren guztia, egunez egun"></a>
-  <a href="docs/readme/eu/03-import.png"><img src="docs/readme/eu/03-import.png" width="19%" alt="Inportatu: mezu batetik ateratako proposamenak, berresteko, aldatzeko edo baztertzeko prest"></a>
+  <a href="docs/readme/eu/03-import.png"><img src="docs/readme/eu/03-import.png" width="19%" alt="Gehitu: mezu batetik ateratako proposamenak, berresteko, aldatzeko edo baztertzeko prest"></a>
   <a href="docs/readme/eu/04-school-menu.png"><img src="docs/readme/eu/04-school-menu.png" width="19%" alt="Jantokiko menua, PDF batetik irakurrita eta berrikusita"></a>
   <a href="docs/readme/eu/05-family.png"><img src="docs/readme/eu/05-family.png" width="19%" alt="Familia: ikastetxea, ordutegiekin, jantokiko menuarekin eta egutegiarekin"></a>
 </p>

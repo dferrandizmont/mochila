@@ -15,6 +15,41 @@ Settings.
 
 Nothing yet.
 
+## v0.3.6 (0.3.6+59) · 2026-11-07
+
+- When a school menu or timetable could not be read well, the review now says so kindly. If only some days (or classes) are doubtful, a soft note at the top asks you to check them against the paper, and they are marked in the list. If nothing could be read, the note offers a new photo or the PDF, adding the days (or classes) by hand, and "Send it to us": it opens your own e-mail app with the photo attached and a short message, after a sheet that explains where it goes and asks you to check it shows no personal data. You read and send the e-mail yourself; Mochila sends nothing on its own, and the temporary copy of the photo is deleted when you leave the screen.
+- School menus and timetables read from a photo or a PDF page are now read twice at the same time, in two different ways, and the two readings are compared: what both agree on is shown as clear, and a day or a class where they differ is marked for you to check, with what the other reading saw. Fewer mistakes go unmarked, and the import takes about the same time.
+- A strike that comes as the reason for a change now has its own card (the school day without classes), and updating an item no longer changes its title when only the case or the accents are different. Updates now also apply an explicit lunch or early-finish change from the message instead of losing it, and clearing the notes when editing an item leaves the stored notes as they were.
+- School menus, timetables and calendars in a PDF of several pages can now be read with the image too, as one-page PDFs already could: the app picks the page with the table (you can choose another one) and sends only the image of that page, with the text of the whole PDF. The same choice, "read it better (sends the image)" or "text only", is asked as before. Circulars and activity sheets still go as text only.
+- The "Import" tab is now called "Add", and it offers two clear choices: from a message, a photo or a PDF (as before), or "Create by hand", with any date. Today keeps its own + button.
+- In Week's calendar, the selected day has an "+ Add" button next to its date, and an empty day says "Nothing this day · Add something". Both open the new-item form with that day already filled in. A long press on a day in the calendar does the same.
+- Today no longer jumps when the "timetable missing" line appears: on the first load it now waits for that line too, so it is there with the rest of the day instead of pushing the list down a moment later.
+- The example in the first-run setup ("Try it with an example") always uses dates ahead of today: the trip is on Thursday next week and the payment before Monday, instead of fixed dates in October.
+- The home-screen widget says when it is the summer holidays, as Today does ("Summer holidays: no school today"), instead of "Nothing special".
+- Today says when a child is away on a school camp ("Pau, away on the school trip", and on the return day when they are back), and no longer lists that child's usual school hours and menu while they are away. Tapping the line opens the school card with the camp details.
+- Taking a child off a school trip: if the trip changed in the meantime, the calm "it changed meanwhile" message now also shows when the school card was already closed, and the day reloads.
+- Lunch menus from a PDF land on the right days more often: when a menu came back with every week one day early (Sunday to Thursday), the dishes are now moved back to Monday to Friday, and the reading is told which day numbers fall on each weekday of the month.
+- School calendars bring their holidays more often: a break written as "last day of classes" and "classes resume" now becomes the whole holiday, and in a photo of a calendar the colours of the legend mark the days off.
+
+## v0.3.5 (0.3.5+58) · 2026-11-05
+
+- Today and Week no longer jump when the app opens: the first time, they keep the loading placeholder until the whole day (the bags, the hours, the menu and who picks up) is ready, instead of showing it piece by piece and shifting everything down. If something is slow, they show what they have after three seconds.
+
+## v0.3.4 (0.3.4+57) · 2026-11-05
+
+- The home-screen widget and the reminders are brought up to date each time the app opens, also when nothing changed on the server; since 0.3.2 they could keep an older state (for example the previous day) until something changed.
+
+## v0.3.3 (0.3.3+56) · 2026-11-05
+
+- Simpler Settings. Notifications now have their own screen, grouped as Every evening, Reminders and Family: the summary time and what it includes sit in one sheet, payments and signatures use a single choice (two days before, the day itself, both or never), and the other adult's changes and pick-up changes are one switch. The permission card only appears when something is missing, and the lock-screen option and the summary test moved to More options (the generic test notification is gone). Account actions (sign out, export, delete account) moved into Account, and the two privacy switches (original quotes, crash reports) into Privacy and AI; the Account, Subscription and Privacy rows are one group, and the data sources link is a quiet link above the version.
+- Who takes and picks up the children («Porta…», «Recull… a les 16:30») and the other adult's name are on Today from the start, like the rest of the day, instead of arriving a moment later; they also show without connection.
+
+## v0.3.2 (0.3.2+55) · 2026-11-05
+
+- Faster start: Today opens straight away with what you saw last time and refreshes in the background, so there is no wait for the server; when something changed, it updates in place. The launch screen now flows into the app without a jump, and the setup tips on Today arrive sooner.
+- Owner dashboard (`/admin`): new look (dark, flat, one lavender accent; light when the device is light). A status bar at the top says whether everything is fine, and the page is grouped into Money, Growth, Usage and Health. New: budget panel with the daily and monthly caps and the cost per import, share of imports finished, what gets created by type, and families by region (with the region's name).
+- Owner dashboard: new Retention panel (families that come back in weeks 1, 2 and 4 after sign-up) and Import quality panel (how imports end, failure reasons and average duration). The quality numbers start counting from this release; the server only keeps a count per day and outcome, never a family or a text.
+
 ## v0.3.1 (0.3.1+54) · 2026-11-03
 
 - A clear message when the phone cannot verify the app (mostly rooted or modified phones) instead of “We couldn’t reach the server”. Without an account you can sign in with Google to continue.
