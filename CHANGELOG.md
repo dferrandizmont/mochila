@@ -15,6 +15,15 @@ Settings.
 
 Nothing yet.
 
+## v0.4.0 (0.4.0+61) · 2026-11-08
+
+- Items dated in another year now show the year in their detail, in the week view header and in the day title of the month view.
+- When you import a menu or a timetable, the review now shows it like the paper (weeks and weekdays on a tablet or a wide screen, one block per week on a phone) and marks the days or slots worth checking, with a short reason for each and a count at the top ("3 days to check", or "Everything matches" when two readings of the document agree). Changing a marked day or slot clears its mark; nothing is saved until you confirm.
+- The "Reading the document" message no longer shows behind the sheets that ask how to read it or for your consent to use the AI; it appears once you have chosen.
+- You can add up to two people with limited access (for example someone who helps with pickups): in Family, "Add a person with limited access", choose the children and share the code. They only see Today, the week and pickups of the children you choose, and only to look: they cannot change anything and never see expenses, imports, the invitation code, family settings or the other children. You can change the children they see or remove them at any time.
+- If you join with a limited-access code, Mochila opens with just Today, the week and Settings, and explains once what you can see. In Settings you can still change the language, the look and the notifications on your phone, leave the family, sign out or delete your account.
+- Privacy policy 1.2 (website, Spanish, Catalan and English): new section 2.8 on people with limited access inside the family (what they see, that it collects no new data and that the server enforces the limits), the family data row, the retention row for which children each of them sees, and what happens to the family when the last adult with full access deletes their account. The sentence on who the app is for now uses neutral wording.
+
 ## v0.3.7 (0.3.7+60) · 2026-11-08
 
 - Importing a school menu or a timetable waits less: the server no longer holds the answer back for the bookkeeping that can happen while it answers, and a reading that comes back cut off (too long for the model) is no longer asked again in the same way, but once more asking for a shorter answer.
