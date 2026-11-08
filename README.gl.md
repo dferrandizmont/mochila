@@ -46,18 +46,19 @@ Durante o lanzamento, Mochila é gratuíta e non ten anuncios. Podes comezar sen
 
 <p>
   <a href="docs/readme/gl/01-today.png"><img src="docs/readme/gl/01-today.png" width="19%" alt="Hoxe: que leva cada fillo, que toca no colexio e que vence"></a>
-  <a href="docs/readme/gl/02-week.png"><img src="docs/readme/gl/02-week.png" width="19%" alt="Semana: todo o que vén, día a día"></a>
   <a href="docs/readme/gl/03-import.png"><img src="docs/readme/gl/03-import.png" width="19%" alt="Engadir: as propostas dunha mensaxe, listas para confirmar, cambiar ou descartar"></a>
-  <a href="docs/readme/gl/04-school-menu.png"><img src="docs/readme/gl/04-school-menu.png" width="19%" alt="Menú do comedor, lido dun PDF e revisado"></a>
+  <a href="docs/readme/gl/04-school-menu.png"><img src="docs/readme/gl/04-school-menu.png" width="19%" alt="Menú do comedor, lido dun PDF e revisado, cos días que convén comprobar marcados"></a>
   <a href="docs/readme/gl/05-family.png"><img src="docs/readme/gl/05-family.png" width="19%" alt="Familia: o colexio, cos horarios, o menú do comedor e o calendario"></a>
+  <a href="docs/readme/gl/06-limited.png"><img src="docs/readme/gl/06-limited.png" width="19%" alt="Hoxe para unha persoa con acceso limitado: colexio, mochila e recollidas, só para ver"></a>
 </p>
 
 <details>
 <summary>Máis capturas</summary>
 
 <p>
-  <a href="docs/readme/gl/06-privacy.png"><img src="docs/readme/gl/06-privacy.png" width="19%" alt="Privacidade e IA: que sae do móbil e que non"></a>
-  <a href="docs/readme/gl/07-dark.png"><img src="docs/readme/gl/07-dark.png" width="19%" alt="Hoxe en modo escuro"></a>
+  <a href="docs/readme/gl/02-week.png"><img src="docs/readme/gl/02-week.png" width="19%" alt="Semana: todo o que vén, día a día"></a>
+  <a href="docs/readme/gl/07-privacy.png"><img src="docs/readme/gl/07-privacy.png" width="19%" alt="Privacidade e IA: que sae do móbil e que non"></a>
+  <a href="docs/readme/gl/08-dark.png"><img src="docs/readme/gl/08-dark.png" width="19%" alt="Hoxe en modo escuro"></a>
 </p>
 
 </details>
@@ -69,6 +70,7 @@ Preme unha captura para ampliala. Pantallas reais con datos inventados.
 - **Hoxe, dunha ollada.** Que leva cada fillo, que toca no colexio e que vence; pola tarde xa amosa o día seguinte.
 - **Ti decides.** Mochila propón a data, a hora, o fillo e o que hai que levar, pagar ou asinar, e ti confirmas, cambias ou descartas cada cousa.
 - **Compartida co outro adulto.** Convídalo cun código e os dous vedes o mesmo: datas, tarefas, a mochila e quen recolle.
+- **Acceso limitado.** Unha persoa que axuda coas recollidas ve Hoxe, a semana e as recollidas dos fillos que escollas, só para consultar.
 - **Calendario escolar incluído.** O calendario oficial da túa comunidade e os festivos do teu concello xa veñen postos, e podes engadir os días de libre disposición do teu colexio.
 - **Horario e menú do comedor.** O horario de cada fillo e o menú do comedor, lidos dunha foto ou dun PDF.
 - **Resumo da noite.** Cada noite lémbrache que hai que levar, pagar e asinar ao día seguinte.
@@ -90,6 +92,12 @@ As fotos e os PDF lense no teléfono e só se envía o texto; se escolles unha l
 [Política de privacidade](https://lamochila.app/privacidad) (en castelán) · [Eliminar a conta](https://lamochila.app/eliminar-cuenta)
 
 ## Novidades
+
+**0.4.0**
+
+- **Persoas con acceso limitado.** Podes engadir ata dúas (por exemplo, alguén que axuda coas recollidas). Ven Hoxe, a semana e as recollidas dos fillos que escollas, e só poden mirar.
+- **Revisión de menús e horarios.** Agora vese como o papel e marca os días que convén comprobar, cun motivo breve en cada un.
+- **O ano nas datas afastadas.** Unha data doutro ano agora mostra o ano.
 
 Novidades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 

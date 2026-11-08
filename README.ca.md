@@ -46,18 +46,19 @@ Durant el llançament, Mochila és gratuïta i no té anuncis. Pots començar se
 
 <p>
   <a href="docs/readme/ca/01-today.png"><img src="docs/readme/ca/01-today.png" width="19%" alt="Avui: què porta cada fill, què toca a l’escola i què venç"></a>
-  <a href="docs/readme/ca/02-week.png"><img src="docs/readme/ca/02-week.png" width="19%" alt="Setmana: tot el que ve, dia a dia"></a>
   <a href="docs/readme/ca/03-import.png"><img src="docs/readme/ca/03-import.png" width="19%" alt="Afegir: les propostes d’un missatge, a punt per confirmar, canviar o descartar"></a>
-  <a href="docs/readme/ca/04-school-menu.png"><img src="docs/readme/ca/04-school-menu.png" width="19%" alt="Menú del menjador, llegit d’un PDF i revisat"></a>
+  <a href="docs/readme/ca/04-school-menu.png"><img src="docs/readme/ca/04-school-menu.png" width="19%" alt="Menú del menjador, llegit d’un PDF i revisat, amb els dies que convé comprovar marcats"></a>
   <a href="docs/readme/ca/05-family.png"><img src="docs/readme/ca/05-family.png" width="19%" alt="Família: l’escola, amb els horaris, el menú del menjador i el calendari"></a>
+  <a href="docs/readme/ca/06-limited.png"><img src="docs/readme/ca/06-limited.png" width="19%" alt="Avui per a una persona amb accés limitat: escola, motxilla i recollides, només per veure"></a>
 </p>
 
 <details>
 <summary>Més captures</summary>
 
 <p>
-  <a href="docs/readme/ca/06-privacy.png"><img src="docs/readme/ca/06-privacy.png" width="19%" alt="Privadesa i IA: què surt del mòbil i què no"></a>
-  <a href="docs/readme/ca/07-dark.png"><img src="docs/readme/ca/07-dark.png" width="19%" alt="Avui en mode fosc"></a>
+  <a href="docs/readme/ca/02-week.png"><img src="docs/readme/ca/02-week.png" width="19%" alt="Setmana: tot el que ve, dia a dia"></a>
+  <a href="docs/readme/ca/07-privacy.png"><img src="docs/readme/ca/07-privacy.png" width="19%" alt="Privadesa i IA: què surt del mòbil i què no"></a>
+  <a href="docs/readme/ca/08-dark.png"><img src="docs/readme/ca/08-dark.png" width="19%" alt="Avui en mode fosc"></a>
 </p>
 
 </details>
@@ -69,6 +70,7 @@ Prem una captura per ampliar-la. Pantalles reals amb dades inventades.
 - **Avui, d’un cop d’ull.** Què porta cada fill, què toca a l’escola i què venç; a la tarda ja ensenya l’endemà.
 - **Tu decideixes.** Mochila proposa la data, l’hora, el fill i el que cal portar, pagar o signar, i tu confirmes, canvies o descartes cada cosa.
 - **Compartida amb l’altre adult.** El convides amb un codi i tots dos veieu el mateix: dates, tasques, la motxilla i qui recull.
+- **Accés limitat.** Una persona que ajuda amb les recollides veu Avui, la setmana i les recollides dels fills que triïs, només per consultar.
 - **Calendari escolar inclòs.** El calendari oficial de la teva comunitat i els festius del teu municipi ja hi són, i hi pots afegir els dies de lliure disposició de la teva escola.
 - **Horari i menú del menjador.** L’horari de cada fill i el menú del menjador, llegits d’una foto o d’un PDF.
 - **Resum de cada vespre.** Cada vespre et recorda què cal portar, pagar i signar l’endemà.
@@ -90,6 +92,12 @@ Les fotos i els PDF es llegeixen al telèfon i només se n’envia el text; si t
 [Política de privadesa](https://lamochila.app/ca/privacitat) · [Eliminar el compte](https://lamochila.app/eliminar-cuenta)
 
 ## Novetats
+
+**0.4.0**
+
+- **Persones amb accés limitat.** Pots afegir-ne fins a dues (per exemple, algú que ajuda amb les recollides). Veuen Avui, la setmana i les recollides dels fills que triïs, i només hi poden mirar.
+- **Revisió de menús i horaris.** Ara es veu com el paper i marca els dies que convé comprovar, amb un motiu breu a cadascun.
+- **L’any en les dates llunyanes.** Una data d’un altre any ara mostra l’any.
 
 Novetats de cada versió (en anglès): [CHANGELOG.md](CHANGELOG.md).
 

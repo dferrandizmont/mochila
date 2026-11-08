@@ -46,18 +46,19 @@ Durante el lanzamiento, Mochila es gratis y no tiene anuncios. Puedes empezar si
 
 <p>
   <a href="docs/readme/es/01-today.png"><img src="docs/readme/es/01-today.png" width="19%" alt="Hoy: qué lleva cada hijo, qué toca en el cole y qué vence"></a>
-  <a href="docs/readme/es/02-week.png"><img src="docs/readme/es/02-week.png" width="19%" alt="Semana: todo lo que viene, día a día"></a>
   <a href="docs/readme/es/03-import.png"><img src="docs/readme/es/03-import.png" width="19%" alt="Añadir: las propuestas de un mensaje, listas para confirmar, cambiar o descartar"></a>
-  <a href="docs/readme/es/04-school-menu.png"><img src="docs/readme/es/04-school-menu.png" width="19%" alt="Menú del comedor, leído de un PDF y revisado"></a>
+  <a href="docs/readme/es/04-school-menu.png"><img src="docs/readme/es/04-school-menu.png" width="19%" alt="Menú del comedor, leído de un PDF y revisado, con los días que conviene comprobar marcados"></a>
   <a href="docs/readme/es/05-family.png"><img src="docs/readme/es/05-family.png" width="19%" alt="Familia: el cole, con sus horarios, el menú del comedor y el calendario"></a>
+  <a href="docs/readme/es/06-limited.png"><img src="docs/readme/es/06-limited.png" width="19%" alt="Hoy para una persona con acceso limitado: cole, mochila y recogidas, solo para ver"></a>
 </p>
 
 <details>
 <summary>Más capturas</summary>
 
 <p>
-  <a href="docs/readme/es/06-privacy.png"><img src="docs/readme/es/06-privacy.png" width="19%" alt="Privacidad e IA: qué sale del móvil y qué no"></a>
-  <a href="docs/readme/es/07-dark.png"><img src="docs/readme/es/07-dark.png" width="19%" alt="Hoy en modo oscuro"></a>
+  <a href="docs/readme/es/02-week.png"><img src="docs/readme/es/02-week.png" width="19%" alt="Semana: todo lo que viene, día a día"></a>
+  <a href="docs/readme/es/07-privacy.png"><img src="docs/readme/es/07-privacy.png" width="19%" alt="Privacidad e IA: qué sale del móvil y qué no"></a>
+  <a href="docs/readme/es/08-dark.png"><img src="docs/readme/es/08-dark.png" width="19%" alt="Hoy en modo oscuro"></a>
 </p>
 
 </details>
@@ -69,6 +70,7 @@ Pulsa una captura para ampliarla. Pantallas reales con datos inventados.
 - **Hoy, de un vistazo.** Qué lleva cada hijo, qué toca en el cole y qué vence; por la tarde ya enseña el día siguiente.
 - **Tú decides.** Mochila propone la fecha, la hora, el hijo y lo que hay que llevar, pagar o firmar, y tú confirmas, cambias o descartas cada cosa.
 - **Compartida con el otro adulto.** Lo invitas con un código y los dos veis lo mismo: fechas, tareas, la mochila y quién recoge.
+- **Acceso limitado.** Una persona que ayuda con las recogidas ve Hoy, la semana y las recogidas de los hijos que elijas, solo para consultar.
 - **Calendario escolar incluido.** El calendario oficial de tu comunidad y los festivos de tu municipio ya vienen puestos, y puedes añadir los días de libre disposición de tu cole.
 - **Horario y menú del comedor.** El horario de cada hijo y el menú del comedor, leídos de una foto o de un PDF.
 - **Resumen de cada noche.** Cada noche te recuerda qué hay que llevar, pagar y firmar al día siguiente.
@@ -90,6 +92,12 @@ Las fotos y los PDF se leen en el teléfono y solo se envía el texto; si eliges
 [Política de privacidad](https://lamochila.app/privacidad) · [Eliminar la cuenta](https://lamochila.app/eliminar-cuenta)
 
 ## Novedades
+
+**0.4.0**
+
+- **Personas con acceso limitado.** Puedes añadir hasta dos (por ejemplo, alguien que ayuda con las recogidas). Ven Hoy, la semana y las recogidas de los hijos que elijas, y solo pueden mirar.
+- **Revisión de menús y horarios.** Ahora se ve como el papel y marca los días que conviene comprobar, con un motivo breve en cada uno.
+- **El año en las fechas lejanas.** Una fecha de otro año ahora muestra el año.
 
 Novedades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 

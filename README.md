@@ -46,18 +46,19 @@ During the launch, Mochila is free and shows no ads. You can start without creat
 
 <p>
   <a href="docs/readme/en/01-today.png"><img src="docs/readme/en/01-today.png" width="19%" alt="Today: what each child takes, what is on at school and what is due"></a>
-  <a href="docs/readme/en/02-week.png"><img src="docs/readme/en/02-week.png" width="19%" alt="Week: everything coming up, day by day"></a>
   <a href="docs/readme/en/03-import.png"><img src="docs/readme/en/03-import.png" width="19%" alt="Add: the suggestions from a message, ready to confirm, edit or discard"></a>
-  <a href="docs/readme/en/04-school-menu.png"><img src="docs/readme/en/04-school-menu.png" width="19%" alt="School lunch menu, read from a PDF and reviewed"></a>
+  <a href="docs/readme/en/04-school-menu.png"><img src="docs/readme/en/04-school-menu.png" width="19%" alt="School lunch menu, read from a PDF and reviewed, with the days worth checking marked"></a>
   <a href="docs/readme/en/05-family.png"><img src="docs/readme/en/05-family.png" width="19%" alt="Family: the school, with its timetables, lunch menu and calendar"></a>
+  <a href="docs/readme/en/06-limited.png"><img src="docs/readme/en/06-limited.png" width="19%" alt="Today for a person with limited access: school, bag and pickups, view only"></a>
 </p>
 
 <details>
 <summary>More screenshots</summary>
 
 <p>
-  <a href="docs/readme/en/06-privacy.png"><img src="docs/readme/en/06-privacy.png" width="19%" alt="Privacy and AI: what leaves the phone and what does not"></a>
-  <a href="docs/readme/en/07-dark.png"><img src="docs/readme/en/07-dark.png" width="19%" alt="Today in dark mode"></a>
+  <a href="docs/readme/en/02-week.png"><img src="docs/readme/en/02-week.png" width="19%" alt="Week: everything coming up, day by day"></a>
+  <a href="docs/readme/en/07-privacy.png"><img src="docs/readme/en/07-privacy.png" width="19%" alt="Privacy and AI: what leaves the phone and what does not"></a>
+  <a href="docs/readme/en/08-dark.png"><img src="docs/readme/en/08-dark.png" width="19%" alt="Today in dark mode"></a>
 </p>
 
 </details>
@@ -69,6 +70,7 @@ Tap a screenshot to enlarge it. Real screens with made-up details.
 - **Today at a glance.** What each child takes, what is on at school and what is due; in the afternoon it already shows tomorrow.
 - **You have the last word.** Mochila suggests the date, the time, the child and what to bring, pay or sign, and you confirm, edit or discard each item.
 - **Shared with the other adult.** Invite them with a code and you both see the same dates, tasks, bag and pickups.
+- **Limited access.** Someone who helps with pickups sees Today, the week and pickups for the children you choose, view only.
 - **School calendar included.** Your region's official school calendar and your town's holidays are already there, and you can add your school's own days off.
 - **Timetable and lunch menu.** Each child's timetable and the school lunch menu, read from a photo or a PDF.
 - **Evening summary.** Every evening a reminder tells you what to bring, pay and sign the next day.
@@ -90,6 +92,12 @@ Photos and PDFs are read on your phone and only the text is sent; if you choose 
 [Privacy policy](https://lamochila.app/en/privacy) · [Delete account](https://lamochila.app/eliminar-cuenta)
 
 ## What's new
+
+**0.4.0**
+
+- **People with limited access.** You can add up to two (for example, someone who helps with pickups). They see Today, the week and pickups for the children you choose, and can only look.
+- **Menu and timetable review.** It now looks like the paper and marks the days worth checking, with a short reason for each.
+- **The year on far dates.** A date in another year now shows its year.
 
 What's new in each version (in English): [CHANGELOG.md](CHANGELOG.md).
 

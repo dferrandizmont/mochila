@@ -46,18 +46,19 @@ Hasierako aldi honetan, Mochila doakoa da eta ez du iragarkirik. Kontu bat sortu
 
 <p>
   <a href="docs/readme/eu/01-today.png"><img src="docs/readme/eu/01-today.png" width="19%" alt="Gaur: seme-alaba bakoitzak zer daraman, zer duen eskolan eta zeren epea amaitzen den"></a>
-  <a href="docs/readme/eu/02-week.png"><img src="docs/readme/eu/02-week.png" width="19%" alt="Astea: datorren guztia, egunez egun"></a>
   <a href="docs/readme/eu/03-import.png"><img src="docs/readme/eu/03-import.png" width="19%" alt="Gehitu: mezu batetik ateratako proposamenak, berresteko, aldatzeko edo baztertzeko prest"></a>
-  <a href="docs/readme/eu/04-school-menu.png"><img src="docs/readme/eu/04-school-menu.png" width="19%" alt="Jantokiko menua, PDF batetik irakurrita eta berrikusita"></a>
+  <a href="docs/readme/eu/04-school-menu.png"><img src="docs/readme/eu/04-school-menu.png" width="19%" alt="Jantokiko menua, PDF batetik irakurrita eta berrikusita, egiaztatzea komeni diren egunak markatuta"></a>
   <a href="docs/readme/eu/05-family.png"><img src="docs/readme/eu/05-family.png" width="19%" alt="Familia: ikastetxea, ordutegiekin, jantokiko menuarekin eta egutegiarekin"></a>
+  <a href="docs/readme/eu/06-limited.png"><img src="docs/readme/eu/06-limited.png" width="19%" alt="Gaur sarbide mugatua duen pertsona batentzat: eskola, motxila eta jasotzeak, ikusteko bakarrik"></a>
 </p>
 
 <details>
 <summary>Pantaila-argazki gehiago</summary>
 
 <p>
-  <a href="docs/readme/eu/06-privacy.png"><img src="docs/readme/eu/06-privacy.png" width="19%" alt="Pribatutasuna eta AA: zer ateratzen den mugikorretik eta zer ez"></a>
-  <a href="docs/readme/eu/07-dark.png"><img src="docs/readme/eu/07-dark.png" width="19%" alt="Gaur modu ilunean"></a>
+  <a href="docs/readme/eu/02-week.png"><img src="docs/readme/eu/02-week.png" width="19%" alt="Astea: datorren guztia, egunez egun"></a>
+  <a href="docs/readme/eu/07-privacy.png"><img src="docs/readme/eu/07-privacy.png" width="19%" alt="Pribatutasuna eta AA: zer ateratzen den mugikorretik eta zer ez"></a>
+  <a href="docs/readme/eu/08-dark.png"><img src="docs/readme/eu/08-dark.png" width="19%" alt="Gaur modu ilunean"></a>
 </p>
 
 </details>
@@ -69,6 +70,7 @@ Sakatu pantaila-argazki bat handitzeko. Benetako pantailak dira, asmatutako datu
 - **Gaur, begirada batean.** Seme-alaba bakoitzak zer daraman, zer duen eskolan eta zeren epea amaitzen den; arratsaldean hurrengo eguna erakusten du jada.
 - **Zuk erabakitzen duzu.** Mochilak data, ordua, seme-alaba eta eraman, ordaindu edo sinatu beharrekoa proposatzen ditu, eta zuk gauza bakoitza berretsi, aldatu edo baztertzen duzu.
 - **Beste helduarekin partekatua.** Kode baten bidez gonbidatzen duzu, eta gauza bera ikusten duzue: datak, zereginak, motxila eta nork jasoko duen.
+- **Sarbide mugatua.** Jasotzeetan laguntzen duen pertsona batek Gaur, astea eta aukeratzen dituzun seme-alaben jasotzeak ikus ditzake, kontsultatzeko bakarrik.
 - **Eskola-egutegia barne.** Zure erkidegoko eskola-egutegi ofiziala eta zure udalerriko jaiegunak jarrita daude, eta ikastetxeak erabakitako egun libreak gehi ditzakezu.
 - **Ordutegia eta jantokiko menua.** Seme-alaba bakoitzaren ordutegia eta jantokiko menua, argazki edo PDF batetik irakurrita.
 - **Gaueko laburpena.** Gauero gogorarazten dizu hurrengo egunean zer eraman, ordaindu eta sinatu behar den.
@@ -90,6 +92,12 @@ Argazkiak eta PDFak telefonoan irakurtzen dira, eta testua bakarrik bidaltzen da
 [Pribatutasun-politika](https://lamochila.app/privacidad) (gaztelaniaz) · [Ezabatu kontua](https://lamochila.app/eliminar-cuenta)
 
 ## Berriak
+
+**0.4.0**
+
+- **Sarbide mugatua duten pertsonak.** Bi gehitu ditzakezu (adibidez, jasotzeetan laguntzen duen norbait). Gaur, astea eta aukeratzen dituzun seme-alaben jasotzeak ikusten dituzte, eta begiratu besterik ezin dute egin.
+- **Menuen eta ordutegien berrikuspena.** Orain paperaren itxura du eta egiaztatzea komeni diren egunak markatzen ditu, bakoitzean arrazoi labur batekin.
+- **Urtea urruneko datetan.** Beste urte bateko datak orain urtea erakusten du.
 
 Bertsio bakoitzeko berrikuntzak (ingelesez): [CHANGELOG.md](CHANGELOG.md).
 
