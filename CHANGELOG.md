@@ -15,6 +15,17 @@ Settings.
 
 Nothing yet.
 
+## v0.3.7 (0.3.7+60) · 2026-11-08
+
+- Importing a school menu or a timetable waits less: the server no longer holds the answer back for the bookkeeping that can happen while it answers, and a reading that comes back cut off (too long for the model) is no longer asked again in the same way, but once more asking for a shorter answer.
+- The list of things to do opens faster when the family has many of them.
+- While a menu, timetable or school calendar is read from a photo or a PDF (it can take up to a minute), the waiting message now moves on with the time instead of saying "Analysing…" the whole time: "Reading the document", then "Reading each day, this usually takes about half a minute", then "Checking the reading twice, one moment more" (no percentages). Screen readers are told of each change once.
+- Reading a school document from a photo or a PDF is faster on the phone: the photo is prepared while the text is read, and scanned PDFs are read two pages at a time.
+- Timetables read from a photo or a PDF are read better: a time column that prints the start and the end of a row side by side is now one row, a class printed for two weeks is one class instead of three, a cell that one reading takes whole and the other in parts is one lesson, the class codes ("1 ESO") no longer come with the subject, the short name the school prints ("EF") is shown as the full name ("Educació Física") and two lessons that overlap no longer do.
+- Website: a 404 page of our own in five languages.
+- The "You copied a message" card and sheet no longer come over another sheet or dialog (the school document import, the consent to use the AI, "how to read", sending a photo), nor over a form you are filling in (Create by hand, editing an item). If you copy a message while one of them is open, Mochila waits and offers it once you are back on a normal screen.
+- The date of an item now reaches the end of the year ten years ahead (it stopped at three), and a date that is not this year says which year it is ("dl. 1 de gen. 2029"), so a trip or a camp planned for next year is not read as this year.
+
 ## v0.3.6 (0.3.6+59) · 2026-11-07
 
 - When a school menu or timetable could not be read well, the review now says so kindly. If only some days (or classes) are doubtful, a soft note at the top asks you to check them against the paper, and they are marked in the list. If nothing could be read, the note offers a new photo or the PDF, adding the days (or classes) by hand, and "Send it to us": it opens your own e-mail app with the photo attached and a short message, after a sheet that explains where it goes and asks you to check it shows no personal data. You read and send the e-mail yourself; Mochila sends nothing on its own, and the temporary copy of the photo is deleted when you leave the screen.
