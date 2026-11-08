@@ -14,7 +14,7 @@ Mochila convierte los avisos del cole en la agenda de la familia. Copia el mensa
 
 <p>
   <a href="https://play.google.com/apps/testing/es.lamochila.app"><img src="https://img.shields.io/badge/Google_Play-Beta-414141?logo=googleplay&amp;style=for-the-badge" alt="Beta en Google Play"></a>
-  <a href="https://lamochila.app"><img src="https://img.shields.io/badge/Web-lamochila.app-2F5D50?style=for-the-badge" alt="Web: lamochila.app"></a>
+  <a href="https://lamochila.app"><img src="https://img.shields.io/badge/Web-lamochila.app-2B6A9E?style=for-the-badge" alt="Web: lamochila.app"></a>
   <!--
   <a href="[ENLACE_APP_STORE]"><img src="https://img.shields.io/badge/App_Store-Descargar-0D96F6?logo=appstore&amp;style=for-the-badge" alt="Disponible en App Store"></a>
   -->

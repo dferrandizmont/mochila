@@ -14,7 +14,7 @@ Mochila turns school messages into the family agenda. Copy a message from the cl
 
 <p>
   <a href="https://play.google.com/apps/testing/es.lamochila.app"><img src="https://img.shields.io/badge/Google_Play-Beta-414141?logo=googleplay&amp;style=for-the-badge" alt="Beta on Google Play"></a>
-  <a href="https://lamochila.app/en/"><img src="https://img.shields.io/badge/Website-lamochila.app-2F5D50?style=for-the-badge" alt="Website: lamochila.app"></a>
+  <a href="https://lamochila.app/en/"><img src="https://img.shields.io/badge/Website-lamochila.app-2B6A9E?style=for-the-badge" alt="Website: lamochila.app"></a>
   <!--
   <a href="[APP_STORE_LINK]"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?logo=appstore&amp;style=for-the-badge" alt="Download on the App Store"></a>
   -->

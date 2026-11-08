@@ -14,7 +14,7 @@ Mochilak eskolako oharrak familiaren agenda bihurtzen ditu. Kopiatu gelako talde
 
 <p>
   <a href="https://play.google.com/apps/testing/es.lamochila.app"><img src="https://img.shields.io/badge/Google_Play-Beta-414141?logo=googleplay&amp;style=for-the-badge" alt="Beta Google Play-n"></a>
-  <a href="https://lamochila.app/eu/"><img src="https://img.shields.io/badge/Webgunea-lamochila.app-2F5D50?style=for-the-badge" alt="Webgunea: lamochila.app"></a>
+  <a href="https://lamochila.app/eu/"><img src="https://img.shields.io/badge/Webgunea-lamochila.app-2B6A9E?style=for-the-badge" alt="Webgunea: lamochila.app"></a>
   <!--
   <a href="[APP_STORE_ESTEKA]"><img src="https://img.shields.io/badge/App_Store-Deskargatu-0D96F6?logo=appstore&amp;style=for-the-badge" alt="App Store-n eskuragarri"></a>
   -->

@@ -14,7 +14,7 @@ Mochila converteix els avisos de l’escola en l’agenda de la família. Copia 
 
 <p>
   <a href="https://play.google.com/apps/testing/es.lamochila.app"><img src="https://img.shields.io/badge/Google_Play-Beta-414141?logo=googleplay&amp;style=for-the-badge" alt="Beta a Google Play"></a>
-  <a href="https://lamochila.app/ca/"><img src="https://img.shields.io/badge/Web-lamochila.app-2F5D50?style=for-the-badge" alt="Web: lamochila.app"></a>
+  <a href="https://lamochila.app/ca/"><img src="https://img.shields.io/badge/Web-lamochila.app-2B6A9E?style=for-the-badge" alt="Web: lamochila.app"></a>
   <!--
   <a href="[ENLLAC_APP_STORE]"><img src="https://img.shields.io/badge/App_Store-Descarrega-0D96F6?logo=appstore&amp;style=for-the-badge" alt="Disponible a l’App Store"></a>
   -->
