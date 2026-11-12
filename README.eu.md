@@ -93,11 +93,13 @@ Argazkiak eta PDFak telefonoan irakurtzen dira, eta testua bakarrik bidaltzen da
 
 ## Berriak
 
-**0.4.0**
+**0.4.2**
 
-- **Sarbide mugatua duten pertsonak.** Bi gehitu ditzakezu (adibidez, jasotzeetan laguntzen duen norbait). Gaur, astea eta aukeratzen dituzun seme-alaben jasotzeak ikusten dituzte, eta begiratu besterik ezin dute egin.
-- **Menuen eta ordutegien berrikuspena.** Orain paperaren itxura du eta egiaztatzea komeni diren egunak markatzen ditu, bakoitzean arrazoi labur batekin.
-- **Urtea urruneko datetan.** Beste urte bateko datak orain urtea erakusten du.
+- **Astea berriro astea da.** Zazpi eguneko zerrenda batekin irekitzen da, mota bakoitzeko puntu batekin eta aukeratutako eguneko elementuak azpian dituela.
+- **Gaur askoz azkarrago irekitzen da.** Eguneko azken kopia berehala erakusten du, berria iristen den bitartean.
+- **Norena den jantokiko menua.** Seme-alaba bat baino gehiago dituzunean, jantokiko menuak esaten du norena den.
+- **Beste klase baterako mezuak.** Beste klase baterako mezu batek ez du ezer gehitzen eta hori esaten du, eta zerbait atzeratzen duen mezu batek elementua mugitzen du.
+- **Eskolako dokumentuak.** Eskola-egutegiak jaiegunaren izena gordetzen du, eta egun laburtuak dituzten menuak eta ordutegiak ondo irakurtzen dira.
 
 Bertsio bakoitzeko berrikuntzak (ingelesez): [CHANGELOG.md](CHANGELOG.md).
 

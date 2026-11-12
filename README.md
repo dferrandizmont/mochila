@@ -93,11 +93,13 @@ Photos and PDFs are read on your phone and only the text is sent; if you choose 
 
 ## What's new
 
-**0.4.0**
+**0.4.2**
 
-- **People with limited access.** You can add up to two (for example, someone who helps with pickups). They see Today, the week and pickups for the children you choose, and can only look.
-- **Menu and timetable review.** It now looks like the paper and marks the days worth checking, with a short reason for each.
-- **The year on far dates.** A date in another year now shows its year.
+- **Week is a week again.** The tab opens on a strip of seven days, with a dot for each kind of entry and the chosen day's list right under it.
+- **Today opens much faster.** It shows the last copy of the day at once while the fresh one arrives.
+- **Whose lunch menu it is.** With more than one child, Today says whose lunch menu it is.
+- **Messages for another class.** A message for another class adds nothing and says so, and one that postpones an event moves the entry.
+- **School documents.** The school calendar keeps the holiday's name, and menus and timetables with abbreviated weekdays are read correctly.
 
 What's new in each version (in English): [CHANGELOG.md](CHANGELOG.md).
 

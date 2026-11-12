@@ -93,11 +93,13 @@ Las fotos y los PDF se leen en el teléfono y solo se envía el texto; si eliges
 
 ## Novedades
 
-**0.4.0**
+**0.4.2**
 
-- **Personas con acceso limitado.** Puedes añadir hasta dos (por ejemplo, alguien que ayuda con las recogidas). Ven Hoy, la semana y las recogidas de los hijos que elijas, y solo pueden mirar.
-- **Revisión de menús y horarios.** Ahora se ve como el papel y marca los días que conviene comprobar, con un motivo breve en cada uno.
-- **El año en las fechas lejanas.** Una fecha de otro año ahora muestra el año.
+- **Semana vuelve a ser una semana.** La pestaña se abre con una franja de siete días, con un punto por tipo de aviso y la lista del día elegido justo debajo.
+- **Hoy se abre mucho más rápido.** Enseña al momento la última copia del día mientras llega la nueva.
+- **De quién es el menú.** Con más de un hijo, Hoy dice de quién es el menú del comedor.
+- **Mensajes para otra clase.** Un mensaje para otra clase no añade nada y lo dice, y uno que aplaza algo mueve el aviso.
+- **Documentos del cole.** El calendario escolar guarda el nombre del festivo, y se leen bien los menús y horarios con los días abreviados.
 
 Novedades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 

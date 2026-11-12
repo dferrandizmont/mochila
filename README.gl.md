@@ -93,11 +93,13 @@ As fotos e os PDF lense no teléfono e só se envía o texto; se escolles unha l
 
 ## Novidades
 
-**0.4.0**
+**0.4.2**
 
-- **Persoas con acceso limitado.** Podes engadir ata dúas (por exemplo, alguén que axuda coas recollidas). Ven Hoxe, a semana e as recollidas dos fillos que escollas, e só poden mirar.
-- **Revisión de menús e horarios.** Agora vese como o papel e marca os días que convén comprobar, cun motivo breve en cada un.
-- **O ano nas datas afastadas.** Unha data doutro ano agora mostra o ano.
+- **Semana volve ser unha semana.** Ábrese cunha franxa de sete días, cun punto por cada tipo de elemento e a lista do día escollido xusto debaixo.
+- **Hoxe ábrese moito máis rápido.** Mostra de inmediato a última copia do día mentres chega a nova.
+- **De quen é o menú.** Con máis dun fillo, Hoxe di de quen é o menú do comedor.
+- **Mensaxes para outra clase.** Unha mensaxe para outra clase non engade nada e dío, e unha que apraza algo move o elemento.
+- **Documentos do colexio.** O calendario escolar garda o nome do festivo, e os menús e os horarios cos días abreviados léense ben.
 
 Novidades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 

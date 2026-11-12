@@ -93,11 +93,13 @@ Les fotos i els PDF es llegeixen al telèfon i només se n’envia el text; si t
 
 ## Novetats
 
-**0.4.0**
+**0.4.2**
 
-- **Persones amb accés limitat.** Pots afegir-ne fins a dues (per exemple, algú que ajuda amb les recollides). Veuen Avui, la setmana i les recollides dels fills que triïs, i només hi poden mirar.
-- **Revisió de menús i horaris.** Ara es veu com el paper i marca els dies que convé comprovar, amb un motiu breu a cadascun.
-- **L’any en les dates llunyanes.** Una data d’un altre any ara mostra l’any.
+- **Setmana torna a ser una setmana.** La pestanya s’obre amb una franja de set dies, amb un punt per tipus d’avís i la llista del dia triat just a sota.
+- **Avui s’obre molt més de pressa.** Mostra a l’instant l’última còpia del dia mentre arriba la nova.
+- **De qui és el menú.** Amb més d’un fill, Avui diu de qui és el menú del menjador.
+- **Missatges per a una altra classe.** Un missatge per a una altra classe no afegeix res i ho diu, i un que ajorna alguna cosa mou l’avís.
+- **Documents de l’escola.** El calendari escolar conserva el nom del festiu, i es llegeixen bé els menús i horaris amb els dies abreujats.
 
 Novetats de cada versió (en anglès): [CHANGELOG.md](CHANGELOG.md).
 
