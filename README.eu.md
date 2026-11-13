@@ -93,13 +93,13 @@ Argazkiak eta PDFak telefonoan irakurtzen dira, eta testua bakarrik bidaltzen da
 
 ## Berriak
 
-**0.4.2**
+**0.4.3**
 
-- **Astea berriro astea da.** Zazpi eguneko zerrenda batekin irekitzen da, mota bakoitzeko puntu batekin eta aukeratutako eguneko elementuak azpian dituela.
-- **Gaur askoz azkarrago irekitzen da.** Eguneko azken kopia berehala erakusten du, berria iristen den bitartean.
-- **Norena den jantokiko menua.** Seme-alaba bat baino gehiago dituzunean, jantokiko menuak esaten du norena den.
-- **Beste klase baterako mezuak.** Beste klase baterako mezu batek ez du ezer gehitzen eta hori esaten du, eta zerbait atzeratzen duen mezu batek elementua mugitzen du.
-- **Eskolako dokumentuak.** Eskola-egutegiak jaiegunaren izena gordetzen du, eta egun laburtuak dituzten menuak eta ordutegiak ondo irakurtzen dira.
+- **Gaur eta widgeta.** Zerbait badago, ordaintzeke dagoen ordainketa bat barne, Gaur fitxak eta widgetak jada ez diote «Ezer berezirik ez».
+- **Urtea data urrunetan.** Beste urteetako datek urtea dute Gaur fitxan, astean, txarteletan eta Gastuak atalean.
+- **Seme-alaba artxibatuak.** Seme-alaba artxibatu batek bere etiketari eusten dio gordetako elementuetan, «Artxiboan» markarekin.
+- **Sarbide mugatua, egunean.** Sarbide mugatua duenak berehala ikusten ditu esleitutako seme-alaben aldaketak.
+- **Hilabetetik astera.** Hileko eguna hautatuta, astea egun horretan irekitzen da.
 
 Bertsio bakoitzeko berrikuntzak (ingelesez): [CHANGELOG.md](CHANGELOG.md).
 

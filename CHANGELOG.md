@@ -15,6 +15,20 @@ Settings.
 
 Nothing yet.
 
+## v0.4.3 (0.4.3+64) · 2026-11-13
+
+- Changed: a date that is not in the current year now shows its year on the task rows in Today and the agenda, on a proposal card in the inbox (the day, the deadline, the changes it makes to a saved event and the day a relative date is counted from), on a payment in Expenses, on a news card in Today, on the event lines an adult with limited access sees, and on the dates of a summer camp (the year is written once, at the end, when both days are in the same year), the same way the task detail, the Week header and the month day title already do.
+- Changed: on a saved event, a child who has been archived keeps their tag in the detail and in Expenses, now with a small neutral "Archived" label next to the name, also read by screen readers in Expenses. Today, the week, pick-ups, reminders and new assignments keep using only active children.
+- Fixed: when the family owner changes which children an adult with limited access sees, that adult's phone follows the change while the app is open (on the next sync or when the app returns to the screen), including the pick-up week and reminders, and the copies saved for a child no longer assigned are deleted and no longer appear offline. An adult with limited access now opens the app with the server's answer instead of the saved copy (the saved copy still shows offline). The first launch after this update downloads that adult's data again once; full adults keep their saved copies.
+- Fixed: signing in to an account that already has a family warns before replacing a guest family that only has schools, its own school days, activities or pack rules, not only one with children or items.
+- Fixed: after being removed from a family, joining another or switching family, the phone registers again for notifications right away (or when the app returns to the screen) instead of waiting for the next day.
+- Fixed: a change without a date whose message quotes a saved title no longer picks one of several matching saved events.
+- Faster: importing a message with many changes is quicker for families with many saved events.
+- New: the owner can block an account for misuse from the owner dashboard, with a reason, an optional deletion of its data and a way to undo it. A blocked account is signed out at its next request with a calm note on the welcome screen that says where to write for a copy or the deletion of its data, and a new guest session on the same phone is refused too. The app now sends a random install id, kept by the server only for blocked accounts (never a hardware or advertising identifier).
+- Fixed: Today and the home widget no longer say "Nothing special today" while an agenda item, including a pending payment or authorization, is listed for the day. Calendar-only no-school notices keep their previous quiet-day wording; the widget respects item and sentence expiry times.
+- Fixed: picking a day in the month grid and returning to the week now shows the week containing that day with that day selected, including when moving between months or years, clamping the day, or using Today.
+- Fixed: confirming a proposal card on Add › Message now shows the same mapped error (rate limit / budget and generic failures) as the manual form when the save is refused, even for the last card, and restores the card instead of leaving it added.
+
 ## v0.4.2 (0.4.2+63) · 2026-11-12
 
 - Fixed: postponing or correcting a saved event no longer silently enables school-trip or other school-day settings or converts it to no-school calendar days; update cards show the title they will save and only the school-day details they will apply. Bring corrections omit inferred direction labels when that direction will not be saved.

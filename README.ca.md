@@ -93,13 +93,13 @@ Les fotos i els PDF es llegeixen al telèfon i només se n’envia el text; si t
 
 ## Novetats
 
-**0.4.2**
+**0.4.3**
 
-- **Setmana torna a ser una setmana.** La pestanya s’obre amb una franja de set dies, amb un punt per tipus d’avís i la llista del dia triat just a sota.
-- **Avui s’obre molt més de pressa.** Mostra a l’instant l’última còpia del dia mentre arriba la nova.
-- **De qui és el menú.** Amb més d’un fill, Avui diu de qui és el menú del menjador.
-- **Missatges per a una altra classe.** Un missatge per a una altra classe no afegeix res i ho diu, i un que ajorna alguna cosa mou l’avís.
-- **Documents de l’escola.** El calendari escolar conserva el nom del festiu, i es llegeixen bé els menús i horaris amb els dies abreujats.
+- **Avui i el widget.** Ja no diuen «Res d’especial» si aquell dia hi ha alguna cosa, també un pagament pendent.
+- **L’any a les dates llunyanes.** Les dates d’un altre any mostren l’any a Avui, la setmana, les targetes i Despeses.
+- **Fills arxivats.** Un fill arxivat conserva la seva etiqueta als avisos desats, amb la marca «En arxiu».
+- **Accés limitat al dia.** La persona amb accés limitat veu de seguida els canvis dels fills que té assignats.
+- **Del mes a la setmana.** En triar un dia al mes, la setmana s’obre en aquell dia.
 
 Novetats de cada versió (en anglès): [CHANGELOG.md](CHANGELOG.md).
 

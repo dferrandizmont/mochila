@@ -93,13 +93,13 @@ Photos and PDFs are read on your phone and only the text is sent; if you choose 
 
 ## What's new
 
-**0.4.2**
+**0.4.3**
 
-- **Week is a week again.** The tab opens on a strip of seven days, with a dot for each kind of entry and the chosen day's list right under it.
-- **Today opens much faster.** It shows the last copy of the day at once while the fresh one arrives.
-- **Whose lunch menu it is.** With more than one child, Today says whose lunch menu it is.
-- **Messages for another class.** A message for another class adds nothing and says so, and one that postpones an event moves the entry.
-- **School documents.** The school calendar keeps the holiday's name, and menus and timetables with abbreviated weekdays are read correctly.
+- **Today and the widget.** They no longer say "Nothing special" when something is on that day, including a pending payment.
+- **The year on far dates.** Dates in another year show the year in Today, the week, the cards and Expenses.
+- **Archived children.** An archived child keeps their tag on saved entries, marked "Archived".
+- **Limited access stays current.** A person with limited access sees changes to their assigned children right away.
+- **From month to week.** Picking a day in the month opens the week on that day.
 
 What's new in each version (in English): [CHANGELOG.md](CHANGELOG.md).
 

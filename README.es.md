@@ -93,13 +93,13 @@ Las fotos y los PDF se leen en el teléfono y solo se envía el texto; si eliges
 
 ## Novedades
 
-**0.4.2**
+**0.4.3**
 
-- **Semana vuelve a ser una semana.** La pestaña se abre con una franja de siete días, con un punto por tipo de aviso y la lista del día elegido justo debajo.
-- **Hoy se abre mucho más rápido.** Enseña al momento la última copia del día mientras llega la nueva.
-- **De quién es el menú.** Con más de un hijo, Hoy dice de quién es el menú del comedor.
-- **Mensajes para otra clase.** Un mensaje para otra clase no añade nada y lo dice, y uno que aplaza algo mueve el aviso.
-- **Documentos del cole.** El calendario escolar guarda el nombre del festivo, y se leen bien los menús y horarios con los días abreviados.
+- **Hoy y el widget.** Ya no dicen «Nada especial» si ese día hay algo, también un pago pendiente.
+- **El año en las fechas lejanas.** Las fechas de otro año muestran el año en Hoy, la semana, las tarjetas y Gastos.
+- **Hijos archivados.** Un hijo archivado conserva su etiqueta en los avisos guardados, con la marca «En archivo».
+- **Acceso limitado al día.** La persona con acceso limitado ve enseguida los cambios de los hijos que tiene asignados.
+- **Del mes a la semana.** Al elegir un día en el mes, la semana se abre en ese día.
 
 Novedades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 
