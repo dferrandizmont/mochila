@@ -93,13 +93,11 @@ As fotos e os PDF lense no teléfono e só se envía o texto; se escolles unha l
 
 ## Novidades
 
-**0.4.3**
+**0.4.4**
 
-- **Hoxe e o widget.** Xa non din «Nada especial» se hai algo ese día, tamén un pagamento pendente.
-- **O ano nas datas lonxanas.** As datas doutro ano mostran o ano en Hoxe, na semana, nas tarxetas e en Gastos.
-- **Fillos arquivados.** Un fillo arquivado conserva a súa etiqueta nos elementos gardados, coa marca «En arquivo».
-- **Acceso limitado ao día.** A persoa con acceso limitado ve axiña os cambios dos fillos que ten asignados.
-- **Do mes á semana.** Ao escoller un día no mes, a semana ábrese nese día.
+- **Ábrese máis rápido.** Abrir a app e a pestana Semana xa non agarda por unha comprobación de seguridade nova en cada inicio nin pide dúas veces o mesmo.
+- **Hoxe nomea o primeiro que hai que facer.** Se un día hai cousas que facer pero non hai frase de resumo, o titular de Hoxe nomea a primeira e indica cantas máis hai.
+- **O widget baléirase el só.** Se se bloquea unha conta por uso indebido, o widget baléirase el só.
 
 Novidades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 

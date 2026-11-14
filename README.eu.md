@@ -93,13 +93,11 @@ Argazkiak eta PDFak telefonoan irakurtzen dira, eta testua bakarrik bidaltzen da
 
 ## Berriak
 
-**0.4.3**
+**0.4.4**
 
-- **Gaur eta widgeta.** Zerbait badago, ordaintzeke dagoen ordainketa bat barne, Gaur fitxak eta widgetak jada ez diote «Ezer berezirik ez».
-- **Urtea data urrunetan.** Beste urteetako datek urtea dute Gaur fitxan, astean, txarteletan eta Gastuak atalean.
-- **Seme-alaba artxibatuak.** Seme-alaba artxibatu batek bere etiketari eusten dio gordetako elementuetan, «Artxiboan» markarekin.
-- **Sarbide mugatua, egunean.** Sarbide mugatua duenak berehala ikusten ditu esleitutako seme-alaben aldaketak.
-- **Hilabetetik astera.** Hileko eguna hautatuta, astea egun horretan irekitzen da.
+- **Azkarrago irekitzen da.** Aplikazioa eta Astea fitxa irekitzea nabarmen azkarragoa da: jada ez da hasiera bakoitzean segurtasun-egiaztapen berri baten zain egoten, eta ez du gauza bera bi aldiz eskatzen.
+- **Gaur fitxak lehen egitekoa aipatzen du.** Egun batean gauzak badaude baina laburpen-esaldirik ez, Gaur fitxako titularrak lehenengoa aipatzen du, eta zenbat gehiago dauden esaten du.
+- **Widgeta berez husten da.** Kontu bat erabilera desegokiagatik blokeatzen bada, widgeta berez husten da.
 
 Bertsio bakoitzeko berrikuntzak (ingelesez): [CHANGELOG.md](CHANGELOG.md).
 

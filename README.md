@@ -93,13 +93,11 @@ Photos and PDFs are read on your phone and only the text is sent; if you choose 
 
 ## What's new
 
-**0.4.3**
+**0.4.4**
 
-- **Today and the widget.** They no longer say "Nothing special" when something is on that day, including a pending payment.
-- **The year on far dates.** Dates in another year show the year in Today, the week, the cards and Expenses.
-- **Archived children.** An archived child keeps their tag on saved entries, marked "Archived".
-- **Limited access stays current.** A person with limited access sees changes to their assigned children right away.
-- **From month to week.** Picking a day in the month opens the week on that day.
+- **Faster to open.** Opening the app and the Week tab no longer waits for a new security check on every start, and the app no longer asks twice for the same thing.
+- **Today names the first thing to do.** On a day with things to do but no summary sentence, the Today headline names the first one and says how many more there are.
+- **The widget clears itself.** If an account is blocked for misuse, the home widget empties itself.
 
 What's new in each version (in English): [CHANGELOG.md](CHANGELOG.md).
 

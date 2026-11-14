@@ -15,6 +15,13 @@ Settings.
 
 Nothing yet.
 
+## v0.4.4 (0.4.4+65) · 2026-11-14
+
+- Changed: on a day with things to do but no summary sentence, Today's headline now names the first one (what needs doing first: pay, sign, bring, then timed events by time) and how many more there are, instead of leaving the headline empty.
+- Fixed: when an account is blocked, the home widget clears itself at its next background refresh or sync notification, even if the app is not opened, and no longer shows the family's days; the next time the app opens it signs out with the usual calm note.
+- Faster: opening the app and the Week is quicker: requests no longer wait for a new security check on every start, because the phone keeps the short-lived App Check token while it is still valid.
+- Faster: opening the app and then the Week tab sends fewer requests at the same moment, so each one answers sooner: the Week tab asks for its school data once instead of twice, and the notification preferences come with the first account check instead of a second one.
+
 ## v0.4.3 (0.4.3+64) · 2026-11-13
 
 - Changed: a date that is not in the current year now shows its year on the task rows in Today and the agenda, on a proposal card in the inbox (the day, the deadline, the changes it makes to a saved event and the day a relative date is counted from), on a payment in Expenses, on a news card in Today, on the event lines an adult with limited access sees, and on the dates of a summer camp (the year is written once, at the end, when both days are in the same year), the same way the task detail, the Week header and the month day title already do.

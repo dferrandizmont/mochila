@@ -93,13 +93,11 @@ Les fotos i els PDF es llegeixen al telèfon i només se n’envia el text; si t
 
 ## Novetats
 
-**0.4.3**
+**0.4.4**
 
-- **Avui i el widget.** Ja no diuen «Res d’especial» si aquell dia hi ha alguna cosa, també un pagament pendent.
-- **L’any a les dates llunyanes.** Les dates d’un altre any mostren l’any a Avui, la setmana, les targetes i Despeses.
-- **Fills arxivats.** Un fill arxivat conserva la seva etiqueta als avisos desats, amb la marca «En arxiu».
-- **Accés limitat al dia.** La persona amb accés limitat veu de seguida els canvis dels fills que té assignats.
-- **Del mes a la setmana.** En triar un dia al mes, la setmana s’obre en aquell dia.
+- **S’obre més de pressa.** Obrir l’app i la pestanya Setmana ja no espera una comprovació de seguretat nova a cada inici, i l’app ja no demana dues vegades el mateix.
+- **Avui anomena el primer que cal fer.** Si un dia té coses però no hi ha frase de resum, el titular d’Avui anomena la primera i quantes més n’hi ha.
+- **El widget es buida sol.** Si es bloqueja un compte per ús indegut, el widget de la pantalla d’inici es buida sol.
 
 Novetats de cada versió (en anglès): [CHANGELOG.md](CHANGELOG.md).
 

@@ -93,13 +93,11 @@ Las fotos y los PDF se leen en el teléfono y solo se envía el texto; si eliges
 
 ## Novedades
 
-**0.4.3**
+**0.4.4**
 
-- **Hoy y el widget.** Ya no dicen «Nada especial» si ese día hay algo, también un pago pendiente.
-- **El año en las fechas lejanas.** Las fechas de otro año muestran el año en Hoy, la semana, las tarjetas y Gastos.
-- **Hijos archivados.** Un hijo archivado conserva su etiqueta en los avisos guardados, con la marca «En archivo».
-- **Acceso limitado al día.** La persona con acceso limitado ve enseguida los cambios de los hijos que tiene asignados.
-- **Del mes a la semana.** Al elegir un día en el mes, la semana se abre en ese día.
+- **Se abre más rápido.** Abrir la app y la pestaña Semana ya no espera una comprobación de seguridad nueva en cada inicio, y la app ya no pide dos veces lo mismo.
+- **Hoy nombra lo primero que hay que hacer.** Si un día tiene cosas pero no hay frase de resumen, el titular de Hoy nombra la primera y cuántas más hay.
+- **El widget se vacía solo.** Si se bloquea una cuenta por uso indebido, el widget de la pantalla de inicio se vacía solo.
 
 Novedades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 
