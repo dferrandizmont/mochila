@@ -93,11 +93,9 @@ Argazkiak eta PDFak telefonoan irakurtzen dira, eta testua bakarrik bidaltzen da
 
 ## Berriak
 
-**0.4.4**
+**0.4.5**
 
-- **Azkarrago irekitzen da.** Aplikazioa eta Astea fitxa irekitzea nabarmen azkarragoa da: jada ez da hasiera bakoitzean segurtasun-egiaztapen berri baten zain egoten, eta ez du gauza bera bi aldiz eskatzen.
-- **Gaur fitxak lehen egitekoa aipatzen du.** Egun batean gauzak badaude baina laburpen-esaldirik ez, Gaur fitxako titularrak lehenengoa aipatzen du, eta zenbat gehiago dauden esaten du.
-- **Widgeta berez husten da.** Kontu bat erabilera desegokiagatik blokeatzen bada, widgeta berez husten da.
+- **Gaur eta Astea lehenago eguneratzen dira.** Aplikazioa irekitzean, orain dena batera eskatzen dute, eskaera asko bata bestearen atzetik egin beharrean. Batez ere konexio txarra dagoenean nabaritzen da.
 
 Bertsio bakoitzeko berrikuntzak (ingelesez): [CHANGELOG.md](CHANGELOG.md).
 

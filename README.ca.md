@@ -93,11 +93,9 @@ Les fotos i els PDF es llegeixen al telèfon i només se n’envia el text; si t
 
 ## Novetats
 
-**0.4.4**
+**0.4.5**
 
-- **S’obre més de pressa.** Obrir l’app i la pestanya Setmana ja no espera una comprovació de seguretat nova a cada inici, i l’app ja no demana dues vegades el mateix.
-- **Avui anomena el primer que cal fer.** Si un dia té coses però no hi ha frase de resum, el titular d’Avui anomena la primera i quantes més n’hi ha.
-- **El widget es buida sol.** Si es bloqueja un compte per ús indegut, el widget de la pantalla d’inici es buida sol.
+- **Avui i Setmana s’actualitzen abans.** En obrir l’app, Avui i la pestanya Setmana ara ho demanen tot d’un cop en lloc de fer moltes peticions seguides. Es nota sobretot amb mala connexió.
 
 Novetats de cada versió (en anglès): [CHANGELOG.md](CHANGELOG.md).
 

@@ -93,11 +93,9 @@ Las fotos y los PDF se leen en el teléfono y solo se envía el texto; si eliges
 
 ## Novedades
 
-**0.4.4**
+**0.4.5**
 
-- **Se abre más rápido.** Abrir la app y la pestaña Semana ya no espera una comprobación de seguridad nueva en cada inicio, y la app ya no pide dos veces lo mismo.
-- **Hoy nombra lo primero que hay que hacer.** Si un día tiene cosas pero no hay frase de resumen, el titular de Hoy nombra la primera y cuántas más hay.
-- **El widget se vacía solo.** Si se bloquea una cuenta por uso indebido, el widget de la pantalla de inicio se vacía solo.
+- **Hoy y Semana se actualizan antes.** Al abrir la app, Hoy y la pestaña Semana ahora piden todo de una vez en lugar de hacer muchas peticiones seguidas. Se nota sobre todo con mala conexión.
 
 Novedades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 

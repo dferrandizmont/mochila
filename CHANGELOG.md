@@ -15,6 +15,10 @@ Settings.
 
 Nothing yet.
 
+## v0.4.5 (0.4.5+66) · 2026-11-15
+
+- Faster: after opening the app, Today gets everything it shows in one request instead of about fourteen, and the Week tab in one instead of five, so the latest changes from the other adult and the school appear sooner, especially on a slow connection.
+
 ## v0.4.4 (0.4.4+65) · 2026-11-14
 
 - Changed: on a day with things to do but no summary sentence, Today's headline now names the first one (what needs doing first: pay, sign, bring, then timed events by time) and how many more there are, instead of leaving the headline empty.

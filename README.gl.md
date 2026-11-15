@@ -93,11 +93,9 @@ As fotos e os PDF lense no teléfono e só se envía o texto; se escolles unha l
 
 ## Novidades
 
-**0.4.4**
+**0.4.5**
 
-- **Ábrese máis rápido.** Abrir a app e a pestana Semana xa non agarda por unha comprobación de seguridade nova en cada inicio nin pide dúas veces o mesmo.
-- **Hoxe nomea o primeiro que hai que facer.** Se un día hai cousas que facer pero non hai frase de resumo, o titular de Hoxe nomea a primeira e indica cantas máis hai.
-- **O widget baléirase el só.** Se se bloquea unha conta por uso indebido, o widget baléirase el só.
+- **Hoxe e Semana actualízanse antes.** Ao abrir a app, Hoxe e a pestana Semana agora piden todo dunha vez en vez de facer moitas peticións seguidas. Nótase sobre todo cunha conexión mala.
 
 Novidades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 

@@ -93,11 +93,9 @@ Photos and PDFs are read on your phone and only the text is sent; if you choose 
 
 ## What's new
 
-**0.4.4**
+**0.4.5**
 
-- **Faster to open.** Opening the app and the Week tab no longer waits for a new security check on every start, and the app no longer asks twice for the same thing.
-- **Today names the first thing to do.** On a day with things to do but no summary sentence, the Today headline names the first one and says how many more there are.
-- **The widget clears itself.** If an account is blocked for misuse, the home widget empties itself.
+- **Today and Week update sooner.** After opening the app, Today and the Week tab now ask for everything at once instead of sending many requests one after another. It is most noticeable with a poor connection.
 
 What's new in each version (in English): [CHANGELOG.md](CHANGELOG.md).
 
