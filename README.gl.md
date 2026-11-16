@@ -93,9 +93,11 @@ As fotos e os PDF lense no teléfono e só se envía o texto; se escolles unha l
 
 ## Novidades
 
-**0.4.5**
+**0.4.6**
 
-- **Hoxe e Semana actualízanse antes.** Ao abrir a app, Hoxe e a pestana Semana agora piden todo dunha vez en vez de facer moitas peticións seguidas. Nótase sobre todo cunha conexión mala.
+- **Horarios en PDF, moito mellor lidos.** Cada clase conserva a súa hora de inicio e de fin tal como está impresa na táboa; se unha cela non está clara, a clase queda marcada para revisala.
+- **Menús longos en PDF.** Xa se pode importar un menú do colexio nun PDF de máis de 10 páxinas (ata 60); Mochila le o texto das páxinas do mes e nunca envía unha imaxe dun PDF tan longo.
+- **Lembra o formato de cada colexio.** A seguinte importación dun PDF do mesmo colexio propón a páxina da última vez se ten o mesmo número de páxinas, cunha nota que se garda só no móbil.
 
 Novidades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 

@@ -15,6 +15,13 @@ Settings.
 
 Nothing yet.
 
+## v0.4.6 (0.4.6+67) · 2026-11-16
+
+- Fixed: unfamiliar timetable option codes after a room line are marked for review, so possible teacher names or initials are no longer accepted as subjects without a doubt.
+- Improved: the next document import from the same school proposes the page used last time and trusts timetable times the family already confirmed, using a format card kept only on the device.
+- Improved: school timetables in PDF are read much more reliably. The app takes each lesson's start and end from where they are printed in the grid and sends them with the text, and the subject of each cell comes from the cell itself, so a timetable that prints its hours per cell or as a column of clocks now keeps the right times; when a cell is unclear, the lesson is marked to check in the review, as before.
+- Improved: a school menu in a PDF of more than 10 pages (up to 60) can now be imported: Mochila reads the text of the pages for the month and never sends an image of such a long PDF. Before, it was turned down as too long.
+
 ## v0.4.5 (0.4.5+66) · 2026-11-15
 
 - Faster: after opening the app, Today gets everything it shows in one request instead of about fourteen, and the Week tab in one instead of five, so the latest changes from the other adult and the school appear sooner, especially on a slow connection.

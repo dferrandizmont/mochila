@@ -93,9 +93,11 @@ Photos and PDFs are read on your phone and only the text is sent; if you choose 
 
 ## What's new
 
-**0.4.5**
+**0.4.6**
 
-- **Today and Week update sooner.** After opening the app, Today and the Week tab now ask for everything at once instead of sending many requests one after another. It is most noticeable with a poor connection.
+- **School timetables in PDF, read much better.** Each lesson keeps its start and end time as printed in the grid; when a cell is unclear, the lesson is marked to check in the review.
+- **Long menus in PDF.** A school menu in a PDF of more than 10 pages (up to 60) can now be imported; Mochila reads the text of the month's pages and never sends an image of such a long PDF.
+- **Remembers each school's format.** The next PDF import from the same school suggests the page used last time if the PDF has the same number of pages, using a note kept only on the phone.
 
 What's new in each version (in English): [CHANGELOG.md](CHANGELOG.md).
 

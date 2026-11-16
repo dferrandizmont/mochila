@@ -93,9 +93,11 @@ Les fotos i els PDF es llegeixen al telèfon i només se n’envia el text; si t
 
 ## Novetats
 
-**0.4.5**
+**0.4.6**
 
-- **Avui i Setmana s’actualitzen abans.** En obrir l’app, Avui i la pestanya Setmana ara ho demanen tot d’un cop en lloc de fer moltes peticions seguides. Es nota sobretot amb mala connexió.
+- **Horaris en PDF, molt més ben llegits.** Cada classe conserva l’hora d’inici i de final tal com està impresa a la taula; si una casella no és clara, la classe queda marcada per revisar-la.
+- **Menús llargs en PDF.** Ja es pot importar un menú de l’escola en un PDF de més de 10 pàgines (fins a 60); Mochila llegeix el text de les pàgines del mes i mai no envia una imatge d’un PDF tan llarg.
+- **Recorda el format de cada escola.** La propera importació d’un PDF de la mateixa escola proposa la pàgina de l’última vegada si té el mateix nombre de pàgines, amb una nota que es guarda només al mòbil.
 
 Novetats de cada versió (en anglès): [CHANGELOG.md](CHANGELOG.md).
 
