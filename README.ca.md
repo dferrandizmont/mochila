@@ -93,11 +93,12 @@ Les fotos i els PDF es llegeixen al telèfon i només se n’envia el text; si t
 
 ## Novetats
 
-**0.4.6**
+**0.4.7**
 
-- **Horaris en PDF, molt més ben llegits.** Cada classe conserva l’hora d’inici i de final tal com està impresa a la taula; si una casella no és clara, la classe queda marcada per revisar-la.
-- **Menús llargs en PDF.** Ja es pot importar un menú de l’escola en un PDF de més de 10 pàgines (fins a 60); Mochila llegeix el text de les pàgines del mes i mai no envia una imatge d’un PDF tan llarg.
-- **Recorda el format de cada escola.** La propera importació d’un PDF de la mateixa escola proposa la pàgina de l’última vegada si té el mateix nombre de pàgines, amb una nota que es guarda només al mòbil.
+- **Més ràpida.** L’app s’obre i s’actualitza més de pressa, els missatges llargs no la ralentitzen i en desar ja no espera a recarregar la llista.
+- **Canvis a la política de privadesa, avisats una vegada.** Si la política de privadesa canvia en algun punt important, l’app t’avisa una vegada.
+- **Menús en PDF.** Ja es pot importar un menú llarg en PDF amb el mes escrit de costat al marge, i si el fitxer no inclou el mes que estàs veient, l’app et diu quin mes inclou.
+- **Cerca d’escoles.** Mostra primer les del teu municipi.
 
 Novetats de cada versió (en anglès): [CHANGELOG.md](CHANGELOG.md).
 

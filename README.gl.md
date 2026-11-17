@@ -93,11 +93,12 @@ As fotos e os PDF lense no teléfono e só se envía o texto; se escolles unha l
 
 ## Novidades
 
-**0.4.6**
+**0.4.7**
 
-- **Horarios en PDF, moito mellor lidos.** Cada clase conserva a súa hora de inicio e de fin tal como está impresa na táboa; se unha cela non está clara, a clase queda marcada para revisala.
-- **Menús longos en PDF.** Xa se pode importar un menú do colexio nun PDF de máis de 10 páxinas (ata 60); Mochila le o texto das páxinas do mes e nunca envía unha imaxe dun PDF tan longo.
-- **Lembra o formato de cada colexio.** A seguinte importación dun PDF do mesmo colexio propón a páxina da última vez se ten o mesmo número de páxinas, cunha nota que se garda só no móbil.
+- **Máis rápida.** A app abre e actualízase máis rápido, as mensaxes longas non a ralentizan e ao gardar xa non espera a recargar a lista.
+- **Cambios na política de privacidade, avisados unha vez.** Se a política de privacidade cambia en algo importante, a app avísate unha vez.
+- **Menús en PDF.** Xa se pode importar un menú longo en PDF co mes escrito de lado na marxe, e se o ficheiro non inclúe o mes que estás vendo, a app diche que mes inclúe.
+- **Busca de colexios.** Mostra primeiro os do teu concello.
 
 Novidades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 

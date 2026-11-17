@@ -93,11 +93,12 @@ Argazkiak eta PDFak telefonoan irakurtzen dira, eta testua bakarrik bidaltzen da
 
 ## Berriak
 
-**0.4.6**
+**0.4.7**
 
-- **PDF formatuko ordutegiak askoz hobeto irakurtzen dira.** Klase bakoitzak hasiera- eta amaiera-orduak taulan inprimatuta dauden bezala gordetzen ditu; gelaxka bat argi ez badago, klasea berrikusteko markatuta geratzen da.
-- **PDF formatuko menu luzeak.** Orain 10 orri baino gehiago dituen PDF bateko ikastetxeko menua inporta daiteke (60 orri arte); Mochilak hilabeteko orrien testua irakurtzen du eta ez du inoiz halako PDF luze baten irudirik bidaltzen.
-- **Ikastetxe bakoitzaren formatua gogoratzen du.** Ikastetxe bereko hurrengo PDFak orri kopuru bera badu, Mochilak aurreko aldian erabilitako orria proposatzen du, telefonoan bakarrik gordetzen den ohar baten bidez.
+- **Azkarragoa.** Aplikazioa azkarrago ireki eta eguneratzen da, mezu luzeek ez dute moteltzen eta gordetzean ez du zerrenda berriz kargatu arte itxaroten.
+- **Pribatutasun-politikaren aldaketak, behin abisatuta.** Pribatutasun-politikan aldaketa garrantzitsurik badago, aplikazioak behin abisatzen dizu.
+- **PDFetako menuak.** Hilabetea ertzean alboratuta idatzita duen PDF luze bateko menua inporta daiteke orain, eta fitxategiak ikusten ari zaren hilabetea ez badakar, aplikazioak zein hilabete dakarren esaten dizu.
+- **Ikastetxeen bilaketa.** Zure udalerrikoak erakusten ditu lehenik.
 
 Bertsio bakoitzeko berrikuntzak (ingelesez): [CHANGELOG.md](CHANGELOG.md).
 

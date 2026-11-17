@@ -93,11 +93,12 @@ Photos and PDFs are read on your phone and only the text is sent; if you choose 
 
 ## What's new
 
-**0.4.6**
+**0.4.7**
 
-- **School timetables in PDF, read much better.** Each lesson keeps its start and end time as printed in the grid; when a cell is unclear, the lesson is marked to check in the review.
-- **Long menus in PDF.** A school menu in a PDF of more than 10 pages (up to 60) can now be imported; Mochila reads the text of the month's pages and never sends an image of such a long PDF.
-- **Remembers each school's format.** The next PDF import from the same school suggests the page used last time if the PDF has the same number of pages, using a note kept only on the phone.
+- **Faster.** The app opens and refreshes faster, long messages stay responsive, and saving no longer waits for the list to reload.
+- **Privacy policy changes, told once.** If the privacy policy changes in an important way, the app tells you once.
+- **Menus in PDF.** A long menu PDF whose month is written sideways in the margin can now be imported, and if the file does not have the month on screen, the app tells you which month it has.
+- **School search.** It shows schools in your own town first.
 
 What's new in each version (in English): [CHANGELOG.md](CHANGELOG.md).
 
