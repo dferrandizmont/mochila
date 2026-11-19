@@ -1,12 +1,12 @@
 **English** · [Español](README.es.md) · [Català](README.ca.md) · [Galego](README.gl.md) · [Euskara](README.eu.md)
 
 <p align="center">
-  <img src="docs/readme/en/header.png" alt="Mochila — School messages in, a calm family agenda out." width="1024">
+  <img src="docs/readme/en/header.png" alt="La Mochila — School messages in, a calm family agenda out." width="1024">
 </p>
 
-# Mochila
+# La Mochila
 
-Mochila turns school messages into the family agenda. Copy a message from the class group and paste it into Mochila, or give it a photo or a PDF of a school letter, a lunch menu or a timetable: it picks out what to bring, who picks up, the activities and the payments, each on its own day, and you review everything first. The app never goes into your WhatsApp groups: it only reads what you copy.
+La Mochila turns school messages into the family agenda. Copy and paste a class group message into the app, or give it a photo or a PDF of a school letter, a lunch menu or a timetable: it picks out what to bring, who picks up, the activities and the payments, each on its own day, and you review everything first. The app never goes into your WhatsApp groups: it only reads what you copy.
 
 **Free during the launch · No ads · Account optional**
 
@@ -25,7 +25,7 @@ Android: closed test on Google Play, open to anyone. iPhone: coming soon. The we
 <details>
 <summary>Join the beta on Google Play</summary>
 
-Mochila is in closed testing on Google Play and anyone can join:
+Anyone can join the app’s closed test on Google Play:
 
 1. Join the testers group: [mochila-testers](https://groups.google.com/g/mochila-testers). Sign in with the Google account you use on your Android phone and press «Join group».
 2. Accept the test from your phone or computer: [play.google.com/apps/testing/es.lamochila.app](https://play.google.com/apps/testing/es.lamochila.app).
@@ -38,7 +38,7 @@ If you can, stay in the test for at least 14 days and use it from time to time (
 <details>
 <summary>Free during the launch</summary>
 
-During the launch, Mochila is free and shows no ads. You can start without creating an account: without one, your family can run up to 3 analyses a day and 20 a month (each notice Mochila reads counts as one analysis). If you link a free Google or Apple account, you can invite the other adult to share the agenda, go up to 20 analyses a day and 200 a month per family, and keep access if you change phones.
+At launch, the app is free and shows no ads. You can start without creating an account: without one, your family can run up to 3 analyses a day and 20 a month (each notice read counts as one analysis). If you link a free Google or Apple account, you can invite the other adult to share the agenda, go up to 20 analyses a day and 200 a month per family, and keep access if you change phones.
 
 </details>
 
@@ -68,7 +68,7 @@ Tap a screenshot to enlarge it. Real screens with made-up details.
 ## Features
 
 - **Today at a glance.** What each child takes, what is on at school and what is due; in the afternoon it already shows tomorrow.
-- **You have the last word.** Mochila suggests the date, the time, the child and what to bring, pay or sign, and you confirm, edit or discard each item.
+- **You have the last word.** The app suggests the date, the time, the child and what to bring, pay or sign, and you confirm, edit or discard each item.
 - **Shared with the other adult.** Invite them with a code and you both see the same dates, tasks, bag and pickups.
 - **Limited access.** Someone who helps with pickups sees Today, the week and pickups for the children you choose, view only.
 - **School calendar included.** Your region's official school calendar and your town's holidays are already there, and you can add your school's own days off.
@@ -93,12 +93,13 @@ Photos and PDFs are read on your phone and only the text is sent; if you choose 
 
 ## What's new
 
-**0.4.7**
+**0.4.8**
 
-- **Faster.** The app opens and refreshes faster, long messages stay responsive, and saving no longer waits for the list to reload.
-- **Privacy policy changes, told once.** If the privacy policy changes in an important way, the app tells you once.
-- **Menus in PDF.** A long menu PDF whose month is written sideways in the margin can now be imported, and if the file does not have the month on screen, the app tells you which month it has.
-- **School search.** It shows schools in your own town first.
+- **New name.** The app is now called La Mochila.
+- **Menus safer to edit.** A lunch menu can be edited only once the app has loaded the saved one, so no edit or import overwrites newer changes; if loading fails, your drafts stay and Save offers to reload and merge them.
+- **Catering PDF.** Saving it clears the previous reading notice, and an empty reading no longer wipes the saved menu.
+- **Upcoming list.** It keeps your recent edits while it loads more.
+- **Faster.** Menus, the timetable, Today and Week open sooner.
 
 What's new in each version (in English): [CHANGELOG.md](CHANGELOG.md).
 

@@ -1,12 +1,12 @@
 [English](README.md) · [Español](README.es.md) · [Català](README.ca.md) · **Galego** · [Euskara](README.eu.md)
 
 <p align="center">
-  <img src="docs/readme/gl/header.png" alt="Mochila — Das mensaxes do colexio a unha axenda familiar tranquila." width="1024">
+  <img src="docs/readme/gl/header.png" alt="La Mochila — Das mensaxes do colexio a unha axenda familiar tranquila." width="1024">
 </p>
 
-# Mochila
+# La Mochila
 
-Mochila converte os avisos do colexio na axenda da familia. Copia a mensaxe do grupo da clase e pégaa en Mochila, ou dálle unha foto ou un PDF dunha circular, do menú do comedor ou do horario: a app saca que hai que levar, quen recolle, as extraescolares e os pagamentos, cada cousa no seu día, e ti revísalo todo antes de que entre na axenda. Mochila non entra nos teus grupos de WhatsApp: só le o que ti copias.
+La Mochila converte os avisos do colexio na axenda da familia. Copia a mensaxe do grupo da clase e pégaa na app, ou dálle unha foto ou un PDF dunha circular, do menú do comedor ou do horario: a app saca que hai que levar, quen recolle, as extraescolares e os pagamentos, cada cousa no seu día, e ti revísalo todo antes de que entre na axenda. A app non entra nos teus grupos de WhatsApp: só le o que ti copias.
 
 **De balde durante o lanzamento · Sen anuncios · Conta opcional**
 
@@ -25,7 +25,7 @@ Android: proba pechada en Google Play, aberta a calquera. iPhone: proximamente. 
 <details>
 <summary>Únete á beta de Google Play</summary>
 
-Mochila está en proba pechada en Google Play e calquera pode apuntarse:
+A app está en proba pechada en Google Play e calquera pode apuntarse:
 
 1. Únete ao grupo de testers: [mochila-testers](https://groups.google.com/g/mochila-testers). Coa conta de Google que usas no móbil Android, preme «Unirse ao grupo».
 2. Acepta a proba desde o móbil ou o ordenador: [play.google.com/apps/testing/es.lamochila.app](https://play.google.com/apps/testing/es.lamochila.app).
@@ -38,7 +38,7 @@ Se podes, quédate na proba polo menos 14 días e úsaa de cando en vez (por exe
 <details>
 <summary>De balde durante o lanzamento</summary>
 
-Durante o lanzamento, Mochila é gratuíta e non ten anuncios. Podes comezar sen crear unha conta: sen conta, a túa familia pode facer ata 3 análises ao día e 20 ao mes (cada aviso que le Mochila conta como unha análise). Se vinculas unha conta gratuíta de Google ou Apple, podes convidar o outro adulto para compartir a axenda, chegar a 20 análises ao día e 200 ao mes por familia, e non perdes o acceso se cambias de teléfono.
+Durante o lanzamento, a app é gratuíta e non ten anuncios. Podes comezar sen crear unha conta: sen conta, a túa familia pode facer ata 3 análises ao día e 20 ao mes (cada aviso que le a app conta como unha análise). Se vinculas unha conta gratuíta de Google ou Apple, podes convidar o outro adulto para compartir a axenda, chegar a 20 análises ao día e 200 ao mes por familia, e non perdes o acceso se cambias de teléfono.
 
 </details>
 
@@ -68,7 +68,7 @@ Preme unha captura para ampliala. Pantallas reais con datos inventados.
 ## Funcións
 
 - **Hoxe, dunha ollada.** Que leva cada fillo, que toca no colexio e que vence; pola tarde xa amosa o día seguinte.
-- **Ti decides.** Mochila propón a data, a hora, o fillo e o que hai que levar, pagar ou asinar, e ti confirmas, cambias ou descartas cada cousa.
+- **Ti decides.** A app propón a data, a hora, o fillo e o que hai que levar, pagar ou asinar, e ti confirmas, cambias ou descartas cada cousa.
 - **Compartida co outro adulto.** Convídalo cun código e os dous vedes o mesmo: datas, tarefas, a mochila e quen recolle.
 - **Acceso limitado.** Unha persoa que axuda coas recollidas ve Hoxe, a semana e as recollidas dos fillos que escollas, só para consultar.
 - **Calendario escolar incluído.** O calendario oficial da túa comunidade e os festivos do teu concello xa veñen postos, e podes engadir os días de libre disposición do teu colexio.
@@ -93,12 +93,13 @@ As fotos e os PDF lense no teléfono e só se envía o texto; se escolles unha l
 
 ## Novidades
 
-**0.4.7**
+**0.4.8**
 
-- **Máis rápida.** A app abre e actualízase máis rápido, as mensaxes longas non a ralentizan e ao gardar xa non espera a recargar a lista.
-- **Cambios na política de privacidade, avisados unha vez.** Se a política de privacidade cambia en algo importante, a app avísate unha vez.
-- **Menús en PDF.** Xa se pode importar un menú longo en PDF co mes escrito de lado na marxe, e se o ficheiro non inclúe o mes que estás vendo, a app diche que mes inclúe.
-- **Busca de colexios.** Mostra primeiro os do teu concello.
+- **Novo nome.** A app chámase agora La Mochila.
+- **Edición máis segura dos menús.** Só podes editar un menú do comedor despois de que a app cargue a versión gardada. Así evítase sobrescribir cambios máis recentes ao editar ou importar. Se falla a carga, consérvanse os teus borradores. Ao premer «Gardar», podes volver cargar o menú gardado e incorporar os cambios dos borradores.
+- **PDF do catering.** Ao gardalo, desaparece o aviso da lectura anterior. Se a lectura non dá resultados, xa non se borra o menú gardado.
+- **Lista dos próximos elementos.** Conserva os teus últimos cambios mentres se cargan máis entradas.
+- **Máis rápida.** Os menús, o horario e as pantallas «Hoxe» e «Semana» ábrense máis rápido.
 
 Novidades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 

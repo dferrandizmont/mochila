@@ -1,12 +1,12 @@
 [English](README.md) · **Español** · [Català](README.ca.md) · [Galego](README.gl.md) · [Euskara](README.eu.md)
 
 <p align="center">
-  <img src="docs/readme/es/header.png" alt="Mochila — De los mensajes del cole a una agenda familiar tranquila." width="1024">
+  <img src="docs/readme/es/header.png" alt="La Mochila — De los mensajes del cole a una agenda familiar tranquila." width="1024">
 </p>
 
-# Mochila
+# La Mochila
 
-Mochila convierte los avisos del cole en la agenda de la familia. Copia el mensaje del grupo de clase y pégalo en Mochila, o dale una foto o un PDF de una circular, del menú del comedor o del horario: la app saca qué hay que llevar, quién recoge, las extraescolares y los pagos, cada cosa en su día, y tú lo revisas todo antes de que entre en la agenda. Mochila no entra en tus grupos de WhatsApp: solo lee lo que tú copias.
+La Mochila convierte los avisos del cole en la agenda de la familia. Copia el mensaje del grupo de clase y pégalo en la app, o dale una foto o un PDF de una circular, del menú del comedor o del horario: la app saca qué hay que llevar, quién recoge, las extraescolares y los pagos, cada cosa en su día, y tú lo revisas todo antes de que entre en la agenda. La app no entra en tus grupos de WhatsApp: solo lee lo que tú copias.
 
 **Gratis durante el lanzamiento · Sin anuncios · Cuenta opcional**
 
@@ -25,7 +25,7 @@ Android: prueba cerrada en Google Play, abierta a cualquiera. iPhone: próximame
 <details>
 <summary>Únete a la beta de Google Play</summary>
 
-Mochila está en prueba cerrada en Google Play y cualquiera puede apuntarse:
+La app está en prueba cerrada en Google Play y cualquiera puede apuntarse:
 
 1. Únete al grupo de testers: [mochila-testers](https://groups.google.com/g/mochila-testers). Con la cuenta de Google que usas en el móvil Android, pulsa «Unirse al grupo».
 2. Acepta la prueba desde el móvil o el ordenador: [play.google.com/apps/testing/es.lamochila.app](https://play.google.com/apps/testing/es.lamochila.app).
@@ -38,7 +38,7 @@ Si puedes, quédate en la prueba al menos 14 días y úsala de vez en cuando (po
 <details>
 <summary>Gratis durante el lanzamiento</summary>
 
-Durante el lanzamiento, Mochila es gratis y no tiene anuncios. Puedes empezar sin crear una cuenta: sin cuenta, tu familia puede hacer hasta 3 análisis al día y 20 al mes (cada aviso que lee Mochila cuenta como un análisis). Si vinculas una cuenta gratuita de Google o Apple, puedes invitar al otro adulto para compartir la agenda, llegar a 20 análisis al día y 200 al mes por familia, y no pierdes el acceso si cambias de teléfono.
+Durante el lanzamiento, la app es gratis y no tiene anuncios. Puedes empezar sin crear una cuenta: sin cuenta, tu familia puede hacer hasta 3 análisis al día y 20 al mes (cada aviso que lee la app cuenta como un análisis). Si vinculas una cuenta gratuita de Google o Apple, puedes invitar al otro adulto para compartir la agenda, llegar a 20 análisis al día y 200 al mes por familia, y no pierdes el acceso si cambias de teléfono.
 
 </details>
 
@@ -68,7 +68,7 @@ Pulsa una captura para ampliarla. Pantallas reales con datos inventados.
 ## Funciones
 
 - **Hoy, de un vistazo.** Qué lleva cada hijo, qué toca en el cole y qué vence; por la tarde ya enseña el día siguiente.
-- **Tú decides.** Mochila propone la fecha, la hora, el hijo y lo que hay que llevar, pagar o firmar, y tú confirmas, cambias o descartas cada cosa.
+- **Tú decides.** La app propone la fecha, la hora, el hijo y lo que hay que llevar, pagar o firmar, y tú confirmas, cambias o descartas cada cosa.
 - **Compartida con el otro adulto.** Lo invitas con un código y los dos veis lo mismo: fechas, tareas, la mochila y quién recoge.
 - **Acceso limitado.** Una persona que ayuda con las recogidas ve Hoy, la semana y las recogidas de los hijos que elijas, solo para consultar.
 - **Calendario escolar incluido.** El calendario oficial de tu comunidad y los festivos de tu municipio ya vienen puestos, y puedes añadir los días de libre disposición de tu cole.
@@ -93,12 +93,13 @@ Las fotos y los PDF se leen en el teléfono y solo se envía el texto; si eliges
 
 ## Novedades
 
-**0.4.7**
+**0.4.8**
 
-- **Más rápida.** La app arranca y se actualiza más rápido, los mensajes largos no la ralentizan y al guardar ya no espera a recargar la lista.
-- **Cambios en la política de privacidad, avisados una vez.** Si la política de privacidad cambia en algo importante, la app te avisa una vez.
-- **Menús en PDF.** Ya se puede importar un menú largo en PDF cuyo mes está escrito de lado en el margen, y si el archivo no trae el mes que estás viendo, la app te dice qué mes trae.
-- **Búsqueda de colegios.** Muestra primero los de tu municipio.
+- **Nuevo nombre.** La app ahora se llama La Mochila.
+- **Menús más seguros al editar.** Un menú del comedor solo se puede editar cuando la app ha cargado el guardado, así ninguna edición ni importación pisa cambios más nuevos; si no se puede cargar, tus borradores se quedan y Guardar te ofrece recargar y juntarlos.
+- **PDF del catering.** Al guardarlo se quita el aviso de la lectura anterior, y una lectura vacía ya no borra el menú guardado.
+- **Lista de próximos.** Conserva tus cambios recientes mientras carga más.
+- **Más rápida.** Menús, horario, Hoy y Semana se abren antes.
 
 Novedades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 

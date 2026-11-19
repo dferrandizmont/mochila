@@ -1,12 +1,12 @@
 [English](README.md) · [Español](README.es.md) · [Català](README.ca.md) · [Galego](README.gl.md) · **Euskara**
 
 <p align="center">
-  <img src="docs/readme/eu/header.png" alt="Mochila — Eskolako mezuetatik familia-agenda lasai batera." width="1024">
+  <img src="docs/readme/eu/header.png" alt="La Mochila — Eskolako mezuetatik familia-agenda lasai batera." width="1024">
 </p>
 
-# Mochila
+# La Mochila
 
-Mochilak eskolako oharrak familiaren agenda bihurtzen ditu. Kopiatu gelako taldeko mezua eta itsatsi Mochilan, edo eman zirkular baten, jantokiko menuaren edo ordutegiaren argazkia edo PDFa: aplikazioak zer eraman, nork jaso, eskolaz kanpoko jarduerak eta ordainketak ateratzen ditu, gauza bakoitza bere egunean, eta zuk dena berrikusten duzu agendan sartu aurretik. Mochila ez da zure WhatsApp taldeetan sartzen: zuk kopiatzen duzuna bakarrik irakurtzen du.
+La Mochilak eskolako oharrak familiaren agenda bihurtzen ditu. Kopiatu gelako taldeko mezua eta itsatsi aplikazioan, edo eman zirkular baten, jantokiko menuaren edo ordutegiaren argazkia edo PDFa: aplikazioak zer eraman, nork jaso, eskolaz kanpoko jarduerak eta ordainketak ateratzen ditu, gauza bakoitza bere egunean, eta zuk dena berrikusten duzu agendan sartu aurretik. Aplikazioa ez da zure WhatsApp taldeetan sartzen: zuk kopiatzen duzuna bakarrik irakurtzen du.
 
 **Doan hasierako aldi honetan · Iragarkirik gabe · Kontua aukerakoa da**
 
@@ -25,7 +25,7 @@ Android: proba itxia Google Play-n, edonorentzat irekia. iPhone: laster. Webgune
 <details>
 <summary>Sartu Google Play-ko betan</summary>
 
-Mochila proba itxian dago Google Play-n, eta edonor sar daiteke:
+Aplikazioa proba itxian dago Google Play-n, eta edonor sar daiteke:
 
 1. Sartu testerren taldean: [mochila-testers](https://groups.google.com/g/mochila-testers). Android mugikorrean erabiltzen duzun Google kontuarekin, sakatu taldean sartzeko botoia.
 2. Onartu proba mugikorretik edo ordenagailutik: [play.google.com/apps/testing/es.lamochila.app](https://play.google.com/apps/testing/es.lamochila.app).
@@ -38,7 +38,7 @@ Ahal baduzu, egon proban gutxienez 14 egunez eta erabili noizean behin (adibidez
 <details>
 <summary>Doan hasierako aldi honetan</summary>
 
-Hasierako aldi honetan, Mochila doakoa da eta ez du iragarkirik. Kontu bat sortu gabe has zaitezke: konturik gabe, zure familiak gehienez 3 analisi egin ditzake egunean eta 20 hilean (Mochilak irakurtzen duen ohar bakoitza analisi bat da). Google edo Apple doako kontu bat lotzen baduzu, beste heldua gonbida dezakezu agenda partekatzeko, familia bakoitzeko gehienez 20 analisi egunean eta 200 hilean egin ditzakezu, eta ez duzu sarbidea galduko telefonoa aldatzen baduzu.
+Hasierako aldi honetan, aplikazioa doakoa da eta ez du iragarkirik. Kontu bat sortu gabe has zaitezke: konturik gabe, zure familiak gehienez 3 analisi egin ditzake egunean eta 20 hilean (aplikazioak irakurtzen duen ohar bakoitza analisi bat da). Google edo Apple doako kontu bat lotzen baduzu, beste heldua gonbida dezakezu agenda partekatzeko, familia bakoitzeko gehienez 20 analisi egunean eta 200 hilean egin ditzakezu, eta ez duzu sarbidea galduko telefonoa aldatzen baduzu.
 
 </details>
 
@@ -68,7 +68,7 @@ Sakatu pantaila-argazki bat handitzeko. Benetako pantailak dira, asmatutako datu
 ## Funtzioak
 
 - **Gaur, begirada batean.** Seme-alaba bakoitzak zer daraman, zer duen eskolan eta zeren epea amaitzen den; arratsaldean hurrengo eguna erakusten du jada.
-- **Zuk erabakitzen duzu.** Mochilak data, ordua, seme-alaba eta eraman, ordaindu edo sinatu beharrekoa proposatzen ditu, eta zuk gauza bakoitza berretsi, aldatu edo baztertzen duzu.
+- **Zuk erabakitzen duzu.** Aplikazioak data, ordua, seme-alaba eta eraman, ordaindu edo sinatu beharrekoa proposatzen ditu, eta zuk gauza bakoitza berretsi, aldatu edo baztertzen duzu.
 - **Beste helduarekin partekatua.** Kode baten bidez gonbidatzen duzu, eta gauza bera ikusten duzue: datak, zereginak, motxila eta nork jasoko duen.
 - **Sarbide mugatua.** Jasotzeetan laguntzen duen pertsona batek Gaur, astea eta aukeratzen dituzun seme-alaben jasotzeak ikus ditzake, kontsultatzeko bakarrik.
 - **Eskola-egutegia barne.** Zure erkidegoko eskola-egutegi ofiziala eta zure udalerriko jaiegunak jarrita daude, eta ikastetxeak erabakitako egun libreak gehi ditzakezu.
@@ -93,12 +93,13 @@ Argazkiak eta PDFak telefonoan irakurtzen dira, eta testua bakarrik bidaltzen da
 
 ## Berriak
 
-**0.4.7**
+**0.4.8**
 
-- **Azkarragoa.** Aplikazioa azkarrago ireki eta eguneratzen da, mezu luzeek ez dute moteltzen eta gordetzean ez du zerrenda berriz kargatu arte itxaroten.
-- **Pribatutasun-politikaren aldaketak, behin abisatuta.** Pribatutasun-politikan aldaketa garrantzitsurik badago, aplikazioak behin abisatzen dizu.
-- **PDFetako menuak.** Hilabetea ertzean alboratuta idatzita duen PDF luze bateko menua inporta daiteke orain, eta fitxategiak ikusten ari zaren hilabetea ez badakar, aplikazioak zein hilabete dakarren esaten dizu.
-- **Ikastetxeen bilaketa.** Zure udalerrikoak erakusten ditu lehenik.
+- **Izen berria.** Aplikazioaren izena La Mochila da orain.
+- **Jantokiko menuak seguruago editatzeko.** Gordetako menua kargatu arte ezin da jantokiko menua editatu. Horrela, editatzean edo inportatzean ez dira aldaketa berriagoak gainidazten. Menua kargatu ezin bada, zure zirriborroak ez dira galtzen. «Gorde» sakatzean, gordetako menua berriro kargatzeko eta zirriborroetako aldaketak harekin bateratzeko aukera duzu.
+- **Cateringeko PDF-a.** PDF-a gordetzean, aurreko irakurketaren abisua kentzen da. Orain, irakurketak emaitzarik eman ez arren, gordetako menua mantentzen da.
+- **Hurrengo elementuen zerrenda.** Zure azken aldaketak mantentzen dira sarrera gehiago kargatu bitartean.
+- **Azkarragoa.** Menuak, ordutegia, Gaur eta Astea azkarrago irekitzen dira.
 
 Bertsio bakoitzeko berrikuntzak (ingelesez): [CHANGELOG.md](CHANGELOG.md).
 

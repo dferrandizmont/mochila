@@ -1,12 +1,12 @@
 [English](README.md) · [Español](README.es.md) · **Català** · [Galego](README.gl.md) · [Euskara](README.eu.md)
 
 <p align="center">
-  <img src="docs/readme/ca/header.png" alt="Mochila — Dels missatges de l’escola a una agenda familiar tranquil·la." width="1024">
+  <img src="docs/readme/ca/header.png" alt="La Mochila — Dels missatges de l’escola a una agenda familiar tranquil·la." width="1024">
 </p>
 
-# Mochila
+# La Mochila
 
-Mochila converteix els avisos de l’escola en l’agenda de la família. Copia el missatge del grup de classe i enganxa’l a Mochila, o dona-li una foto o un PDF d’una circular, del menú del menjador o de l’horari: l’app en treu què cal portar, qui recull, les extraescolars i els pagaments, cada cosa al seu dia, i tu ho revises tot abans que entri a l’agenda. Mochila no entra als teus grups de WhatsApp: només llegeix el que tu copies.
+La Mochila converteix els avisos de l’escola en l’agenda de la família. Copia el missatge del grup de classe i enganxa’l a l’app, o dona-li una foto o un PDF d’una circular, del menú del menjador o de l’horari: l’app en treu què cal portar, qui recull, les extraescolars i els pagaments, cada cosa al seu dia, i tu ho revises tot abans que entri a l’agenda. L’app no entra als teus grups de WhatsApp: només llegeix el que tu copies.
 
 **Gratuïta durant el llançament · Sense anuncis · Compte opcional**
 
@@ -25,7 +25,7 @@ Android: prova tancada a Google Play, oberta a tothom. iPhone: properament. Al w
 <details>
 <summary>Uneix-te a la beta de Google Play</summary>
 
-Mochila és en prova tancada a Google Play i s’hi pot apuntar qualsevol persona:
+L’app és en prova tancada a Google Play i s’hi pot apuntar qualsevol persona:
 
 1. Uneix-te al grup de testers: [mochila-testers](https://groups.google.com/g/mochila-testers). Amb el compte de Google que fas servir al mòbil Android, prem «Uneix-te al grup».
 2. Accepta la prova des del mòbil o l’ordinador: [play.google.com/apps/testing/es.lamochila.app](https://play.google.com/apps/testing/es.lamochila.app).
@@ -38,7 +38,7 @@ Si pots, queda’t a la prova almenys 14 dies i fes-la servir de tant en tant (p
 <details>
 <summary>Gratuïta durant el llançament</summary>
 
-Durant el llançament, Mochila és gratuïta i no té anuncis. Pots començar sense crear cap compte: sense compte, la teva família pot fer fins a 3 anàlisis al dia i 20 al mes (cada avís que llegeix Mochila compta com una anàlisi). Si vincules un compte gratuït de Google o Apple, pots convidar l’altre adult per compartir l’agenda, arribar a 20 anàlisis al dia i 200 al mes per família, i no en perds l’accés si canvies de telèfon.
+Durant el llançament, l’app és gratuïta i no té anuncis. Pots començar sense crear cap compte: sense compte, la teva família pot fer fins a 3 anàlisis al dia i 20 al mes (cada avís que llegeix l’app compta com una anàlisi). Si vincules un compte gratuït de Google o Apple, pots convidar l’altre adult per compartir l’agenda, arribar a 20 anàlisis al dia i 200 al mes per família, i no en perds l’accés si canvies de telèfon.
 
 </details>
 
@@ -68,7 +68,7 @@ Prem una captura per ampliar-la. Pantalles reals amb dades inventades.
 ## Funcions
 
 - **Avui, d’un cop d’ull.** Què porta cada fill, què toca a l’escola i què venç; a la tarda ja ensenya l’endemà.
-- **Tu decideixes.** Mochila proposa la data, l’hora, el fill i el que cal portar, pagar o signar, i tu confirmes, canvies o descartes cada cosa.
+- **Tu decideixes.** L’app proposa la data, l’hora, el fill i el que cal portar, pagar o signar, i tu confirmes, canvies o descartes cada cosa.
 - **Compartida amb l’altre adult.** El convides amb un codi i tots dos veieu el mateix: dates, tasques, la motxilla i qui recull.
 - **Accés limitat.** Una persona que ajuda amb les recollides veu Avui, la setmana i les recollides dels fills que triïs, només per consultar.
 - **Calendari escolar inclòs.** El calendari oficial de la teva comunitat i els festius del teu municipi ja hi són, i hi pots afegir els dies de lliure disposició de la teva escola.
@@ -93,12 +93,13 @@ Les fotos i els PDF es llegeixen al telèfon i només se n’envia el text; si t
 
 ## Novetats
 
-**0.4.7**
+**0.4.8**
 
-- **Més ràpida.** L’app s’obre i s’actualitza més de pressa, els missatges llargs no la ralentitzen i en desar ja no espera a recarregar la llista.
-- **Canvis a la política de privadesa, avisats una vegada.** Si la política de privadesa canvia en algun punt important, l’app t’avisa una vegada.
-- **Menús en PDF.** Ja es pot importar un menú llarg en PDF amb el mes escrit de costat al marge, i si el fitxer no inclou el mes que estàs veient, l’app et diu quin mes inclou.
-- **Cerca d’escoles.** Mostra primer les del teu municipi.
+- **Nom nou.** Ara l’app es diu La Mochila.
+- **Menús més segurs en editar.** Un menú del menjador només es pot editar quan l’app ha carregat el desat, així cap edició ni importació trepitja canvis més nous; si no es pot carregar, els teus esborranys es queden i Desa t’ofereix tornar a carregar i ajuntar-los.
+- **PDF del càtering.** En desar-lo es treu l’avís de la lectura anterior, i una lectura buida ja no esborra el menú desat.
+- **Llista de propers.** Conserva els teus canvis recents mentre en carrega més.
+- **Més ràpida.** Menús, horari, Avui i Setmana s’obren abans.
 
 Novetats de cada versió (en anglès): [CHANGELOG.md](CHANGELOG.md).
 

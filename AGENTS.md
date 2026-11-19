@@ -1,6 +1,6 @@
 # Maintaining this repository
 
-Public information about Mochila (READMEs, changelog, images, issue forms). The app's code lives in a private repository.
+Public information about La Mochila (READMEs, changelog, images, issue forms). The app's code lives in a private repository.
 
 ## Identity: public commits only as dev@mainshai.com
 
