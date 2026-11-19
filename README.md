@@ -38,7 +38,7 @@ If you can, stay in the test for at least 14 days and use it from time to time (
 <details>
 <summary>Free during the launch</summary>
 
-At launch, the app is free and shows no ads. You can start without creating an account: without one, your family can run up to 3 analyses a day and 20 a month (each notice read counts as one analysis). If you link a free Google or Apple account, you can invite the other adult to share the agenda, go up to 20 analyses a day and 200 a month per family, and keep access if you change phones.
+At launch, the app is free and shows no ads. You can start without creating an account: without one, your family can run up to 3 analyses a day and 20 a month (each notice the app reads counts as one analysis). If you link a free Google or Apple account, you can invite the other adult to share the agenda, go up to 20 analyses a day and 200 a month per family, and keep access if you change phones.
 
 </details>
 
