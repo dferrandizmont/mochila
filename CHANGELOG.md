@@ -15,6 +15,33 @@ Settings.
 
 Nothing yet.
 
+## v0.4.8 (0.4.8+69) · 2026-11-19
+
+- The app is now called La Mochila. The new name also appears in notifications and on website link previews.
+- Calendar sync and cleanup still recognise events created before the La Mochila rename.
+- Android: the app is now called "La Mochila" under the icon, in the widgets, in the Google Play listing and as the account of a newly created phone calendar.
+- Privacy policy 1.10, terms of use 1.2 and account deletion pages 1.2 (website, Spanish, Catalan and English): the name is now La Mochila; nothing else changes.
+- The base school menu is now called "Menú basal" in Catalan, Spanish and Galician (and "Oinarrizko menua" in Basque) instead of "normal", so other diets do not read as abnormal.
+- iOS: choosing a PDF, image or file to import (Menu, documents, Import) did nothing on iPhone and iPad; the file picker now opens.
+- Fixed: if your Apple sign-in email already belongs to a Mochila account, sign in the way you did before to add Apple to that same account.
+- Changed: the second confirmation for opening an existing family now makes it clear that it deletes this phone’s local data.
+- iOS: the install ID used to keep a blocked account blocked is now stored in the Keychain (this device only, not synced), so it survives reinstalling the app.
+- On iOS, deleting an Apple-linked account now revokes its Sign in with Apple authorization.
+- On iOS, opening a family invitation link opens Mochila with the code filled in.
+- iOS: after sharing to Mochila, the app opens by itself again
+- On iOS, widget taps, app shortcuts, sign-in callbacks and notification opens no longer block one another when they arrive together.
+- Direct agenda lists have a per-minute limit and a daily budget based on the rows fetched, with a minimum charge of one per request. A read that crosses the daily budget is refused, and further list reads are blocked until the next UTC day.
+- Upcoming keeps recent edits and refreshes when an older page request finishes.
+- School menus are read-only until the app loads the saved menus from the server. This applies to editing, adding a variant and importing, including shared documents and caterer PDFs. After a failed refresh, drafts stay visible and Save offers to reload so it can merge the changes over the latest menu. Rotating menu edits preserve the other days and weeks. An empty caterer PDF extraction leaves the saved menu intact.
+- Shared menu drafts refresh the month they open and prompt before leaving while their server reads are pending. Showing a cached copy during the refresh preserves the draft's replacement of the old dishes. If a rotating menu has changed and some edits no longer fit, you can discard all edits to each affected diet's cycle and save the other changes.
+- Saving a caterer's PDF clears the previous menu's reading notice and deletes its temporary feedback image.
+- Faster menu and timetable reopening, shorter Home and Week loading waits, and fewer unnecessary calendar sync downloads.
+- Privacy policy 1.9 (website, Spanish, Catalan and English): on iPhone and iPad the installation identifier is stored in the device keychain, is not synced with iCloud, is kept when the app is reinstalled and is deleted when the device is reset; a copy in the app settings may go in device backups and come back if one is restored.
+- Privacy policy 1.8 (website, Spanish, Catalan and English): the «Unsubscribe» button that some email apps show on our support replies does not appear in Gmail; if you press it in another app, Brevo may stop delivering our replies, and writing to us again fixes it.
+- Privacy policy 1.7 (website, Spanish, Catalan and English): the support email section now says each three-monthly clean-up deletes what would pass one year from the last message before the next one, and that we could not confirm how long Cloudflare keeps its forwarding log or how it can be deleted; if you ask us to erase your data, we pass the request on to Cloudflare and tell you the result.
+- Website: mobile review of lamochila.app. The header buttons (theme, colour range, language) and the colour dots are now at least 44 px to tap at every phone width (at 320 px the header shows the icon only), the privacy page contents links and the footer links have 44 px tap areas, and the privacy page tables keep readable column widths on phones.
+- Website: on phones, "Hoy, de un vistazo" on lamochila.app now shows one screenshot at a time with Previous / Next buttons and a "Screen 1 of 2" counter (swiping still works); on larger screens nothing changes.
+
 ## v0.4.7 (0.4.7+68) · 2026-11-17
 
 - Website: step 2 of "Try it on your phone" on lamochila.app now shows the official Google Play badge (in the page language, unaltered) linking to the closed test, with "Closed test" under it, instead of a text button; iPhone stays as "Coming soon" text with no link.
