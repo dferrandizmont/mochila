@@ -93,13 +93,13 @@ Photos and PDFs are read on your phone and only the text is sent; if you choose 
 
 ## What's new
 
-**0.4.8**
+**0.4.9**
 
-- **New name.** The app is now called La Mochila.
-- **Menus safer to edit.** A lunch menu can be edited only once the app has loaded the saved one, so no edit or import overwrites newer changes; if loading fails, your drafts stay and Save offers to reload and merge them.
-- **Catering PDF.** Saving it clears the previous reading notice, and an empty reading no longer wipes the saved menu.
-- **Upcoming list.** It keeps your recent edits while it loads more.
-- **Faster.** Menus, the timetable, Today and Week open sooner.
+- **Caterer menus on the right day.** A menu imported from the caterer's PDF keeps every dish on its own day; before, some dishes could appear on another day.
+- **Clearer lunch menu.** Salads and garnishes are shown as "Side", and fruit with wholemeal bread stays one dessert.
+- **Camera and photos.** If access is denied, imports explain why and offer to open the app's settings.
+- **Fewer false notices.** Today waits for confirmation before saying a timetable is missing, and a dismissed clipboard offer stays dismissed.
+- **Screen readers.** Add, the week controls and the Add badge are announced once.
 
 What's new in each version (in English): [CHANGELOG.md](CHANGELOG.md).
 

@@ -93,13 +93,13 @@ Les fotos i els PDF es llegeixen al telèfon i només se n’envia el text; si t
 
 ## Novetats
 
-**0.4.8**
+**0.4.9**
 
-- **Nom nou.** Ara l’app es diu La Mochila.
-- **Menús més segurs en editar.** Un menú del menjador només es pot editar quan l’app ha carregat el desat, així cap edició ni importació trepitja canvis més nous; si no es pot carregar, els teus esborranys es queden i Desa t’ofereix tornar a carregar i ajuntar-los.
-- **PDF del càtering.** En desar-lo es treu l’avís de la lectura anterior, i una lectura buida ja no esborra el menú desat.
-- **Llista de propers.** Conserva els teus canvis recents mentre en carrega més.
-- **Més ràpida.** Menús, horari, Avui i Setmana s’obren abans.
+- **Cada plat el dia que toca.** Quan importes el menú del menjador des del PDF del càtering, cada plat surt el dia que li correspon. Abans, alguns plats podien sortir un altre dia de la setmana.
+- **Menú del menjador més clar.** Les amanides i les guarnicions apareixen com a «Acompanyament». La fruita i el pa integral figuren en una sola entrada a «Postres».
+- **Càmera i fotos.** Si falta permís per fer servir la càmera o accedir a les fotos durant una importació, pots obrir els ajustos de l’app des de l’avís que t’ho explica.
+- **Menys avisos erronis.** «Avui» només avisa que falta un horari després de comprovar-ho. Si descartes un avís del porta-retalls, no torna a sortir.
+- **Lectors de pantalla.** El lector anuncia una sola vegada cada element: «Afegir», els controls per canviar de setmana i el comptador de pendents d’«Afegir».
 
 Novetats de cada versió (en anglès): [CHANGELOG.md](CHANGELOG.md).
 

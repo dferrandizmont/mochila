@@ -15,6 +15,17 @@ Settings.
 
 Nothing yet.
 
+## v0.4.9 (0.4.9+70) · 2026-11-20
+
+- Lunch menus imported from a caterer's PDF keep every dish on its own day. Before, some dishes could appear on another day of the week.
+- In the lunch menu, salads and garnishes are now shown as “Side”, and “fruit and wholemeal bread” stays together as one dessert.
+- Fixed: on iOS and Android, a clipboard offer stays dismissed after you choose Not now or Process, even if the app briefly loses access to the clipboard.
+- iOS: the share extension gives the system share sheet time to settle when it opens La Mochila, explains how to open it manually when possible, and closes even if the switch never responds.
+- When the camera or photo library permission is denied, imports explain why and offer to open the app’s settings.
+- Today waits for confirmation before saying a child’s timetable is missing, and an unrelated offline page no longer hides that notice after reconnecting.
+- VoiceOver announces Add and the week navigation controls once, without repeating their labels.
+- In the sidebar, screen readers announce what the Add badge counts without reading the number twice.
+
 ## v0.4.8 (0.4.8+69) · 2026-11-19
 
 - The app is now called La Mochila. The new name also appears in notifications and on website link previews.

@@ -93,13 +93,13 @@ As fotos e os PDF lense no teléfono e só se envía o texto; se escolles unha l
 
 ## Novidades
 
-**0.4.8**
+**0.4.9**
 
-- **Novo nome.** A app chámase agora La Mochila.
-- **Edición máis segura dos menús.** Só podes editar un menú do comedor despois de que a app cargue a versión gardada. Así evítase sobrescribir cambios máis recentes ao editar ou importar. Se falla a carga, consérvanse os teus borradores. Ao premer «Gardar», podes volver cargar o menú gardado e incorporar os cambios dos borradores.
-- **PDF do catering.** Ao gardalo, desaparece o aviso da lectura anterior. Se a lectura non dá resultados, xa non se borra o menú gardado.
-- **Lista dos próximos elementos.** Conserva os teus últimos cambios mentres se cargan máis entradas.
-- **Máis rápida.** Os menús, o horario e as pantallas «Hoxe» e «Semana» ábrense máis rápido.
+- **Cada prato no seu día.** Ao importar o menú do comedor desde o PDF do catering, cada prato aparece no día que lle corresponde. Antes, algúns pratos podían aparecer noutro día da semana.
+- **Menú do comedor máis claro.** As ensaladas e as guarnicións aparecen como «Acompañamento». A froita con pan integral figura como unha soa sobremesa.
+- **Cámara e fotos.** Se falta permiso para usar a cámara ou acceder ás fotos durante unha importación, a app explícacho e dáche a opción de abrir os seus axustes.
+- **Menos avisos erróneos.** «Hoxe» só avisa de que falta un horario despois de comprobalo. Se descartas un aviso do portapapeis, non volve aparecer.
+- **Lectores de pantalla.** O lector anuncia unha soa vez cada elemento: «Engadir», os controis para cambiar de semana e o contador de pendentes de «Engadir».
 
 Novidades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 

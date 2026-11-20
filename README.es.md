@@ -93,13 +93,13 @@ Las fotos y los PDF se leen en el teléfono y solo se envía el texto; si eliges
 
 ## Novedades
 
-**0.4.8**
+**0.4.9**
 
-- **Nuevo nombre.** La app ahora se llama La Mochila.
-- **Menús más seguros al editar.** Un menú del comedor solo se puede editar cuando la app ha cargado el guardado, así ninguna edición ni importación pisa cambios más nuevos; si no se puede cargar, tus borradores se quedan y Guardar te ofrece recargar y juntarlos.
-- **PDF del catering.** Al guardarlo se quita el aviso de la lectura anterior, y una lectura vacía ya no borra el menú guardado.
-- **Lista de próximos.** Conserva tus cambios recientes mientras carga más.
-- **Más rápida.** Menús, horario, Hoy y Semana se abren antes.
+- **Cada plato en su día.** Al importar el menú del comedor desde el PDF del catering, cada plato aparece en el día que le corresponde. Antes, algunos podían aparecer en otro día de la semana.
+- **Menú del comedor más claro.** Las ensaladas y las guarniciones aparecen como «Acompañamiento». La fruta con pan integral figura como un solo postre.
+- **Cámara y fotos.** Si falta permiso para usar la cámara o acceder a las fotos durante una importación, la app te lo explica y te ofrece abrir sus ajustes.
+- **Menos avisos erróneos.** «Hoy» solo avisa de que falta un horario tras comprobarlo. Si descartas un aviso del portapapeles, no vuelve a salir.
+- **Lectores de pantalla.** El lector anuncia una sola vez cada elemento: «Añadir», los controles para cambiar de semana y el contador de pendientes de «Añadir».
 
 Novedades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 

@@ -93,13 +93,13 @@ Argazkiak eta PDFak telefonoan irakurtzen dira, eta testua bakarrik bidaltzen da
 
 ## Berriak
 
-**0.4.8**
+**0.4.9**
 
-- **Izen berria.** Aplikazioaren izena La Mochila da orain.
-- **Jantokiko menuak seguruago editatzeko.** Gordetako menua kargatu arte ezin da jantokiko menua editatu. Horrela, editatzean edo inportatzean ez dira aldaketa berriagoak gainidazten. Menua kargatu ezin bada, zure zirriborroak ez dira galtzen. «Gorde» sakatzean, gordetako menua berriro kargatzeko eta zirriborroetako aldaketak harekin bateratzeko aukera duzu.
-- **Cateringeko PDF-a.** PDF-a gordetzean, aurreko irakurketaren abisua kentzen da. Orain, irakurketak emaitzarik eman ez arren, gordetako menua mantentzen da.
-- **Hurrengo elementuen zerrenda.** Zure azken aldaketak mantentzen dira sarrera gehiago kargatu bitartean.
-- **Azkarragoa.** Menuak, ordutegia, Gaur eta Astea azkarrago irekitzen dira.
+- **Plater bakoitza dagokion egunean.** Cateringeko PDFtik jantokiko menua inportatzean, plater bakoitza dagokion egunean agertzen da. Lehen, plater batzuk asteko beste egun batean ager zitezkeen.
+- **Jantokiko menua argiago.** Entsaladek eta hornigaiek «Osagarria» etiketa dute. Fruta eta ogi integrala postre bakar gisa agertzen dira.
+- **Kamera eta argazkiak.** Inportatzean kamera edo argazkiak erabiltzeko baimena falta bada, aplikazioak zergatia azaldu eta bere ezarpenak irekitzeko aukera ematen dizu.
+- **Okerreko abisu gutxiago.** «Gaur» pantailan, ordutegia falta dela egiaztatu ondoren agertzen da abisua. Arbeleko oharra baztertzen baduzu, ez da berriro agertuko.
+- **Pantaila-irakurgailuak.** Pantaila-irakurgailuak behin bakarrik irakurtzen ditu «Gehitu» botoia, astez aldatzeko kontrolak eta «Gehitu» botoian zain dauden elementuen kopurua.
 
 Bertsio bakoitzeko berrikuntzak (ingelesez): [CHANGELOG.md](CHANGELOG.md).
 
