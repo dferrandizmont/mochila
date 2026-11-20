@@ -93,12 +93,11 @@ Photos and PDFs are read on your phone and only the text is sent; if you choose 
 
 ## What's new
 
-**0.4.10**
+**0.4.11**
 
-- **Imports show their progress.** An animation shows while the app reads pasted text, and document and caterer menu imports show the current step.
-- **Lunch menus in order.** First course, second course, side and dessert are always listed in that order, and "Iogurt" is read correctly in menu photos.
-- **Web app.** A wrong address opens Today instead of a blank page.
-- **Calendar settings.** They now say "each adult".
+- **Two adults, one menu.** When two adults edit the same lunch menu, the app combines their changes and only asks which to keep when both changed the same day differently.
+- **Safer imports.** If the menu check fails, you can try again with what you already prepared, and the app asks before replacing unsaved changes. Each caterer diet keeps its own menu across months and corrected PDFs.
+- **Update needed.** Saving menus needs this version.
 
 What's new in each version (in English): [CHANGELOG.md](CHANGELOG.md).
 

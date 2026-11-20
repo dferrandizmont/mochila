@@ -15,6 +15,10 @@ Settings.
 
 Nothing yet.
 
+## v0.4.11 (0.4.11+72) · 2026-11-21
+
+- Menus: when two adults edit the same school menu, the app now merges both changes instead of overwriting one, and asks which version to keep only when both changed the same day. Imports (documents, photos, pasted text and catering PDFs) keep the prepared document if the check fails, keep each catering diet in its place across months and corrected PDFs, and never replace unsaved edits without asking. Older app versions must be updated to save menus.
+
 ## v0.4.10 (0.4.10+71) · 2026-11-20
 
 - Imports now show what they are doing: pasted text draws a placeholder as it is read, and document and catering imports show an animated progress with the current step.

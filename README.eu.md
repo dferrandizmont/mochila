@@ -93,11 +93,11 @@ Argazkiak eta PDFak telefonoan irakurtzen dira, eta testua bakarrik bidaltzen da
 
 ## Berriak
 
-**0.4.10**
+**0.4.11**
 
-- **Inportazioek aurrerapena erakusten dute.** Itsatsitako testua irakurtzean animazio bat ageri da, eta dokumentuak edo cateringeko menuak inportatzean uneko urratsa ageri da.
-- **Jantokiko menua ordenan.** Lehenengoa, bigarrena, osagarria eta postrea beti ordena horretan ageri dira, eta «Iogurt» ondo irakurtzen da menuen argazkietan.
-- **Web aplikazioa.** Helbide oker batek Gaur irekitzen du, orri zuririk erakutsi gabe.
+- **Bi heldu, menu bat.** Aplikazioak bi helduren aldaketak batzen ditu jantokiko menuan, eta egun berean aldaketa desberdinak egin badituzte bakarrik galdetzen du zein gorde.
+- **Inportazio seguruagoak.** Menua egiaztatu ezin bada, berriro saia zaitezke prestatutakoarekin, eta gorde gabeko aldaketak ordeztu aurretik galdetzen du. Cateringeko dieta bakoitzak bere menuari eusten dio hilabete batetik bestera eta PDF zuzenduekin.
+- **Eguneratu behar da.** Menuak gordetzeko bertsio hau behar da.
 
 Bertsio bakoitzeko berrikuntzak (ingelesez): [CHANGELOG.md](CHANGELOG.md).
 

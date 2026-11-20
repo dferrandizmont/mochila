@@ -93,12 +93,11 @@ Les fotos i els PDF es llegeixen al telèfon i només se n’envia el text; si t
 
 ## Novetats
 
-**0.4.10**
+**0.4.11**
 
-- **Les importacions mostren el progrés.** Una animació indica que l’app està llegint el text enganxat, i quan importes documents o menús del càtering veus el pas actual.
-- **Menú del menjador en ordre.** Primer, segon, acompanyament i postres surten sempre en aquest ordre, i «Iogurt» es llegeix bé a les fotos de menús.
-- **App web.** Una adreça equivocada obre Avui en lloc d’una pàgina en blanc.
-- **Ajustos del calendari.** Ara diuen «cada adult».
+- **Dos adults, un menú.** Si dues persones adultes editen el mateix menú del menjador, l’app combina els canvis i només pregunta quin conservar si totes dues han canviat el mateix dia de manera diferent.
+- **Importacions més segures.** Si falla la comprovació del menú, ho pots tornar a provar amb el que ja tenies preparat, i l’app pregunta abans de substituir canvis pendents de desar. Cada dieta del càtering conserva el seu menú entre mesos i amb PDF corregits.
+- **Cal actualitzar.** Per desar menús cal aquesta versió.
 
 Novetats de cada versió (en anglès): [CHANGELOG.md](CHANGELOG.md).
 

@@ -93,11 +93,11 @@ As fotos e os PDF lense no teléfono e só se envía o texto; se escolles unha l
 
 ## Novidades
 
-**0.4.10**
+**0.4.11**
 
-- **As importacións amosan o seu progreso.** Unha animación indica que a app está a ler o texto pegado, e ao importar documentos ou menús do catering ves o paso actual.
-- **Menú do comedor en orde.** Primeiro, segundo, acompañamento e sobremesa saen sempre por esa orde, e «Iogurt» lese ben nas fotos de menús.
-- **App web.** Un enderezo equivocado abre Hoxe en vez dunha páxina en branco.
+- **Dous adultos, un menú.** Se dúas persoas adultas editan o mesmo menú do comedor, a app combina os cambios e só pregunta cal conservar se as dúas cambiaron o mesmo día de forma distinta.
+- **Importacións máis seguras.** Se falla a comprobación do menú, podes tentalo de novo co que xa tiñas preparado, e a app pregunta antes de substituír cambios sen gardar. Cada dieta do catering conserva o seu menú entre meses e con PDF corrixidos.
+- **Cómpre actualizar.** Para gardar menús cómpre esta versión.
 
 Novidades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 
