@@ -93,13 +93,12 @@ Photos and PDFs are read on your phone and only the text is sent; if you choose 
 
 ## What's new
 
-**0.4.9**
+**0.4.10**
 
-- **Caterer menus on the right day.** A menu imported from the caterer's PDF keeps every dish on its own day; before, some dishes could appear on another day.
-- **Clearer lunch menu.** Salads and garnishes are shown as "Side", and fruit with wholemeal bread stays one dessert.
-- **Camera and photos.** If access is denied, imports explain why and offer to open the app's settings.
-- **Fewer false notices.** Today waits for confirmation before saying a timetable is missing, and a dismissed clipboard offer stays dismissed.
-- **Screen readers.** Add, the week controls and the Add badge are announced once.
+- **Imports show their progress.** An animation shows while the app reads pasted text, and document and caterer menu imports show the current step.
+- **Lunch menus in order.** First course, second course, side and dessert are always listed in that order, and "Iogurt" is read correctly in menu photos.
+- **Web app.** A wrong address opens Today instead of a blank page.
+- **Calendar settings.** They now say "each adult".
 
 What's new in each version (in English): [CHANGELOG.md](CHANGELOG.md).
 

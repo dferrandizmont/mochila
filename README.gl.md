@@ -93,13 +93,11 @@ As fotos e os PDF lense no teléfono e só se envía o texto; se escolles unha l
 
 ## Novidades
 
-**0.4.9**
+**0.4.10**
 
-- **Cada prato no seu día.** Ao importar o menú do comedor desde o PDF do catering, cada prato aparece no día que lle corresponde. Antes, algúns pratos podían aparecer noutro día da semana.
-- **Menú do comedor máis claro.** As ensaladas e as guarnicións aparecen como «Acompañamento». A froita con pan integral figura como unha soa sobremesa.
-- **Cámara e fotos.** Se falta permiso para usar a cámara ou acceder ás fotos durante unha importación, a app explícacho e dáche a opción de abrir os seus axustes.
-- **Menos avisos erróneos.** «Hoxe» só avisa de que falta un horario despois de comprobalo. Se descartas un aviso do portapapeis, non volve aparecer.
-- **Lectores de pantalla.** O lector anuncia unha soa vez cada elemento: «Engadir», os controis para cambiar de semana e o contador de pendentes de «Engadir».
+- **As importacións amosan o seu progreso.** Unha animación indica que a app está a ler o texto pegado, e ao importar documentos ou menús do catering ves o paso actual.
+- **Menú do comedor en orde.** Primeiro, segundo, acompañamento e sobremesa saen sempre por esa orde, e «Iogurt» lese ben nas fotos de menús.
+- **App web.** Un enderezo equivocado abre Hoxe en vez dunha páxina en branco.
 
 Novidades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 

@@ -15,6 +15,16 @@ Settings.
 
 Nothing yet.
 
+## v0.4.10 (0.4.10+71) · 2026-11-20
+
+- Imports now show what they are doing: pasted text draws a placeholder as it is read, and document and catering imports show an animated progress with the current step.
+- Privacy policy 1.13 (website, Spanish, Catalan and English): support replies are now sent through Resend, with open and click tracking turned off (no tracking pixel, links left unchanged); Resend keeps a copy of each reply and its delivery record for 30 days. Brevo, which added a tracking pixel and rewrote links, was only ever used for the owner's test emails; the policy explains what remains there and when it is deleted.
+- Privacy policy 1.12 and account deletion pages 1.3 (website, Spanish, Catalan and English): database backups are now kept for 30 days instead of 7.
+- Fixed: the web app no longer shows a blank page when the address is wrong; it opens Today instead.
+- Fixed: "Iogurt" is now read correctly when a lunch menu is imported from a photo.
+- Lunch menus now show the first course, second course, sides and dessert in that order.
+- The calendar settings now say "each adult" instead of "each parent".
+
 ## v0.4.9 (0.4.9+70) · 2026-11-20
 
 - Lunch menus imported from a caterer's PDF keep every dish on its own day. Before, some dishes could appear on another day of the week.

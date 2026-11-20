@@ -93,13 +93,11 @@ Las fotos y los PDF se leen en el teléfono y solo se envía el texto; si eliges
 
 ## Novedades
 
-**0.4.9**
+**0.4.10**
 
-- **Cada plato en su día.** Al importar el menú del comedor desde el PDF del catering, cada plato aparece en el día que le corresponde. Antes, algunos podían aparecer en otro día de la semana.
-- **Menú del comedor más claro.** Las ensaladas y las guarniciones aparecen como «Acompañamiento». La fruta con pan integral figura como un solo postre.
-- **Cámara y fotos.** Si falta permiso para usar la cámara o acceder a las fotos durante una importación, la app te lo explica y te ofrece abrir sus ajustes.
-- **Menos avisos erróneos.** «Hoy» solo avisa de que falta un horario tras comprobarlo. Si descartas un aviso del portapapeles, no vuelve a salir.
-- **Lectores de pantalla.** El lector anuncia una sola vez cada elemento: «Añadir», los controles para cambiar de semana y el contador de pendientes de «Añadir».
+- **Las importaciones muestran su progreso.** Una animación indica que la app está leyendo el texto pegado, y al importar documentos o menús del catering ves el paso actual.
+- **Menú del comedor en orden.** Primero, segundo, acompañamiento y postre salen siempre en ese orden, y «Iogurt» se lee bien en las fotos de menús.
+- **App web.** Una dirección equivocada abre Hoy en vez de una página en blanco.
 
 Novedades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 

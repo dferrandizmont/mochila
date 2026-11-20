@@ -93,13 +93,11 @@ Argazkiak eta PDFak telefonoan irakurtzen dira, eta testua bakarrik bidaltzen da
 
 ## Berriak
 
-**0.4.9**
+**0.4.10**
 
-- **Plater bakoitza dagokion egunean.** Cateringeko PDFtik jantokiko menua inportatzean, plater bakoitza dagokion egunean agertzen da. Lehen, plater batzuk asteko beste egun batean ager zitezkeen.
-- **Jantokiko menua argiago.** Entsaladek eta hornigaiek «Osagarria» etiketa dute. Fruta eta ogi integrala postre bakar gisa agertzen dira.
-- **Kamera eta argazkiak.** Inportatzean kamera edo argazkiak erabiltzeko baimena falta bada, aplikazioak zergatia azaldu eta bere ezarpenak irekitzeko aukera ematen dizu.
-- **Okerreko abisu gutxiago.** «Gaur» pantailan, ordutegia falta dela egiaztatu ondoren agertzen da abisua. Arbeleko oharra baztertzen baduzu, ez da berriro agertuko.
-- **Pantaila-irakurgailuak.** Pantaila-irakurgailuak behin bakarrik irakurtzen ditu «Gehitu» botoia, astez aldatzeko kontrolak eta «Gehitu» botoian zain dauden elementuen kopurua.
+- **Inportazioek aurrerapena erakusten dute.** Itsatsitako testua irakurtzean animazio bat ageri da, eta dokumentuak edo cateringeko menuak inportatzean uneko urratsa ageri da.
+- **Jantokiko menua ordenan.** Lehenengoa, bigarrena, osagarria eta postrea beti ordena horretan ageri dira, eta «Iogurt» ondo irakurtzen da menuen argazkietan.
+- **Web aplikazioa.** Helbide oker batek Gaur irekitzen du, orri zuririk erakutsi gabe.
 
 Bertsio bakoitzeko berrikuntzak (ingelesez): [CHANGELOG.md](CHANGELOG.md).
 

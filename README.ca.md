@@ -93,13 +93,12 @@ Les fotos i els PDF es llegeixen al telèfon i només se n’envia el text; si t
 
 ## Novetats
 
-**0.4.9**
+**0.4.10**
 
-- **Cada plat el dia que toca.** Quan importes el menú del menjador des del PDF del càtering, cada plat surt el dia que li correspon. Abans, alguns plats podien sortir un altre dia de la setmana.
-- **Menú del menjador més clar.** Les amanides i les guarnicions apareixen com a «Acompanyament». La fruita i el pa integral figuren en una sola entrada a «Postres».
-- **Càmera i fotos.** Si falta permís per fer servir la càmera o accedir a les fotos durant una importació, pots obrir els ajustos de l’app des de l’avís que t’ho explica.
-- **Menys avisos erronis.** «Avui» només avisa que falta un horari després de comprovar-ho. Si descartes un avís del porta-retalls, no torna a sortir.
-- **Lectors de pantalla.** El lector anuncia una sola vegada cada element: «Afegir», els controls per canviar de setmana i el comptador de pendents d’«Afegir».
+- **Les importacions mostren el progrés.** Una animació indica que l’app està llegint el text enganxat, i quan importes documents o menús del càtering veus el pas actual.
+- **Menú del menjador en ordre.** Primer, segon, acompanyament i postres surten sempre en aquest ordre, i «Iogurt» es llegeix bé a les fotos de menús.
+- **App web.** Una adreça equivocada obre Avui en lloc d’una pàgina en blanc.
+- **Ajustos del calendari.** Ara diuen «cada adult».
 
 Novetats de cada versió (en anglès): [CHANGELOG.md](CHANGELOG.md).
 
