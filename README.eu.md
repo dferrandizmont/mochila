@@ -93,11 +93,11 @@ Argazkiak eta PDFak telefonoan irakurtzen dira, eta testua bakarrik bidaltzen da
 
 ## Berriak
 
-**0.4.11**
+**0.4.12**
 
-- **Bi heldu, menu bat.** Aplikazioak bi helduren aldaketak batzen ditu jantokiko menuan, eta egun berean aldaketa desberdinak egin badituzte bakarrik galdetzen du zein gorde.
-- **Inportazio seguruagoak.** Menua egiaztatu ezin bada, berriro saia zaitezke prestatutakoarekin, eta gorde gabeko aldaketak ordeztu aurretik galdetzen du. Cateringeko dieta bakoitzak bere menuari eusten dio hilabete batetik bestera eta PDF zuzenduekin.
-- **Eguneratu behar da.** Menuak gordetzeko bertsio hau behar da.
+- **Errore gutxiago.** Zerbitzariak dokumentu baten argazkia jaso ezin badu, aplikazioak testua irakurtzen du. Une batez saturatuta badago, bi segundo itxaroten du eta berriro saiatzen da bere kabuz.
+- **Irakurketa pausan, ezer galdu gabe.** Irakurketa automatikoa une batez pausan badago, aplikazioak idatzitakoa gordetzen du eta eskuz gehitzen uzten dizu.
+- **Menuak.** Inportazioaren abisuak hilabetearen izena dio, eta gatazkaren galderak ez du aukerarik markatzen zuk hautatu aurretik.
 
 Bertsio bakoitzeko berrikuntzak (ingelesez): [CHANGELOG.md](CHANGELOG.md).
 

@@ -15,6 +15,13 @@ Settings.
 
 Nothing yet.
 
+## v0.4.12 (0.4.12+73) · 2026-11-21
+
+- Document photos: if the server cannot take the image, the app now reads the document's text instead of showing an error. When automatic reading is paused for a moment, the app keeps what you wrote and lets you add it by hand.
+- When the server is briefly overloaded, the app now waits two seconds and tries again instead of showing an error.
+- Menus: the conflict question no longer shows a choice as picked before you pick it, and the import notice names the month instead of a date code.
+- Menus: imports keep a day another adult adds while you confirm or retry, ask before bringing back a day when the original menu cannot be checked, and a retry no longer asks about each day of a month that is still empty.
+
 ## v0.4.11 (0.4.11+72) · 2026-11-21
 
 - Menus: when two adults edit the same school menu, the app now merges both changes instead of overwriting one, and asks which version to keep only when both changed the same day. Imports (documents, photos, pasted text and catering PDFs) keep the prepared document if the check fails, keep each catering diet in its place across months and corrected PDFs, and never replace unsaved edits without asking. Older app versions must be updated to save menus.

@@ -93,11 +93,11 @@ Photos and PDFs are read on your phone and only the text is sent; if you choose 
 
 ## What's new
 
-**0.4.11**
+**0.4.12**
 
-- **Two adults, one menu.** When two adults edit the same lunch menu, the app combines their changes and only asks which to keep when both changed the same day differently.
-- **Safer imports.** If the menu check fails, you can try again with what you already prepared, and the app asks before replacing unsaved changes. Each caterer diet keeps its own menu across months and corrected PDFs.
-- **Update needed.** Saving menus needs this version.
+- **Fewer errors.** If the server can’t take a document photo, the app reads its text instead. If it is briefly busy, the app waits two seconds and tries again by itself.
+- **Paused reading, nothing lost.** If automatic reading is paused for a moment, the app keeps what you wrote and lets you add it by hand.
+- **Menus.** The import notice names the month, and the conflict question no longer shows a choice as picked before you pick one.
 
 What's new in each version (in English): [CHANGELOG.md](CHANGELOG.md).
 

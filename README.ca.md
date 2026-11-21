@@ -93,11 +93,11 @@ Les fotos i els PDF es llegeixen al telèfon i només se n’envia el text; si t
 
 ## Novetats
 
-**0.4.11**
+**0.4.12**
 
-- **Dos adults, un menú.** Si dues persones adultes editen el mateix menú del menjador, l’app combina els canvis i només pregunta quin conservar si totes dues han canviat el mateix dia de manera diferent.
-- **Importacions més segures.** Si falla la comprovació del menú, ho pots tornar a provar amb el que ja tenies preparat, i l’app pregunta abans de substituir canvis pendents de desar. Cada dieta del càtering conserva el seu menú entre mesos i amb PDF corregits.
-- **Cal actualitzar.** Per desar menús cal aquesta versió.
+- **Menys errors.** Si el servidor no pot rebre la foto d’un document, l’app en llegeix el text. Si va saturat un moment, espera dos segons i ho torna a provar sola.
+- **Lectura en pausa, sense perdre res.** Si la lectura automàtica està en pausa una estona, l’app desa el que has escrit i et deixa afegir-ho a mà.
+- **Menús.** L’avís d’importació diu el nom del mes i la pregunta de conflicte ja no marca cap opció abans que la triïs.
 
 Novetats de cada versió (en anglès): [CHANGELOG.md](CHANGELOG.md).
 

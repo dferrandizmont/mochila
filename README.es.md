@@ -93,11 +93,11 @@ Las fotos y los PDF se leen en el teléfono y solo se envía el texto; si eliges
 
 ## Novedades
 
-**0.4.11**
+**0.4.12**
 
-- **Dos adultos, un menú.** Si dos personas adultas editan el mismo menú del comedor, la app combina sus cambios y solo pregunta cuál conservar si las dos cambiaron el mismo día de forma distinta.
-- **Importaciones más seguras.** Si falla la comprobación del menú, puedes volver a intentarlo con lo que ya tenías preparado, y la app pregunta antes de sustituir cambios sin guardar. Cada dieta del catering conserva su menú entre meses y con PDF corregidos.
-- **Hay que actualizar.** Para guardar menús hace falta esta versión.
+- **Menos errores.** Si el servidor no puede recibir la foto de un documento, la app lee su texto. Si va saturado un instante, espera dos segundos y lo vuelve a intentar sola.
+- **Lectura en pausa, sin perder nada.** Si la lectura automática está en pausa un momento, la app guarda lo que has escrito y te deja añadirlo a mano.
+- **Menús.** El aviso de importación dice el nombre del mes y la pregunta de conflicto ya no marca una opción antes de elegirla.
 
 Novedades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 
