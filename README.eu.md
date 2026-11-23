@@ -13,7 +13,7 @@ La Mochilak eskolako oharrak familiaren agenda bihurtzen ditu. Kopiatu gelako ta
 ## Deskargak
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=es.lamochila.android"><img src="https://img.shields.io/badge/Google_Play-Sarbide_aurreratua-414141?logo=googleplay&amp;style=for-the-badge" alt="Sarbide aurreratua Google Play-n"></a>
+  <a href="https://play.google.com/store/apps/details?id=es.lamochila.android"><img src="https://img.shields.io/badge/Google_Play-Sarbide_goiztiarra-414141?logo=googleplay&amp;style=for-the-badge" alt="Sarbide goiztiarra Google Play-n"></a>
   <a href="https://lamochila.app/eu/"><img src="https://img.shields.io/badge/Webgunea-lamochila.app-2B6A9E?style=for-the-badge" alt="Webgunea: lamochila.app"></a>
   <!--
   <a href="[APP_STORE_ESTEKA]"><img src="https://img.shields.io/badge/App_Store-Deskargatu-0D96F6?logo=appstore&amp;style=for-the-badge" alt="App Store-n eskuragarri"></a>
@@ -25,7 +25,7 @@ Android: proba irekia Google Play-n, Espainian, izena eman gabe. iPhone: laster.
 <details>
 <summary>Sartu Google Play-ko betan</summary>
 
-Aplikazioa proba irekian dago Google Play-n, Espainian. Edonork instalatu dezake, talderik eta izen-ematerik gabe:
+Aplikazioa proba irekian dago Google Play-n, Espainian. Edonork instala dezake, talderik eta izen-ematerik gabe:
 
 1. Ireki [La Mochila Google Play-n](https://play.google.com/store/apps/details?id=es.lamochila.android) zure Android mugikorrean eta instalatu. Bere kabuz eguneratzen da.
 
