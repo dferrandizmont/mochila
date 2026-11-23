@@ -13,25 +13,23 @@ La Mochila converteix els avisos de l’escola en l’agenda de la família. Cop
 ## Baixades
 
 <p>
-  <a href="https://play.google.com/apps/testing/es.lamochila.app"><img src="https://img.shields.io/badge/Google_Play-Beta-414141?logo=googleplay&amp;style=for-the-badge" alt="Beta a Google Play"></a>
+  <a href="https://play.google.com/store/apps/details?id=es.lamochila.android"><img src="https://img.shields.io/badge/Google_Play-Acc%C3%A9s_anticipat-414141?logo=googleplay&amp;style=for-the-badge" alt="Accés anticipat a Google Play"></a>
   <a href="https://lamochila.app/ca/"><img src="https://img.shields.io/badge/Web-lamochila.app-2B6A9E?style=for-the-badge" alt="Web: lamochila.app"></a>
   <!--
   <a href="[ENLLAC_APP_STORE]"><img src="https://img.shields.io/badge/App_Store-Descarrega-0D96F6?logo=appstore&amp;style=for-the-badge" alt="Disponible a l’App Store"></a>
   -->
 </p>
 
-Android: prova tancada a Google Play, oberta a tothom. iPhone: properament. Al web també hi ha una demo amb tres avisos d’exemple: [lamochila.app](https://lamochila.app/ca/).
+Android: prova oberta a Google Play, a Espanya, sense registrar-se. iPhone: properament. Al web també hi ha una demo amb tres avisos d’exemple: [lamochila.app](https://lamochila.app/ca/).
 
 <details>
 <summary>Uneix-te a la beta de Google Play</summary>
 
-L’app és en prova tancada a Google Play i s’hi pot apuntar qualsevol persona:
+L’app és en prova oberta a Google Play a Espanya. Qualsevol persona pot instal·lar-la, sense grup ni registre:
 
-1. Uneix-te al grup de testers: [mochila-testers](https://groups.google.com/g/mochila-testers). Amb el compte de Google que fas servir al mòbil Android, prem «Uneix-te al grup».
-2. Accepta la prova des del mòbil o l’ordinador: [play.google.com/apps/testing/es.lamochila.app](https://play.google.com/apps/testing/es.lamochila.app).
-3. Instal·la l’app des de Google Play. S’actualitzarà sola.
+1. Obre [La Mochila a Google Play](https://play.google.com/store/apps/details?id=es.lamochila.android) al mòbil Android i instal·la-la. S’actualitza sola.
 
-Si pots, queda’t a la prova almenys 14 dies i fes-la servir de tant en tant (per exemple, enganxa-hi un missatge de l’escola): Google exigeix 12 testers durant 14 dies per publicar-la per a tothom. Els comentaris, a hola@lamochila.app.
+És una versió de prova i pot tenir errors. Els comentaris, a hola@lamochila.app.
 
 </details>
 

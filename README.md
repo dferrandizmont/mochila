@@ -13,25 +13,23 @@ La Mochila turns school messages into the family agenda. Copy and paste a class 
 ## Download
 
 <p>
-  <a href="https://play.google.com/apps/testing/es.lamochila.app"><img src="https://img.shields.io/badge/Google_Play-Beta-414141?logo=googleplay&amp;style=for-the-badge" alt="Beta on Google Play"></a>
+  <a href="https://play.google.com/store/apps/details?id=es.lamochila.android"><img src="https://img.shields.io/badge/Google_Play-Early_access-414141?logo=googleplay&amp;style=for-the-badge" alt="Early access on Google Play"></a>
   <a href="https://lamochila.app/en/"><img src="https://img.shields.io/badge/Website-lamochila.app-2B6A9E?style=for-the-badge" alt="Website: lamochila.app"></a>
   <!--
   <a href="[APP_STORE_LINK]"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?logo=appstore&amp;style=for-the-badge" alt="Download on the App Store"></a>
   -->
 </p>
 
-Android: closed test on Google Play, open to anyone. iPhone: coming soon. The website also has a demo with three example notices: [lamochila.app](https://lamochila.app/en/).
+Android: open test on Google Play, in Spain, with no sign-up. iPhone: coming soon. The website also has a demo with three example notices: [lamochila.app](https://lamochila.app/en/).
 
 <details>
 <summary>Join the beta on Google Play</summary>
 
-Anyone can join the app’s closed test on Google Play:
+The app is in open testing on Google Play in Spain. Anyone can install it, with no group and no sign-up:
 
-1. Join the testers group: [mochila-testers](https://groups.google.com/g/mochila-testers). Sign in with the Google account you use on your Android phone and press «Join group».
-2. Accept the test from your phone or computer: [play.google.com/apps/testing/es.lamochila.app](https://play.google.com/apps/testing/es.lamochila.app).
-3. Install the app from Google Play. It updates itself.
+1. Open [La Mochila on Google Play](https://play.google.com/store/apps/details?id=es.lamochila.android) on your Android phone and install it. It updates itself.
 
-If you can, stay in the test for at least 14 days and use it from time to time (for example, paste a message from school): Google requires 12 testers for 14 days to publish it for everyone. Send comments to hola@lamochila.app.
+It is a test version and may have bugs. Send comments to hola@lamochila.app.
 
 </details>
 

@@ -13,25 +13,23 @@ La Mochilak eskolako oharrak familiaren agenda bihurtzen ditu. Kopiatu gelako ta
 ## Deskargak
 
 <p>
-  <a href="https://play.google.com/apps/testing/es.lamochila.app"><img src="https://img.shields.io/badge/Google_Play-Beta-414141?logo=googleplay&amp;style=for-the-badge" alt="Beta Google Play-n"></a>
+  <a href="https://play.google.com/store/apps/details?id=es.lamochila.android"><img src="https://img.shields.io/badge/Google_Play-Sarbide_aurreratua-414141?logo=googleplay&amp;style=for-the-badge" alt="Sarbide aurreratua Google Play-n"></a>
   <a href="https://lamochila.app/eu/"><img src="https://img.shields.io/badge/Webgunea-lamochila.app-2B6A9E?style=for-the-badge" alt="Webgunea: lamochila.app"></a>
   <!--
   <a href="[APP_STORE_ESTEKA]"><img src="https://img.shields.io/badge/App_Store-Deskargatu-0D96F6?logo=appstore&amp;style=for-the-badge" alt="App Store-n eskuragarri"></a>
   -->
 </p>
 
-Android: proba itxia Google Play-n, edonorentzat irekia. iPhone: laster. Webgunean demo bat ere badago, asmatutako hiru oharrekin: [lamochila.app](https://lamochila.app/eu/).
+Android: proba irekia Google Play-n, Espainian, izena eman gabe. iPhone: laster. Webgunean demo bat ere badago, asmatutako hiru oharrekin: [lamochila.app](https://lamochila.app/eu/).
 
 <details>
 <summary>Sartu Google Play-ko betan</summary>
 
-Aplikazioa proba itxian dago Google Play-n, eta edonor sar daiteke:
+Aplikazioa proba irekian dago Google Play-n, Espainian. Edonork instalatu dezake, talderik eta izen-ematerik gabe:
 
-1. Sartu testerren taldean: [mochila-testers](https://groups.google.com/g/mochila-testers). Android mugikorrean erabiltzen duzun Google kontuarekin, sakatu taldean sartzeko botoia.
-2. Onartu proba mugikorretik edo ordenagailutik: [play.google.com/apps/testing/es.lamochila.app](https://play.google.com/apps/testing/es.lamochila.app).
-3. Instalatu aplikazioa Google Play-tik. Bere kabuz eguneratuko da.
+1. Ireki [La Mochila Google Play-n](https://play.google.com/store/apps/details?id=es.lamochila.android) zure Android mugikorrean eta instalatu. Bere kabuz eguneratzen da.
 
-Ahal baduzu, egon proban gutxienez 14 egunez eta erabili noizean behin (adibidez, itsatsi eskolako mezu bat): Google-k 12 tester eskatzen ditu 14 egunez, aplikazioa guztientzat argitaratzeko. Iruzkinak, hola@lamochila.app helbidera.
+Proba-bertsio bat da eta akatsak izan ditzake. Iruzkinak, hola@lamochila.app helbidera.
 
 </details>
 

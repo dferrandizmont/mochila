@@ -13,25 +13,23 @@ La Mochila converte os avisos do colexio na axenda da familia. Copia a mensaxe d
 ## Descargas
 
 <p>
-  <a href="https://play.google.com/apps/testing/es.lamochila.app"><img src="https://img.shields.io/badge/Google_Play-Beta-414141?logo=googleplay&amp;style=for-the-badge" alt="Beta en Google Play"></a>
+  <a href="https://play.google.com/store/apps/details?id=es.lamochila.android"><img src="https://img.shields.io/badge/Google_Play-Acceso_anticipado-414141?logo=googleplay&amp;style=for-the-badge" alt="Acceso anticipado en Google Play"></a>
   <a href="https://lamochila.app/gl/"><img src="https://img.shields.io/badge/Web-lamochila.app-2B6A9E?style=for-the-badge" alt="Web: lamochila.app"></a>
   <!--
   <a href="[LIGAZON_APP_STORE]"><img src="https://img.shields.io/badge/App_Store-Descargar-0D96F6?logo=appstore&amp;style=for-the-badge" alt="Dispoñible na App Store"></a>
   -->
 </p>
 
-Android: proba pechada en Google Play, aberta a calquera. iPhone: proximamente. Na web tamén hai unha demo con tres avisos de exemplo: [lamochila.app](https://lamochila.app/gl/).
+Android: proba aberta en Google Play, en España, sen rexistrarse. iPhone: proximamente. Na web tamén hai unha demo con tres avisos de exemplo: [lamochila.app](https://lamochila.app/gl/).
 
 <details>
 <summary>Únete á beta de Google Play</summary>
 
-A app está en proba pechada en Google Play e calquera pode apuntarse:
+A app está en proba aberta en Google Play en España. Calquera pode instalala, sen grupo nin rexistro:
 
-1. Únete ao grupo de testers: [mochila-testers](https://groups.google.com/g/mochila-testers). Coa conta de Google que usas no móbil Android, preme «Unirse ao grupo».
-2. Acepta a proba desde o móbil ou o ordenador: [play.google.com/apps/testing/es.lamochila.app](https://play.google.com/apps/testing/es.lamochila.app).
-3. Instala a app desde Google Play. Actualizarase soa.
+1. Abre [La Mochila en Google Play](https://play.google.com/store/apps/details?id=es.lamochila.android) no teu móbil Android e instálaa. Actualízase soa.
 
-Se podes, quédate na proba polo menos 14 días e úsaa de cando en vez (por exemplo, pega unha mensaxe do colexio): Google esixe 12 testers durante 14 días para publicala para todo o mundo. Os comentarios, a hola@lamochila.app.
+É unha versión de proba e pode ter fallos. Os comentarios, a hola@lamochila.app.
 
 </details>
 
