@@ -91,11 +91,11 @@ Photos and PDFs are read on your phone and only the text is sent; if you choose 
 
 ## What's new
 
-**0.4.12**
+**0.4.16**
 
-- **Fewer errors.** If the server can’t take a document photo, the app reads its text instead. If it is briefly busy, the app waits two seconds and tries again by itself.
-- **Paused reading, nothing lost.** If automatic reading is paused for a moment, the app keeps what you wrote and lets you add it by hand.
-- **Menus.** The import notice names the month, and the conflict question no longer shows a choice as picked before you pick one.
+- **Pilot code.** New in Settings: "I have a pilot code". If your school or its families’ association gave you one, enter it there and your family has La Mochila free forever. It needs a linked account.
+- **What the AI left aside.** After reading a message or a chat, a quiet line says how many messages the AI set aside, and you can see why.
+- **Changing account.** Nothing from the previous account carries over, and a shared PDF can be retried after a connection failure.
 
 What's new in each version (in English): [CHANGELOG.md](CHANGELOG.md).
 

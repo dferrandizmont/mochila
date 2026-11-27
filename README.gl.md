@@ -91,11 +91,11 @@ As fotos e os PDF lense no teléfono e só se envía o texto; se escolles unha l
 
 ## Novidades
 
-**0.4.12**
+**0.4.16**
 
-- **Menos erros.** Se o servidor non pode recibir a foto dun documento, a app le o seu texto. Se vai saturado un instante, espera dous segundos e volve tentalo soa.
-- **Lectura en pausa, sen perder nada.** Se a lectura automática está en pausa por un momento, a app garda o que escribiches e déixache engadilo a man.
-- **Menús.** O aviso de importación di o nome do mes e a pregunta de conflito xa non marca unha opción antes de escollela.
+- **Código do piloto.** Novidade en Axustes: «Teño un código do piloto». Se a túa escola ou a súa asociación de familias cho deu, escríbeo aí e a túa familia ten La Mochila gratis para sempre. Fai falta unha conta vinculada.
+- **O que a IA deixa á parte.** Despois de ler unha mensaxe ou un chat, unha liña discreta indica cantas mensaxes deixou á parte a IA, e podes ver por que.
+- **Cambio de conta.** Xa non se arrastran datos da conta anterior, e un PDF compartido pódese tentar de novo tras un fallo de conexión.
 
 Novidades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 

@@ -91,11 +91,11 @@ Argazkiak eta PDFak telefonoan irakurtzen dira, eta testua bakarrik bidaltzen da
 
 ## Berriak
 
-**0.4.12**
+**0.4.16**
 
-- **Errore gutxiago.** Zerbitzariak dokumentu baten argazkia jaso ezin badu, aplikazioak testua irakurtzen du. Une batez saturatuta badago, bi segundo itxaroten du eta berriro saiatzen da bere kabuz.
-- **Irakurketa pausan, ezer galdu gabe.** Irakurketa automatikoa une batez pausan badago, aplikazioak idatzitakoa gordetzen du eta eskuz gehitzen uzten dizu.
-- **Menuak.** Inportazioaren abisuak hilabetearen izena dio, eta gatazkaren galderak ez du aukerarik markatzen zuk hautatu aurretik.
+- **Pilotuaren kodea.** Berria Ezarpenetan: «Pilotuaren kodea daukat». Zure ikastetxeak edo bere familien elkarteak kode bat eman badizu, idatzi hor eta zure familiak La Mochila doan izango du betiko. Estekatutako kontu bat behar da.
+- **IAk alde batera uzten duena.** Mezu bat edo txat bat irakurri ondoren, lerro diskretu batek dio IAk zenbat mezu utzi dituen alde batera, eta zergatia ikus dezakezu.
+- **Kontuz aldatzea.** Ez dira aurreko kontuko datuak eramaten, eta partekatutako PDF bat berriro saia daiteke konexio-akats baten ondoren.
 
 Bertsio bakoitzeko berrikuntzak (ingelesez): [CHANGELOG.md](CHANGELOG.md).
 

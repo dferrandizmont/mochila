@@ -91,11 +91,11 @@ Les fotos i els PDF es llegeixen al telèfon i només se n’envia el text; si t
 
 ## Novetats
 
-**0.4.12**
+**0.4.16**
 
-- **Menys errors.** Si el servidor no pot rebre la foto d’un document, l’app en llegeix el text. Si va saturat un moment, espera dos segons i ho torna a provar sola.
-- **Lectura en pausa, sense perdre res.** Si la lectura automàtica està en pausa una estona, l’app desa el que has escrit i et deixa afegir-ho a mà.
-- **Menús.** L’avís d’importació diu el nom del mes i la pregunta de conflicte ja no marca cap opció abans que la triïs.
+- **Codi del pilot.** Novetat a Configuració: «Tinc un codi del pilot». Si la teva escola o la seva associació de famílies te n’ha donat un, escriu-lo allà i la teva família té La Mochila gratis per sempre. Cal un compte vinculat.
+- **El que la IA deixa apart.** Després de llegir un missatge o un xat, una línia discreta diu quants missatges ha deixat apart la IA, i pots veure’n el motiu.
+- **Canvi de compte.** Ja no s’arrosseguen dades del compte anterior, i un PDF compartit es pot reintentar després d’un error de connexió.
 
 Novetats de cada versió (en anglès): [CHANGELOG.md](CHANGELOG.md).
 

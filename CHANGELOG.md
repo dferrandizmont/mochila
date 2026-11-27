@@ -15,6 +15,38 @@ Settings.
 
 Nothing yet.
 
+## v0.4.16 (0.4.16+77) · 2026-11-27
+
+- Fixed: shared school documents and catering menus (reading, retries, image consent, feedback copies) are dropped safely when the account or family changes, and shared files still needed by a newer import are kept.
+- Fixed: chat previews and automatic reading retries are dropped when the account or family session changes. Chat progress and processed-message history belong to the account that saved them.
+- Fixed: a shared PDF can be retried after a connection failure without sharing it again.
+- Fixed: "Try again" keeps your choice to read a document as a message or process a duplicate anyway.
+- Fixed: the app removes the temporary copy of a shared PDF rejected for having too much text.
+- Settings has a new "I have a pilot code" entry. If your school or its families’ association gave you a pilot code, type it there and your family has La Mochila free forever. It needs a linked account and full access. The code is checked once and never saved on the phone, and the app says plainly when a code is not valid or how long to wait before trying again. Activations are limited per account and per network, and removing a family’s mark applies to the adults of that family.
+- After reading a message or a chat, the review shows a quiet line such as "The AI set aside 3 messages" when some of them needed nothing from you. Tap it to see why (thank-yous, family questions, chat); it shows only counts, never the messages, and it goes once you have dealt with every card of that import (it stays after an import that found nothing) and on the next import or when you change account. Available in all five languages.
+- Fixed overstated counts of messages the AI set aside in shared text.
+
+## v0.4.15 (0.4.15+76) · 2026-11-26
+
+- The Illustrated style thumbnail in home-screen widget settings shows the full scene on phones and tablets.
+- The welcome screen lets returning users sign in directly and open their existing family.
+- If sign-in was interrupted, the app returns to the welcome screen, even if you closed it before choosing a sign-in provider. If the chosen account has no family yet, you can choose another account or start a new family.
+- Today and Week load school and item data with fewer database reads.
+- The mobile app stays responsive while preparing large WhatsApp chat exports.
+- Item edits, completion changes and trip attendance changes return the saved version even when another adult changes the item immediately afterwards.
+- The Android download is a little smaller (about 0.4 MB): the launcher icons, the splash screen and the widget previews are stored more compactly, and look the same.
+
+## v0.4.14 (0.4.14+75) · 2026-11-23
+
+- The welcome demo now shows the result with the same review cards you see in the app, for a fixed example message that also includes a permission slip. It still makes no call to the server, uses none of your readings and saves nothing. The first screen also says that nothing is saved until you confirm it.
+- Without an account, after you have saved three items from imports, Today shows a quiet card: if you change phones, link a free Google or Apple account so you do not lose your family. Close it once and it never comes back (if closing could not be saved, the card stays so you can try again); it is not shown to people who already have an account or to adults with limited access.
+
+## v0.4.13 (0.4.13+74) · 2026-11-23
+
+- Android now installs as a new app, `es.lamochila.android`, from a new Google Play listing; the old Play app stops getting updates. Signing in with Google brings the family data back, but data kept only in guest mode does not move across: link a Google account in the old app first.
+- If your version of La Mochila is too old to work with the server, the app now explains how to update and keeps sign-out, data export and account deletion available.
+- Menus: the day editor now says when a day already has the maximum of 8 dishes.
+
 ## v0.4.12 (0.4.12+73) · 2026-11-21
 
 - Document photos: if the server cannot take the image, the app now reads the document's text instead of showing an error. When automatic reading is paused for a moment, the app keeps what you wrote and lets you add it by hand.
