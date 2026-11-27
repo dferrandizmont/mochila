@@ -91,11 +91,11 @@ Les fotos i els PDF es llegeixen al telèfon i només se n’envia el text; si t
 
 ## Novetats
 
-**0.4.16**
+**0.4.17**
 
-- **Codi del pilot.** Novetat a Configuració: «Tinc un codi del pilot». Si la teva escola o la seva associació de famílies te n’ha donat un, escriu-lo allà i la teva família té La Mochila gratis per sempre. Cal un compte vinculat.
-- **El que la IA deixa apart.** Després de llegir un missatge o un xat, una línia discreta diu quants missatges ha deixat apart la IA, i pots veure’n el motiu.
-- **Canvi de compte.** Ja no s’arrosseguen dades del compte anterior, i un PDF compartit es pot reintentar després d’un error de connexió.
+- **Inici de sessió arreglat.** El botó d’iniciar sessió de la pantalla «No hem pogut verificar aquest mòbil» funciona sempre.
+- **Sense res per apuntar.** La línia que compta els missatges sense res per apuntar ja compta bé, amb un text neutre, i és més fàcil de tocar.
+- **Accés limitat.** Les persones adultes amb accés limitat veuen per què no poden fer servir un codi del pilot, sense enviar-lo.
 
 Novetats de cada versió (en anglès): [CHANGELOG.md](CHANGELOG.md).
 

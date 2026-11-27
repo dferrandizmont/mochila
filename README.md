@@ -91,11 +91,11 @@ Photos and PDFs are read on your phone and only the text is sent; if you choose 
 
 ## What's new
 
-**0.4.16**
+**0.4.17**
 
-- **Pilot code.** New in Settings: "I have a pilot code". If your school or its families’ association gave you one, enter it there and your family has La Mochila free forever. It needs a linked account.
-- **What the AI left aside.** After reading a message or a chat, a quiet line says how many messages the AI set aside, and you can see why.
-- **Changing account.** Nothing from the previous account carries over, and a shared PDF can be retried after a connection failure.
+- **Sign-in fixed.** The sign-in button on the "We couldn’t verify this phone" screen works every time.
+- **Nothing to note.** The line that counts messages with nothing to note is now accurate, uses neutral wording and is easier to tap.
+- **Limited access.** Adults with limited access see why they cannot use a pilot code, without sending it.
 
 What's new in each version (in English): [CHANGELOG.md](CHANGELOG.md).
 

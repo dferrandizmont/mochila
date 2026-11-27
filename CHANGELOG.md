@@ -15,6 +15,18 @@ Settings.
 
 Nothing yet.
 
+## v0.4.17 (0.4.17+78) · 2026-11-27
+
+- Fixed the sign-in button on the “couldn’t verify this device” and network-limit screens, which could fail silently.
+- Website: the first screen now shows the app's "Today" screen in a phone, the main button and the Google Play badge (no scrolling needed on a desktop screen), and the sentence is the page heading. The top menu has a "Try it" button, and phones get a fixed "Get it on Android" bar that hides when the install section is on screen.
+- Website: the headline no longer leaves gaps while it is highlighted, the phone frames show the screen colour while images load, the QR code only appears on wide screens used with a mouse, the focus ring no longer touches the "Early access" label, and secondary text takes a tint of the chosen colour range.
+- Fixed: the line under the review cards that counts messages with nothing to note could include a message that produced proposals.
+- Changed: that line now reads "N messages with nothing to note" (neutral wording in every language, instead of "the AI set aside"), and its folded row is easier to tap and read.
+- Privacy policy 1.15 (website, all languages): explains what redeeming a pilot code keeps and for how long. The code is never stored. To limit redemptions, the server keeps keyed fingerprints (HMAC) of the user identifier, the verified email and the IP address for 7 days, or 30 days for the adults of a family whose mark is removed, even after the account is deleted.
+- Fixed: adults with limited access see an explanation without sending a pilot code for redemption.
+- The admin dashboard's "Uso de IA y gasto" view has a new chart of imports and spend by kind of reading (message, chat export, menu, timetable, school calendar, activities) per day, with a switch between imports and spend, a legend with each kind's total for the chosen period and a table of the current month by kind. It reads only the existing global counters.
+- Owner panel (/admin): redesigned with the new «Mochila» look (cream page, floating sidebar, pastel indicator cards), panels of the same height in aligned rows with one spacing scale, a header with the period and the test switch, and clearer labels. The chart by kind of reading now says it only counts readings with a recorded kind (earlier ones have none), and the imports chart says whether test families are in.
+
 ## v0.4.16 (0.4.16+77) · 2026-11-27
 
 - Fixed: shared school documents and catering menus (reading, retries, image consent, feedback copies) are dropped safely when the account or family changes, and shared files still needed by a newer import are kept.

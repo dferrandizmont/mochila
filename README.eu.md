@@ -91,11 +91,11 @@ Argazkiak eta PDFak telefonoan irakurtzen dira, eta testua bakarrik bidaltzen da
 
 ## Berriak
 
-**0.4.16**
+**0.4.17**
 
-- **Pilotuaren kodea.** Berria Ezarpenetan: «Pilotuaren kodea daukat». Zure ikastetxeak edo bere familien elkarteak kode bat eman badizu, idatzi hor eta zure familiak La Mochila doan izango du betiko. Estekatutako kontu bat behar da.
-- **IAk alde batera uzten duena.** Mezu bat edo txat bat irakurri ondoren, lerro diskretu batek dio IAk zenbat mezu utzi dituen alde batera, eta zergatia ikus dezakezu.
-- **Kontuz aldatzea.** Ez dira aurreko kontuko datuak eramaten, eta partekatutako PDF bat berriro saia daiteke konexio-akats baten ondoren.
+- **Saio-hasiera konponduta.** «Ezin izan dugu telefono hau egiaztatu» pantailako saioa hasteko botoiak beti funtzionatzen du.
+- **Ezer apuntatzekorik gabe.** Ezer apuntatzekorik gabeko mezuak zenbatzen dituen lerroak ondo zenbatzen du orain, testu neutro batekin, eta errazagoa da sakatzea.
+- **Sarbide mugatua.** Sarbide mugatua duten helduek ikusten dute zergatik ezin duten pilotuaren kodea erabili, bidali gabe.
 
 Bertsio bakoitzeko berrikuntzak (ingelesez): [CHANGELOG.md](CHANGELOG.md).
 

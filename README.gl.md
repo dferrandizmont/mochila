@@ -91,11 +91,11 @@ As fotos e os PDF lense no teléfono e só se envía o texto; se escolles unha l
 
 ## Novidades
 
-**0.4.16**
+**0.4.17**
 
-- **Código do piloto.** Novidade en Axustes: «Teño un código do piloto». Se a túa escola ou a súa asociación de familias cho deu, escríbeo aí e a túa familia ten La Mochila gratis para sempre. Fai falta unha conta vinculada.
-- **O que a IA deixa á parte.** Despois de ler unha mensaxe ou un chat, unha liña discreta indica cantas mensaxes deixou á parte a IA, e podes ver por que.
-- **Cambio de conta.** Xa non se arrastran datos da conta anterior, e un PDF compartido pódese tentar de novo tras un fallo de conexión.
+- **Inicio de sesión arranxado.** O botón de iniciar sesión da pantalla «Non puidemos verificar este teléfono» funciona sempre.
+- **Sen nada que apuntar.** A liña que conta as mensaxes sen nada que apuntar xa conta ben, cun texto neutro, e é máis doada de tocar.
+- **Acceso limitado.** As persoas adultas con acceso limitado ven por que non poden usar un código do piloto, sen envialo.
 
 Novidades de cada versión (en inglés): [CHANGELOG.md](CHANGELOG.md).
 
